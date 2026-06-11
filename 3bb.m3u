@@ -6,9 +6,9 @@
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 
-#EXTINF:-1 tvg-id="beIN-Sports-1-TH" tvg-name="beIN Sports 1 TH" group-title="AIS Play",beIN Sports 1 TH
+#EXTINF:-1 tvg-id="Discovery-Channel" tvg-name="Discovery Channel" group-title="AIS Play",Discovery Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+#KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
