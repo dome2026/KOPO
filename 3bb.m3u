@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3BB-101" tvg-name="3BB Channel 101" group-title="3BB IPTV",3BB Channel 101
+#EXTINF:-1 tvg-id="3BB-101" tvg-name="3BB Channel 101" group-title="3BB IPTV",3BB Asian 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
