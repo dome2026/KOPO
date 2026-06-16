@@ -4,6 +4,9 @@ http://tvmate.icu:8080/3KWB7j/898085/46792
 #EXTINF:-1 tvg-id="FOXSports1B.us" tvg-name="FOX Sports 1 (B)" tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FS1.png?raw=true" group-title="Sports",FOX Sports 1 (B)
 http://tvmate.icu:8080/46642666/41089921/46792
 
+#EXTINF:-1 tvg-id="RTB_GO" tvg-name="RTB GO" tvg-logo="https://www.rtbgo.bn/assets/images/rtbgo-logo.png" group-title="Entertainment", RTB GO
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 A" tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN1.png?raw=true" group-title="Sports",CA: TSN 1 A
 http://vwokddfcbb.top:8080/VIP01161755891301578/d3eedae9ce23/5508
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2 A" tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN2.png?raw=true" group-title="Sports",CA: TSN 2 A
