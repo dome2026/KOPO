@@ -20,8 +20,6 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/501/501.mpd
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-#EXTM3U
-
 #EXTINF:-1 tvg-id="tsn1" tvg-name="TSN 1",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 
