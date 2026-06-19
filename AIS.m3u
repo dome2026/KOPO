@@ -1,0 +1,508 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/nbt20c7f4635ea97720.png",NBT
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/ttbs.png",TBS
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/B0014.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/altv.png",ALTV4
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0085/HLS/V0085.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/52f0aca270a6c90a4.png",5HD
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/HLS/B0007.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/tsports7.png",Tsports
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/HLS/B0129.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tptv7a172e4deabbaad2.png",TPTV
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0048/HLS/V0048.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tnn16.png",TNN
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/jkn.png",JKN18
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0010/HLS/B0010.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/nation31160906c1c86ac3.png",Nation
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/B0021.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/workpoint.png",Workpoint
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/t2u.png",true4U
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/HLS/B0054.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/gmm.png",GMM25
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/HLS/B0019.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/8dafdbb164b408551.png",CH8
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/HLS/B0006.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/mono231135edc3539cfa.png",MONO29
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0016/HLS/B0016.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/mcot.png",MCOTHD
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/HLS/B0008.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/one628d23a090bacd5e.png",one31
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/thairus.png",ไทยรัฐทีวี
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/3dfd3ce20098009bd.png",3HD
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0003/HLS/B0003.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/amarind687c2dc67229289.png",Amarin
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/76a8ca7cfcc8b765c.png",7HD
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/pptve2185c44ded3faa9.png",PPTVHD
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/vtv.png",VTV
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0026/HLS/V0026.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/a4f2e01d45b2227caffbc4ea0d73ea74.png",มังกร
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0159/HLS/V0159.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/202ad32233bc4801fab75a23bb7066f3.png",KhongDeeThailand
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/HLS/V0154.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/thainee.png",Thainess
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/V0155.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tv5.png",TV5Monde
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0141/HLS/V0141.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/mvtv.png",MVTV
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0090/HLS/V0090.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/medietv.png",MediaTV
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0062/HLS/V0062.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/doonee.png",@TV
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0039/HLS/V0039.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tvb-thai.png",TVBThai
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0095/HLS/V0095.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/rama.png",RAMA
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0096/HLS/V0096.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/aca3f622ea511b743aa0addb39889ea9.png",สั่นทุ่งทีวี
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0092/HLS/V0092.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/ch-empty2.png",ท๊อปไลน์
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0089/HLS/V0089.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/5mvl.png",MVลาว
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0094/HLS/V0094.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/thaichaiyo.png",ไทไชโย
+https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/major.png",Major
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0091/HLS/V0091.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/boome.png",Bomerong
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/cartoonclubc1d1a968212da152.png",Cartoonclub
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/HLS/V0100.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/7f78610ca3a46c5d6491964156756fa3.png",สำรวจโลก
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/mysci.png",MySCI
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/animalshow.png",AnimalShow
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png",NHK
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",RTDocumentary
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/HLS/V0106.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png",CCTV4
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0173/HLS/V0173.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CGTN.png",CGTN
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/HLS/V0174.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png",CNA
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/HLS/V0122.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png",EURO-NEWS.
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/HLS/V0119.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121",DW
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/HLS/V0121.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",FRANCE24
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/HLS/V0123.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png",arirang
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/HLS/V0177.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",NEW1
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0036/HLS/V0036.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png",ALJAZEERA
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/HLS/V0140.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png",RT
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/HLS/V0105.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVBS.png",TVBS News
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0108/HLS/V0108.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/moviehit.png",MovieHits
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tasian-more.png",Asian_More
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjExOjQ3IEFNJmhhc2hfdmFsdWU9VXczcVlJUGUxRE54WUFoTWZJNnJDZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzU1ODgx
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/trueseries.png",True Series
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/film-asia.png",TrueFilmAsia
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/thaifilm.png",ThaiFilm
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/wb.png",Warner TV
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/paramount.png",Paramount
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17
+https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjEzOjU5IEFNJmhhc2hfdmFsdWU9Vm10cnMycXgyVGNKRjlBOFd3RE5zQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzY2OTQ0
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/filmhd.png",TrueFilm
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/filmhd2.png", TrueFilm HD2
+#EXTVLCOPT:http-referrer=https://ufanance.co/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1
+http://playtv.my.id/play/truefilm2.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tvn.png",TVNHD
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17
+https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/ceime.png",Crime+Investigation
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17
+https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjM1OjA3IEFNJmhhc2hfdmFsdWU9TS8veDZwVy81T2pvNWdJZmlSc3VUQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQ6OTQ4
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/kbs.png",KBS WORLD TRUE
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17
+https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjExOjI3IEFNJmhhc2hfdmFsdWU9MGpsN3U4MGR0Q0ZUNDBGWlZuenFIQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQ2MTM5
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/food.png",FoodNetwork
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17
+https://streaming.livescorethai.net/iptv/hd-foodeng.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/bbclife.png",BBCLifestyle
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=android
+https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjEwOjE2IEFNJmhhc2hfdmFsdWU9OFBVcEdDSkRRY2kxQU5YRnEyK1pLUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg5Njk0
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/asf.png",AFN Network
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/rockenten.png",Rock Entertainment HD
+#EXTVLCOPT:http-referrer=https://wacth.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17
+https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjM5OjU0IEFNJmhhc2hfdmFsdWU9NzN1MG9JUnA0NXhGWHU4YUowNHAzUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQ5NTkx
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/rockaction.png",ROCK ACTION HD
+#EXTVLCOPT:http-referrer=https://wacth.tv
+#EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; .NET4.0C; .NET4.0E; InfoPath.3)
+https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjE0OjUwIEFNJmhhc2hfdmFsdWU9alRQM25tS0NEbDM5cjUzVkExRVpRQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM0MjAw
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/x-zyte.png",TRUE XZYTE
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#EXTVLCOPT:http-user-agent=android
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/22da2cbb8eceb51a5044f6c759b1501b.png",ปลูกปัญญา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+http://www.trueplookpanya.com/new/tv_live?var_link=720p
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/axn.png",AXN-HD
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+#EXTVLCOPT:http-user-agent=Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; .NET4.0C; .NET4.0E; InfoPath.3)
+https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/lifetime.png",Lifetime
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/3bbasiann.png",3bbasian  🇹🇭
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/3bbasian?
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/hbo.png",HBO 🇹🇭
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/hbo
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hbo-family.png",HBO Family  🇹🇭
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/hbo-family
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/hbo-hits.png",HBO Hits  🇹🇭
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/hbo-hits
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/ignature.png",HBO Signature  🇹🇭
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/hbo-signature
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/cinemax.png",Cinemax  🇹🇭
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+https://dookeela.live/live-tv/cinemax
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/ccm.png",CCM
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13
+https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43j6pf41/Fwmovie.jpg",FW Movie
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://www.inwiptv.com/player_demo.php?channel=95262
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR0kmw65/Fwseries.jpg",FW Series
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://www.inwiptv.com/player_demo.php?channel=94898
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJG0C3rB/fwcartoon.jpg",FW cartoon
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://www.inwiptv.com/player_demo.php?channel=89782
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jd2Dq6cp/Comedy.jpg",Comedy
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://www.inwiptv.com/player_demo.php?channel=89781
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/nktv.png",NKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sv1.afdc.live:9898/live/nktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/boxfilm.png",BoxFilm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvysyVxf/mw3.jpg",MovieWorld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMQYNPKz/movieworld3.jpg",MOVIE WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkPhd3xq/MW.jpg",MOVIE WORLD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/ctb.png",CTB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vip.login.in.th:1935/CTB/CTB/chunklist_w672486153.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/bbc.png",BBC EARTH
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/wild1.png",True Explorer Wild
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/global.png",Global Trekker
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/asian.png",DISCOVERY ASIA
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/history927763e869b4f1c0.png",HISTORY
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tlc.png",TLC
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/cable3e37ac2dad1099e4.png",CABLE CHANNEL 37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2b6YE.png",DISCOVERY DMAX
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/uk-dmax.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/DISCOVERY_HISTORY.png",DISCOVERY HISTORY
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",DISCOVERY TORBO
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/cn.png",CARTOON NETWORK
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2ROXJ.png",C ITV
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/uk-citv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/01/11/lZvyTJ.png",MTV
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pic.in.th/file/picinth/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png",TVB ไทย
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",CHANNEL 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p8ZdFa.png",จอมยุทธ์
+#EXTVLCOPT:http-referrer=www.mvtv.co.th
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Fox_Soul_%28Streaming_service%29.png/revision/latest?cb=20200320215209",FOXSOUL
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0170.png",คูล ชาแนล
+https://live-iptv.cool-channel.com/cool/live-manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/10/18/pIwRxQ.png",SIAM NEWS
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/10/15/uTdoaV.png",THAI NEWS
+https://live.thaitvstream.com/play/thaikaona/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2E84E.png",MOUNCHON TV
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2UIQZ.png",NK MOVIES
+https://sv1.afdc.live:9898/live/nktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2023/10/04/ddBVCou.jpeg",TVPHET
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtBpRq.jpg",เชียงราย
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2QbCa.png",LOVE NATURE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARY
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/28/0495d070-2012-11ec-9629-7dc4459cd94d_webp_320.webp",DREAMWORKS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+http://playtv.my.id/play/dreamworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",MONO PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://dookeela.live/live-tv/mono29plus
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",test2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://dootv.streaming-fast.com/ais/iframe_ais.php?id=5e6218ceaae7314874e32c05&ip=76e1c05eb928e3b9520994d36dae10f8
