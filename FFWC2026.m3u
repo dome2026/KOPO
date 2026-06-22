@@ -4,6 +4,30 @@ http://tvmate.icu:8080/3KWB7j/898085/46792
 #EXTINF:-1 tvg-id="FOXSports1B.us" tvg-name="FOX Sports 1 (B)" tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FS1.png?raw=true" group-title="Sports",FOX Sports 1 (B)
 http://tvmate.icu:8080/46642666/41089921/46792
 
+#EXTINF:-1,TSN 4K CA
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+
+#EXTINF:-1,FUSSBALL TV1 4K HDR
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+
+#EXTINF:-1,ITV 1
+http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120268.ts
+
+#EXTINF:-1,NOW SPORTS 616 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
+#EXTINF:-1,TVRI SPORT
+http://103.148.44.38:8000/play/a05u/31198674.m3u8
+
+#EXTINF:-1,FUSSBALL.TV1
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+
+#EXTINF:-1,FUSSBALL.TV2
+http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
+
+#EXTINF:-1,BIG TEN NETWORK
+http://23.237.104.106:8080/USA_BTN/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 A" tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN1.png?raw=true" group-title="Sports",CA: TSN 1 A
 http://vwokddfcbb.top:8080/VIP01161755891301578/d3eedae9ce23/5508
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA: TSN 2 A" tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN2.png?raw=true" group-title="Sports",CA: TSN 2 A
