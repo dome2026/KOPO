@@ -31,7 +31,7 @@ https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
-#EXTINF:-1 tvg-uid="4526914818676a3656ab0528818139af" data-source="Sportzx" tvg-id="switzerlandvsalgeria0400foxsportsaq" tvg-logo="" ,FOX SPORTS 1 (MPD)
+#EXTINF:-1 tvg-uid="4526914818676a3656ab0528818139af" data-source="Sportzx" tvg-id="switzerlandvsalgeria0400foxsportsaq" tvg-logo="" ,FOX SPORTS AQ (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/fqlhwefqej/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd
