@@ -51,6 +51,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
+#EXTINF:-1 tvg-logo="",CAZE TV 1 FHD (MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="",CAZE TV 2 FHD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
