@@ -1,119 +1,119 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",FOX ONE 4K HDR
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FOX-ONE.png?raw=true",FOX ONE 4K HDR
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/fox4k-usa.m3u8
 
-#EXTINF:-1 tvg-logo="",FOX ONE
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FOX-ONE.png?raw=true",FOX ONE
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/fox-xyz-waUvqaAAC.m3u8
 
-#EXTINF:-1 tvg-logo="",BBC
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/BBC.png?raw=true",BBC
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-logo="",TSN 1
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN1.png?raw=true",TSN 1
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-logo="",TSN 4K
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN4.png?raw=true",TSN 4K
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-logo="",beIN MAX 4K (Arabic)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/beIN%20SPORT%204K%20HDR.png?raw=true",beIN MAX 4K HDR (Arabic)
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/bein4k-xyz-waUvqaAACr.m3u8
 
-#EXTINF:-1 tvg-logo="",FUSSBALLTV.1 4K
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FBTV1.png?raw=true",FUSSBALLTV.1 4K
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/fussballtv1uhd-de.m3u8
 
-#EXTINF:-1 tvg-logo="",TSN 1 (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN1.png?raw=true",TSN 1 (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="",TSN 2 (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN2.png?raw=true",TSN 2 (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,TSN 4 (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN4.png?raw=true" ,TSN 4 (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,TSN 5 (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN5.png?raw=true" ,TSN 5 (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg",ITV (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/ITV1.png?raw=true",ITV (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg",FOX ONE (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FOX-ONE.png?raw=true",FOX ONE (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg",M6 FRANCE (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/M6.png?raw=true",M6 FRANCE (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec
 https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg",WC TV (MPD)
+#EXTINF:-1 tvg-logo="",WC TV (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" ,FOX ONE 4K (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FOX-ONE.png?raw=true" ,FOX ONE 4K (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ds6pjm8gzg/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="",CTV SPORTS FHD (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/CTV.png?raw=true",CTV SPORTS FHD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="",D Sports FHD (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/DSports.png?raw=true",D Sports FHD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,CAZE TV 1 FHD (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/CazeTV.png?raw=true" ,CAZE TV 1 FHD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,CAZE TV 2 FHD (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/CazeTV.png?raw=true" ,CAZE TV 2 FHD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="",FUSSBALL TV1 4K (MPD)
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FBTV1.png?raw=true" group-title="",FUSSBALL TV1 4K (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="",FUSSBALL TV2 4K
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FBTV2.png?raw=true" group-title="",FUSSBALL TV2 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
@@ -123,28 +123,22 @@ http://tvmate.icu:8080/3KWB7j/898085/46792
 #EXTINF:-1 tvg-id="FOXSports1B.us" tvg-name="FOX Sports 1 (B)" tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FS1.png?raw=true" group-title="Sports",FOX Sports 1 (B)
 http://tvmate.icu:8080/46642666/41089921/46792
 
-#EXTINF:-1,TSN 4K CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
-
-#EXTINF:-1,FUSSBALL TV1 4K HDR
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-
-#EXTINF:-1,ITV 1
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/ITV1.png?raw=true",ITV 1
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120268.ts
 
-#EXTINF:-1,NOW SPORTS 616 4K
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/now_4K_616.png?raw=true",NOW SPORTS 616 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
-#EXTINF:-1,TVRI SPORT
+#EXTINF:-1 tvg-logo="",TVRI SPORT
 http://103.148.44.38:8000/play/a05u/31198674.m3u8
 
-#EXTINF:-1,FUSSBALL.TV1
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FBTV1.png?raw=true",FUSSBALL.TV1
 http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
-#EXTINF:-1,FUSSBALL.TV2
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FBTV2.png?raw=true",FUSSBALL.TV2
 http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 
-#EXTINF:-1,BIG TEN NETWORK
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/Big_Ten_Network.png?raw=true",BIG TEN NETWORK
 http://23.237.104.106:8080/USA_BTN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA: TSN 1 A" tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN1.png?raw=true" group-title="Sports",CA: TSN 1 A
