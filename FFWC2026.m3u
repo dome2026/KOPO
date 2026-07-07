@@ -73,8 +73,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b788
 
 #EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FS1.png?raw=true" ,FOX SPORTS1 (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/fuwcrk6xpp/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/M6.png?raw=true",M6 FRANCE (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
