@@ -3,31 +3,25 @@
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://inproviszon.st/fox4k-usa.m3u8
+https://pacquiao.inproviszon.st/fox4k-usa.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FOX-ONE.png?raw=true",FOX ONE
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FOX-ONE.png?raw=true",FOX
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://inproviszon.st/fox-xyz-waUvqaAAC.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/BBC.png?raw=true",BBC
-#EXTVLCOPT:http-referrer=https://xyzstreams.st
-#EXTVLCOPT:http-origin=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8
+https://pacquiao.inproviszon.st/fox-usa.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN1.png?raw=true",TSN 1
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
+https://pacquiao.inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN4.png?raw=true",TSN 4K
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8
+https://pacquiao.inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/beIN%20SPORT%204K%20HDR.png?raw=true",beIN MAX 4K HDR (Arabic)
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
@@ -39,7 +33,7 @@ https://inproviszon.st/bein4k-xyz-waUvqaAACr.m3u8
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://inproviszon.st/fussballtv1uhd-de.m3u8
+https://pacquiao.inproviszon.st/fussballtv1uhd-de.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN1.png?raw=true",TSN 1 (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
