@@ -27,42 +27,6 @@ http://vwokddfcbb.top:8080/VIP015131758368468633/9f6004d59f80/5511
 #EXTINF:-1 tvg-id="TSN5D.ca" tvg-name="CA: TSN 5 D" tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN5.png?raw=true" group-title="Sports",CA: TSN 5 D
 http://vwokddfcbb.top:8080/VIP015131758368468633/9f6004d59f80/5512
 
-#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FOX-ONE.png?raw=true",FOX ONE 4K HDR
-#EXTVLCOPT:http-referrer=https://player.xyzstreams.st
-#EXTVLCOPT:http-origin=https://player.xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://vinix.inproviszon.st/main/secure/c31370d08a4f2ab5713f9b85c361493abf482d87cdb17147428f32fa7a37d6ca/1783777663/fox4k-usa.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FOX-ONE.png?raw=true",FOX
-#EXTVLCOPT:http-referrer=https://player.xyzstreams.st/
-#EXTVLCOPT:http-origin=https://player.xyzstreams.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://vinix.inproviszon.st/main/secure/c60f3eca4ba4ff32e4937cf4b8ca5fd31f94bf84cf2033e35b0140aef39a4f0b/1783777795/fox-xyz-waUvqaAA.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN1.png?raw=true",TSN 1
-#EXTVLCOPT:http-referrer=https://player.xyzstreams.st/
-#EXTVLCOPT:http-origin=https://player.xyzstreams.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://vinix.inproviszon.st/main/secure/248e09dfe5434a1a26221600af88347eacb65f7be6558e3c317cd3b32b76b596/1783777924/tsn1-xyz-waUvqaAACr.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN4.png?raw=true",TSN 4K
-#EXTVLCOPT:http-referrer=https://player.xyzstreams.st/
-#EXTVLCOPT:http-origin=https://player.xyzstreams.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://vinix.inproviszon.st/main/secure/26af901952b04cc673ea96b079673ff017efec6f98a0f4f1495d8da5d70d59d1/1783778000/tsn4k-xyz-waUvqaAACr.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/beIN%20SPORT%204K%20HDR.png?raw=true",beIN MAX 4K HDR (Arabic)
-#EXTVLCOPT:http-referrer=https://player.xyzstreams.st/
-#EXTVLCOPT:http-origin=https://player.xyzstreams.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://vinix.inproviszon.st/main/secure/4d9ab00791613324ce32f50622247c6006d47bbb3734ea08e3a9d07f252dc16e/1783778084/bein4k-xyz-waUvqaAAC.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/FBTV1.png?raw=true",FUSSBALLTV.1 4K
-#EXTVLCOPT:http-referrer=https://player.xyzstreams.st/
-#EXTVLCOPT:http-origin=https://player.xyzstreams.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://vinix.inproviszon.st/main/secure/0d7000fb6b8ce51901c05378e295c62fb72d9e519a09cf7c7c1dc0952c006442/1783778112/fussballtv1uhd-de.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/TSN1.png?raw=true",TSN 1 (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
