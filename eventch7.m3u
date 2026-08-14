@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",eventch7
+https://live-cdn-cf.bugaboo.tv/live_line1/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
+
+#EXTINF:-1 tvg-logo="" group-title="",
