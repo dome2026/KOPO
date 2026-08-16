@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882094.png",PL| POLSAT SPORT PREMIUM 1 HD (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=882094&extension=ts&play_token=j3zWl7mM8o
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882093.png",PL| POLSAT SPORT PREMIUM 2 HD (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=882093&extension=ts&play_token=pWQRMWtGOg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880509.png",PL| POLSAT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880509&extension=ts&play_token=CYrVu4q85w
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880369.png",PL| POLSAT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880369&extension=ts&play_token=76AZF2oFC1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880508.png",PL| POLSAT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880508&extension=ts&play_token=uvac3XNjLe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880368.png",PL| POLSAT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880368&extension=ts&play_token=zTadWNPjFO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880498.png",PL| CANAL+ PREMIUM FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880498&extension=ts&play_token=vSTT5SixB0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880358.png",PL| CANAL+ PREMIUM HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880358&extension=ts&play_token=aBnuolSfsi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880501.png",PL| CANAL+ 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880501&extension=ts&play_token=4QfvW3W9Qp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880361.png",PL| CANAL+ 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880361&extension=ts&play_token=ZbhqVdZE3B
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS1.png",PL| ELEVEN SPORTS 1 4K/UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1498959&extension=ts&play_token=70KCvV0f0L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS1.png",PL| ELEVEN SPORTS 1 4K+
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=905665&extension=ts&play_token=RL8luCw0YO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS1.png",PL| ELEVEN SPORTS 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880457&extension=ts&play_token=KSP32I04Ed
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS1.png",PL| ELEVEN SPORTS 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880317&extension=ts&play_token=qN6L4CQCUd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS2.png",PL| ELEVEN SPORTS 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880456&extension=ts&play_token=YwN7qUUXQ2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS2.png",PL| ELEVEN SPORTS 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880316&extension=ts&play_token=KUGN1wqaJC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS3.png",PL| ELEVEN SPORTS 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880455&extension=ts&play_token=MHVhOenFJZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS3.png",PL| ELEVEN SPORTS 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880315&extension=ts&play_token=oxfNbqP2K9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS4.png",PL| ELEVEN SPORTS 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880454&extension=ts&play_token=DqFTVnFKVG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS4.png",PL| ELEVEN SPORTS 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880314&extension=ts&play_token=5DOVBQ6CzI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EUROSPORT1.png",PL| EUROSPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880453&extension=ts&play_token=RHPZE8AIvg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EUROSPORT1.png",PL| EUROSPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880313&extension=ts&play_token=j9Sgp90dUz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EUROSPORT2.png",PL| EUROSPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880452&extension=ts&play_token=uqBHkbcQB0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EUROSPORT2.png",PL| EUROSPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880312&extension=ts&play_token=IbTXeHYKpF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUS360.png",PL| CANAL+ 360 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880500&extension=ts&play_token=slXdQxfcKA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUS360.png",PL| CANAL+ 360 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880360&extension=ts&play_token=xIY6iD6twk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSNOW.png",PL| CANAL+ NOW FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880499&extension=ts&play_token=ozyLGXNCtj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSNOW.png",PL| CANAL+ NOW HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880359&extension=ts&play_token=tjUtyx49wx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT.png",PL| CANAL+ SPORT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880461&extension=ts&play_token=dLIHuPjzAp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT.png",PL| CANAL+ SPORT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880321&extension=ts&play_token=DQXQ206Dx1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT2.png",PL| CANAL+ SPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880460&extension=ts&play_token=cLJ3wP9c4D
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT2.png",PL| CANAL+ SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880320&extension=ts&play_token=tuegNelOa5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT3.png",PL| CANAL+ SPORT 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880459&extension=ts&play_token=0EQsuVjz69
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT3.png",PL| CANAL+ SPORT 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880319&extension=ts&play_token=5UtoY3lgtp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT4.png",PL| CANAL+ SPORT 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880458&extension=ts&play_token=MMibZPgnCM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT4.png",PL| CANAL+ SPORT 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880318&extension=ts&play_token=t65k1jtdd8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT5.png",PL| CANAL+ SPORT 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880406&extension=ts&play_token=8Gz7F2PHst
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT5.png",PL| CANAL+ SPORT 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880266&extension=ts&play_token=K9B1UDti8G
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png",PL| POLSAT SPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880471&extension=ts&play_token=Wa0mCQiPcr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png",PL| POLSAT SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880331&extension=ts&play_token=9j9KlfFKY0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png",PL| POLSAT SPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880470&extension=ts&play_token=TB37wE3iWU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png",PL| POLSAT SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880330&extension=ts&play_token=J9oaTr6MXj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png",PL| POLSAT SPORT 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880468&extension=ts&play_token=4t380f2xu9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png",PL| POLSAT SPORT 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880328&extension=ts&play_token=50XVa5mRIb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png",PL| POLSAT SPORT PREMIUM 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880467&extension=ts&play_token=3h6JjuVS8z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png",PL| POLSAT SPORT PREMIUM 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880327&extension=ts&play_token=nL5WTMx4mk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png",PL| POLSAT SPORT PREMIUM 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880466&extension=ts&play_token=jiLlpOYey0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png",PL| POLSAT SPORT PREMIUM 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880326&extension=ts&play_token=a30r2ix3Ue
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM3.png",PL| POLSAT SPORT PREMIUM 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880465&extension=ts&play_token=Chqkd7Y7aN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM3.png",PL| POLSAT SPORT PREMIUM 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880325&extension=ts&play_token=gBwnt94wFS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM4.png",PL| POLSAT SPORT PREMIUM 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880464&extension=ts&play_token=h9f33voSsA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM4.png",PL| POLSAT SPORT PREMIUM 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880324&extension=ts&play_token=WPO1V8RIG7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM5.png",PL| POLSAT SPORT PREMIUM 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880463&extension=ts&play_token=eqWAqRg7m8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM5.png",PL| POLSAT SPORT PREMIUM 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880323&extension=ts&play_token=rhoufpjraj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM6.png",PL| POLSAT SPORT PREMIUM 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880462&extension=ts&play_token=16E9iKnp8K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM6.png",PL| POLSAT SPORT PREMIUM 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880322&extension=ts&play_token=27xERGuX3p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTFIGHT.png",PL| POLSAT SPORT FIGHT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880469&extension=ts&play_token=7wRr8Sx3Ae
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTFIGHT.png",PL| POLSAT SPORT FIGHT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880329&extension=ts&play_token=zpO7lS2TqF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTEXTRA1.png",PL| POLSAT SPORT EXTRA 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2111293&extension=ts&play_token=5lUFY7xhUr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTEXTRA2.png",PL| POLSAT SPORT EXTRA 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2111292&extension=ts&play_token=ixTuQVheYE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTEXTRA3.png",PL| POLSAT SPORT EXTRA 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2111291&extension=ts&play_token=yv3UQ45CBD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTEXTRA4.png",PL| POLSAT SPORT EXTRA 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2111290&extension=ts&play_token=MjXjcZA7Ws
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",PL| TVP SPORT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880502&extension=ts&play_token=NbKeHoEqpw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",PL| TVP SPORT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880362&extension=ts&play_token=LoA1kaNgpD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EXTREMESPORTS.png",PL| EXTREME SPORTS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880448&extension=ts&play_token=NmmPDFeJ3s
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EXTREMESPORTS.png",PL| EXTREME SPORTS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880308&extension=ts&play_token=TTuoO9Qkcn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/GOLFCHANNEL.png",PL| GOLF CHANNEL FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880419&extension=ts&play_token=OUcgMQqklF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/GOLFCHANNEL.png",PL| GOLF CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=880279&extension=ts&play_token=7LQtwnS7Nc
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1602078.png",PL| EUROSPORT UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1602078&extension=ts&play_token=ITypu1CjZN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1602005.png",PL| EUROSPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1602005&extension=ts&play_token=Pfkkvn5uig
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1602006.png",PL| EUROSPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1602006&extension=ts&play_token=WcxM9lPBX8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1602007.png",PL| EUROSPORT 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1602007&extension=ts&play_token=NaKyiCWW7G
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1602008.png",PL| EUROSPORT 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1602008&extension=ts&play_token=2Xo1Pw0kWB
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602009.png",PL| EUROSPORT 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1602009&extension=ts&play_token=yNqFF4rGsj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602010.png",PL| EUROSPORT 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1602010&extension=ts&play_token=1lbSZj29Oc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602011.png",PL| EUROSPORT 7 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1602011&extension=ts&play_token=vnTKCmD3cD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602012.png",PL| EUROSPORT 8 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1602012&extension=ts&play_token=S8zUHvkWvO
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602013.png",PL| EUROSPORT 9 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1602013&extension=ts&play_token=szYHZ3UN2D

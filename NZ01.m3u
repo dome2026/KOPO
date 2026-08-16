@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182157.png",NZ| TVNZ 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1182157&extension=ts&play_token=hTDtFPX3o0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182156.png",NZ| TVNZ 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1182156&extension=ts&play_token=ijE5B2SQNe
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182155.png",NZ| TVNZ DUKE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1182155&extension=ts&play_token=YIigtpxSfO
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1183170.png",NZ| THREE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1183170&extension=ts&play_token=ZUZ0O7oJl3
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182154.png",NZ| CH200 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1182154&extension=ts&play_token=frsptF7nw5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182153.png",NZ| SHINE TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1182153&extension=ts&play_token=KV6ghSsmpI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182152.png",NZ| TE REO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1182152&extension=ts&play_token=qZMCw1aUVa
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182151.png",NZ| EDEN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1182151&extension=ts&play_token=IFflIgTIPU
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182150.png",NZ| PRIME HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1182150&extension=ts&play_token=5qAm3KYyxc
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182149.png",NZ| RUSH HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1182149&extension=ts&play_token=N5XdLwT0SH
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/814502.png",NZ| EDGE SPORTS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=814502&extension=ts&play_token=6BmhnnQ52R
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png",NZ| NBA TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=814501&extension=ts&play_token=Ew3GI6bv2V
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/814498.png",NZ| LFC TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=814498&extension=ts&play_token=9MHgyybA3Z
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/814497.png",NZ| MUTV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=814497&extension=ts&play_token=d8ssseezad
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521025.png",NZ| TRACK SIDE 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=521025&extension=ts&play_token=bQ4u34z1cm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521024.png",NZ| TRACK SIDE 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=521024&extension=ts&play_token=bAxxB72Mvu
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/814500.png",NZ| TAB TRACKSIDE 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=814500&extension=ts&play_token=pNUU87AFSr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/814499.png",NZ| TAB TRACKSIDE 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=814499&extension=ts&play_token=UWuqgfF1hE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521012.png",NZ| BBC EARTH HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=521012&extension=ts&play_token=V5xBE1UiKJ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521001.png",NZ| BBC WORLD NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=521001&extension=ts&play_token=wgb9AvddPV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521000.png",NZ| SKY NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=521000&extension=ts&play_token=8aoM9Yzsom
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520999.png",NZ| CNN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=520999&extension=ts&play_token=MMiyX6MTUG
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520998.png",NZ| JUICE TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=520998&extension=ts&play_token=jWT1MaeQ4U
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/WAIRARAPA-TV.png",NZ| WAIRARAPA TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=520996&extension=ts&play_token=Ioh4fNMpqN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PARLIAMENT-TV.jpeg",NZ| PARLIAMENT TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=520995&extension=ts&play_token=xB4zFzpFMI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520993.png",NZ| FIRSTLIGHT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=520993&extension=ts&play_token=VrPYTVZzF9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520992.png",NZ| TVSN SHOPPING HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=520992&extension=ts&play_token=votNSqfAr9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520991.png",NZ| AL JAZEERA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=520991&extension=ts&play_token=uDTnEVK0pl
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520990.png",NZ| TE REO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=520990&extension=ts&play_token=Tc13BP2Upg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520989.png",NZ| MAORI TELEVISION HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=520989&extension=ts&play_token=PlZOVsPZyH
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636918.png",NZ| SKY SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636918&extension=ts&play_token=9xY0fptI6g
