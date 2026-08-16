@@ -1,0 +1,581 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174533.png",U.S| A&E HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174533&extension=ts&play_token=t6jtm2K6Xn
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174535.png",U.S| ABC NEWS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174535&extension=ts&play_token=fYpORJgA0T
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174536.png",U.S| ACC NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174536&extension=ts&play_token=JtQC427H7V
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174537.png",U.S| ACCUWEATHER HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174537&extension=ts&play_token=f8BXrLGCnx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174538.png",U.S| ACTION MAX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174538&extension=ts&play_token=BOSfNYQL9H
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174539.png",U.S| ADULT SWIM HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174539&extension=ts&play_token=2c7ctyjBzZ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174540.png",U.S| AL JAZEERA ENGLISH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174540&extension=ts&play_token=NSmiyFVk71
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174541.png",U.S| AMC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174541&extension=ts&play_token=PruS7HMEcc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174542.png",U.S| AMERICA HEROES HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174542&extension=ts&play_token=NH20XthtlQ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174543.png",U.S| ANIMAL PLANET HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174543&extension=ts&play_token=eTQkBDyGrr
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174544.png",U.S| ANIMAL PLANET WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174544&extension=ts&play_token=B9hxPSeq4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174547.png",U.S| AT&T SPORTSNET SOUTHWEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174547&extension=ts&play_token=tWveADPZjc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174546.png",U.S| ASPIRE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174546&extension=ts&play_token=HYQYQykjDH
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174549.png",U.S| AWE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174549&extension=ts&play_token=oCz8Y5rXT9
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174550.png",U.S| AXS TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174550&extension=ts&play_token=gl5u7sthqh
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174551.png",U.S| BABY FIRST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174551&extension=ts&play_token=GmKtt5C2UO
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174552.png",U.S| BABY TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174552&extension=ts&play_token=7PxPXYVBkK
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174553.png",U.S| BBC AMERICA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174553&extension=ts&play_token=POqm2S4LCi
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174554.png",U.S| BBC WORLD NEWS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174554&extension=ts&play_token=3BP8g3SX1r
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174561.png",U.S| BEIN SPORTS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174561&extension=ts&play_token=11kcS4RLxs
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174601.png",U.S| COWBOY CHANNEL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174601&extension=ts&play_token=ClGYslbHYK
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174562.png",U.S| BET GOSPEL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174562&extension=ts&play_token=fNhSegipMy
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174564.png",U.S| BET HER HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174564&extension=ts&play_token=UHuI0py9Qb
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174565.png",U.S| BET JAMS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174565&extension=ts&play_token=rz8PIbTZmz
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174567.png",U.S| BIG TEN NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174567&extension=ts&play_token=F0akuFRdqq
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174568.png",U.S| BLOOMBERG HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174568&extension=ts&play_token=8VBQ3mk9G8
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174569.png",U.S| BOOMERANG HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174569&extension=ts&play_token=vPrRAcIWO0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174570.png",U.S| BOUNCE TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174570&extension=ts&play_token=8dSccfUkuy
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174571.png",U.S| BRAVO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174571&extension=ts&play_token=8JaYh4MEJX
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174572.png",U.S| BRAVO WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174572&extension=ts&play_token=S7pumsKNVu
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174573.png",U.S| BUZZR
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174573&extension=ts&play_token=3pGREcYygl
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174574.png",U.S| C-SPAN 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174574&extension=ts&play_token=ggZuZXCKP9
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174575.png",U.S| C-SPAN 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174575&extension=ts&play_token=MXMPwuB7pD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174576.png",U.S| CARTOON NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174576&extension=ts&play_token=9c7C7NbhlD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174577.png",U.S| CARTOON NETWORK WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174577&extension=ts&play_token=TE3e1XMde7
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174578.png",U.S| CBS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174578&extension=ts&play_token=FpLiYrRO1p
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174579.png",U.S| CBS NEWS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174579&extension=ts&play_token=Y1wME3sro1
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174580.png",U.S| CBS PHILADELPHIA
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174580&extension=ts&play_token=MDRznGYjxw
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174582.png",U.S| CBS SPORTS NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174582&extension=ts&play_token=vEqLMfMrUX
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174583.png",U.S| CHEDDAR BUSINESS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174583&extension=ts&play_token=bPskmYdP3p
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174584.png",U.S| CHEDDAR NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174584&extension=ts&play_token=tQxAMTdQKC
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174586.png",U.S| CINEMAX EAST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174586&extension=ts&play_token=0hTZfN3IT0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174587.png",U.S| CINEMAX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174587&extension=ts&play_token=WVuzRdHjax
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174588.png",U.S| CINEMAX MOREMAX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174588&extension=ts&play_token=tgh2j8xWM5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174590.png",U.S| CINEMAX WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174590&extension=ts&play_token=YRsPxbQb0F
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/864583.png",U.S| CIRCLE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=864583&extension=ts&play_token=NOlhcf0LrE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174592.png",U.S| CMT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174592&extension=ts&play_token=oB2Ar5faCT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174593.png",U.S| CNBC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174593&extension=ts&play_token=QSa50cLqhB
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174594.png",U.S| CNBC WORLD HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174594&extension=ts&play_token=2ROw9fwHco
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174595.png",U.S| CNN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174595&extension=ts&play_token=1amHX2ESPZ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174596.png",U.S| COMEDY CENTRAL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174596&extension=ts&play_token=fkUk0crRQd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174597.png",U.S| COMEDY TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174597&extension=ts&play_token=98jGbST2J8
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174598.png",U.S| COMET HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174598&extension=ts&play_token=hnj3ohwGtL
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174599.png",U.S| COOKING CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174599&extension=ts&play_token=CwvHIzd0iV
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174600.png",U.S| COURT TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174600&extension=ts&play_token=feS6RXbvpP
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174602.png",U.S| COZI
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174602&extension=ts&play_token=MgvJgtiMF8
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174603.png",U.S| CRIME & INVESTIGATION HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174603&extension=ts&play_token=sT8lurhUdp
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174604.png",U.S| NBC BAY AREA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174604&extension=ts&play_token=GD1ArkE5qJ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174605.png",U.S| CSN BOSTON HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174605&extension=ts&play_token=XY6sC8tHYH
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174606.png",U.S| CSN CALIFORNIA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174606&extension=ts&play_token=nef9FaVfXG
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174607.png",U.S| CSN CHICAGO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174607&extension=ts&play_token=KErQ16AFHG
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174608.png",U.S| CSN CHICAGO PLUS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174608&extension=ts&play_token=pkn7EgjqcV
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174609.png",U.S| CSN PHILADELPHIA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174609&extension=ts&play_token=oe2a8Y6zTx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174610.png",U.S| CSN PHILADELPHIA PLUS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174610&extension=ts&play_token=IZA0AkaMHs
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174611.png",U.S| CSN WASHINGTON HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174611&extension=ts&play_token=KsTrV1gv1m
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174613.png",U.S| CW ATLANTA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174613&extension=ts&play_token=nvWlezaLHQ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174615.png",U.S| CW PHILADELPHIA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174615&extension=ts&play_token=td57mVsiI0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174616.png",U.S| CW PITTSBURGH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174616&extension=ts&play_token=tdgiPuEkEz
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174617.png",U.S| CW SACRAMENTO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174617&extension=ts&play_token=lIVug3GDKw
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174618.png",U.S| CW SAN FRANCISCO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174618&extension=ts&play_token=daK3RdRXni
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174619.png",U.S| CW SEATTLE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174619&extension=ts&play_token=B1TTiud5di
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174620.png",U.S| CW TAMPA BAY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174620&extension=ts&play_token=9SBqXe8gCY
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174622.png",U.S| DESTINATION AMERICA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174622&extension=ts&play_token=tpj6Mvwtss
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174624.png",U.S| DISCOVERY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174624&extension=ts&play_token=MUcOODB4aT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174625.png",U.S| DISCOVERY LIFE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174625&extension=ts&play_token=TwkhymDnyc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174626.png",U.S| DISCOVERY SCIENCE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174626&extension=ts&play_token=AEbcODSGRM
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174627.png",U.S| DISCOVERY WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174627&extension=ts&play_token=Yb1xJpXQLz
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174628.png",U.S| DISNEY CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174628&extension=ts&play_token=Lprfi8amqR
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174629.png",U.S| DISNEY CHANNEL WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174629&extension=ts&play_token=eqSmQXf9M7
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174630.png",U.S| DISNEY JR HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174630&extension=ts&play_token=VkIoIOK6NC
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174631.png",U.S| DISNEY JR WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174631&extension=ts&play_token=8ougzVS0t9
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174632.png",U.S| DISNEY XD HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174632&extension=ts&play_token=Oz1oUITxF5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174633.png",U.S| DISNEY XD WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174633&extension=ts&play_token=jKXGzppLz9
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174635.png",U.S| DOG TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174635&extension=ts&play_token=qILE0ma6Ec
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174636.png",U.S| E! ENTERTAINMENT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174636&extension=ts&play_token=oO8w7q9OcA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/E_-ENTERTAINMENT-WEST.png",U.S| E! ENTERTAINMENT WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174637&extension=ts&play_token=e65nBCGNv5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174638.png",U.S| ELEVEN SPORTS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174638&extension=ts&play_token=vdoazaES4z
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174639.png",U.S| EL REY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174639&extension=ts&play_token=G80AohG8ZG
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174640.png",U.S| EPIX 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174640&extension=ts&play_token=wPFMngzMog
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174641.png",U.S| EPIX DRIVE IN
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174641&extension=ts&play_token=1EAsdrCZpl
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174642.png",U.S| EPIX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174642&extension=ts&play_token=OFYU3SSy0I
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174643.png",U.S| EPIX HITS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174643&extension=ts&play_token=KLOq0TuYAc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174644.png",U.S| ESPN 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174644&extension=ts&play_token=Wvq6pdckoA
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174654.png",U.S| ESPN SEC NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174654&extension=ts&play_token=EH5yjOEDrH
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174655.png",U.S| ESPN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174655&extension=ts&play_token=YNQvBsgKZx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174656.png",U.S| ESPN NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174656&extension=ts&play_token=7CykAVDYrm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174657.png",U.S| ESPN U
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174657&extension=ts&play_token=Xi1cgWTy65
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174658.png",U.S| FIGHT NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174658&extension=ts&play_token=cnXbi1sDS2
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174659.png",U.S| FOOD NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174659&extension=ts&play_token=qgoXu2hkAj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174660.png",U.S| FOOD NETWORK WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174660&extension=ts&play_token=hYgJiSr6Gj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174661.png",U.S| FOX 29 (WTXF) Philadelphia
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174661&extension=ts&play_token=51hX9VC0PE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174662.png",U.S| FOX 35 SALINAS CA (KCBA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174662&extension=ts&play_token=GyiBMEagkT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174663.png",U.S| FOX BUSINESS NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174663&extension=ts&play_token=piBDVzo9xW
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174664.png",U.S| FOX 61 HARTFORD (WTIC)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174664&extension=ts&play_token=Tzr6chbZQE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174665.png",U.S| FOX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174665&extension=ts&play_token=U7xu3o2fk8
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174666.png",U.S| FOX KANSAS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174666&extension=ts&play_token=OhgnYIfUr7
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174667.png",U.S| FOX NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174667&extension=ts&play_token=ewpjlTzC41
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174668.png",U.S| FOX SOCCER PLUS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174668&extension=ts&play_token=OH5XSfj0LD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174669.png",U.S| FOX SPORTS 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174669&extension=ts&play_token=BCRgjxctAD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174670.png",U.S| FOX SPORTS 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174670&extension=ts&play_token=le3jm9w2cw
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174673.png",U.S| FOX SPORTS DETROIT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174673&extension=ts&play_token=rxPRzlqLkd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174674.png",U.S| FOX SPORTS FLORIDA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174674&extension=ts&play_token=wZLO4fU8fH
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174675.png",U.S| FOX SPORTS MIDWEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174675&extension=ts&play_token=4ocYbeFTz5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174676.png",U.S| FOX SPORTS NORTH HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174676&extension=ts&play_token=MxWxyAwZ6U
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174677.png",U.S| FOX SPORTS OHIO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174677&extension=ts&play_token=fFwXnbu7vM
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174681.png",U.S| FOX SPORTS SAN DIEGO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174681&extension=ts&play_token=70MJ4nbgoL
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174682.png",U.S| FOX SPORTS SOUTHEAST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174682&extension=ts&play_token=fFh2x6kJ1H
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174683.png",U.S| FOX SPORTS SOUTH HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174683&extension=ts&play_token=c3zX7kZnKd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174689.png",U.S| FOX SPORTS WISCONSIN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174689&extension=ts&play_token=9pxTYIDWse
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174690.png",U.S| FOX SPORTS YES HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174690&extension=ts&play_token=GO8dEn6d1o
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174693.png",U.S| FUBO SPORTS NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174693&extension=ts&play_token=maKF94yACq
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174695.png",U.S| FUSE MUSIC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174695&extension=ts&play_token=iyGwteEdTy
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174697.png",U.S| FX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174697&extension=ts&play_token=ParP9hpl5D
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174698.png",U.S| FXM HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174698&extension=ts&play_token=VCCoKtyEml
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174699.png",U.S| FX WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174699&extension=ts&play_token=z8foTZ6R7P
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174701.png",U.S| FXX WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174701&extension=ts&play_token=649HFEHn1k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174702.png",U.S| FYI HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174702&extension=ts&play_token=XE0Ojeh32Q
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174703.png",U.S| GAME TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174703&extension=ts&play_token=sx4MtszaBE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174704.png",U.S| GET TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174704&extension=ts&play_token=DBw3f3WIBj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174706.png",U.S| GOLF CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174706&extension=ts&play_token=werHtmOO0o
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174708.png",U.S| GREAT AMERICAN COUNTRY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174708&extension=ts&play_token=USEjOhFI7y
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174709.png",U.S| GRIT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174709&extension=ts&play_token=xNCZWytu4m
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174710.png",U.S| GSN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174710&extension=ts&play_token=MRQ1WfsCzH
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174711.png",U.S| HALLMARK FAMILY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174711&extension=ts&play_token=hNbeLALtpo
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174712.png",U.S| HALLMARK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174712&extension=ts&play_token=RIAaUMrnXu
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174713.png",U.S| HALLMARK M & M HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174713&extension=ts&play_token=roTVc1bebN
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174714.png",U.S| HBO 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174714&extension=ts&play_token=FVsM3mHnYM
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174715.png",U.S| HBO COMEDY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174715&extension=ts&play_token=XStIrMTMhV
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174717.png",U.S| HBO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174717&extension=ts&play_token=Z8CkROi9km
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174718.png",U.S| HBO SIGNATURE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174718&extension=ts&play_token=D26tDGfKd5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174719.png",U.S| HBO WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174719&extension=ts&play_token=uk8YEGb5sA
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174720.png",U.S| HBO ZONE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174720&extension=ts&play_token=Ivw5fVaA1w
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174721.png",U.S| HD NET MOVIES HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174721&extension=ts&play_token=AfnqLxEanx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174722.png",U.S| HEROES & ICONS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174722&extension=ts&play_token=mMx57RfM1J
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174723.png",U.S| HGTV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174723&extension=ts&play_token=X8Y7pjqYIx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174724.png",U.S| HGTV WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174724&extension=ts&play_token=yvDMdiIaFi
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174725.png",U.S| HISTORY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174725&extension=ts&play_token=A3FPbhsW7y
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174726.png",U.S| HLN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174726&extension=ts&play_token=3zhgEtT6SH
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174727.png",U.S| HUNT CHANNEL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174727&extension=ts&play_token=O6vUzyAJXU
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174728.png",U.S| ID HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174728&extension=ts&play_token=GSAJzo2P4b
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174730.png",U.S| IFC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174730&extension=ts&play_token=xW8gUsmQG3
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174731.png",U.S| INDIEPLEX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174731&extension=ts&play_token=2zJ3QjA3Te
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174732.png",U.S| INSP HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174732&extension=ts&play_token=slXnkvIu8Q
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174734.png",U.S| JUSTICE CENTRAL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174734&extension=ts&play_token=qG7M3U6Tpk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174736.png",U.S| LAW AND CRIME HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174736&extension=ts&play_token=ERDBLGuym8
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174737.png",U.S| LIFETIME HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174737&extension=ts&play_token=VS36EVKpsy
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174738.png",U.S| LIFETIME MOVIE NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174738&extension=ts&play_token=4jbiJ5m6tC
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174739.png",U.S| LIFETIME REAL WOMEN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174739&extension=ts&play_token=mOEc1X9CYs
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174740.png",U.S| LOCAL NOW HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174740&extension=ts&play_token=2tKcY9cki0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174741.png",U.S| LOGO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174741&extension=ts&play_token=WvyyHnPfK9
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174743.png",U.S| MAV TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174743&extension=ts&play_token=VOq2lGMOSE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174744.png",U.S| ME TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174744&extension=ts&play_token=H6IsxaPAHO
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174745.png",U.S| MGM HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174745&extension=ts&play_token=f3Y6H84svJ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174746.png",U.S| MILITARY HISTORY
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174746&extension=ts&play_token=7iynIzpkuh
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174747.png",U.S| MLB NETWORK
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174747&extension=ts&play_token=bfJWFXrbon
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174748.png",U.S| MLB STRIKE ZONE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174748&extension=ts&play_token=CJ9M9NS13E
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174749.png",U.S| MOREMAX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174749&extension=ts&play_token=WnxF0GnY2r
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174750.png",U.S| MOTORTREND HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174750&extension=ts&play_token=M8ThjOsugy
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174752.png",U.S| MOVIEPLEX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174752&extension=ts&play_token=CAwifpGhoQ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174753.png",U.S| MSG 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174753&extension=ts&play_token=HsWL4aEDp1
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174754.png",U.S| MSG 2 PLUS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174754&extension=ts&play_token=qmFqLqAevR
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174755.png",U.S| MSG HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174755&extension=ts&play_token=jz5P72T4l6
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174756.png",U.S| MSG PLUS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174756&extension=ts&play_token=Pp2J7r92VI
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174757.png",U.S| MSNBC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174757&extension=ts&play_token=1qnC0cfDp0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174758.png",U.S| MTV 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174758&extension=ts&play_token=YROjbwhWJm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174759.png",U.S| MTV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174759&extension=ts&play_token=sJbYvEnf1l
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174760.png",U.S| MTV LIVE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174760&extension=ts&play_token=wnEjuLWTPS
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174762.png",U.S| NAT GEO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174762&extension=ts&play_token=T6P8So8x4y
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174763.png",U.S| NAT GEO WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174763&extension=ts&play_token=p8ic7Jqkvn
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174764.png",U.S| NAT GEO WILD HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174764&extension=ts&play_token=FNFaydjej6
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174795.png",U.S| NBA TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174795&extension=ts&play_token=0dfq49kSGS
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174798.png",U.S| NBC GOLF
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174798&extension=ts&play_token=SRR9eYueg5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174799.png",U.S| NBC LOS ANGELES
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174799&extension=ts&play_token=6S7Piz6dvQ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174800.png",U.S| NBC PHILADELPHIA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174800&extension=ts&play_token=0SFXdbA5uG
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174801.png",U.S| NBC SN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174801&extension=ts&play_token=ZyRd7zyLBV
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174802.png",U.S| NECN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174802&extension=ts&play_token=U2quHmoqLy
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174803.png",U.S| NESN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174803&extension=ts&play_token=OY3AsxsPAB
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174804.png",U.S| NESN PLUS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174804&extension=ts&play_token=Hg8Acft8ot
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174805.png",U.S| NEWS 12 BROOKLYN
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174805&extension=ts&play_token=CFpBQbIHC4
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174806.png",U.S| NEWS 12 CONNECTICUT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174806&extension=ts&play_token=q3AAe21lTI
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174807.png",U.S| NEWSMAX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174807&extension=ts&play_token=xYhasbySy0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174808.png",U.S| NEWS Y HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174808&extension=ts&play_token=8j9vSsFdir
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174876.png",U.S| NHL NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174876&extension=ts&play_token=EoZBBl09DT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174891.png",U.S| NICKELODEON HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174891&extension=ts&play_token=0WEusWLjc9
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174892.png",U.S| NICKELODEON WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174892&extension=ts&play_token=PVgczQw3NC
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174894.png",U.S| NICK TOONS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174894&extension=ts&play_token=kjPXSS9rcj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174895.png",U.S| ONE AMERICAN NEWS NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174895&extension=ts&play_token=3JyNcfhdrs
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174896.png",U.S| OUTDOOR CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174896&extension=ts&play_token=1J4s7nRT4Q
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174898.png",U.S| OUTSIDE TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174898&extension=ts&play_token=rAm4VCVXTd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174899.png",U.S| OVATION HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174899&extension=ts&play_token=gkcI4oS5jT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174900.png",U.S| OWN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174900&extension=ts&play_token=CwkWLuWg5d
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174901.png",U.S| OXYGEN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174901&extension=ts&play_token=Q4QwPjKgZT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174902.png",U.S| OXYGEN WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174902&extension=ts&play_token=lSIccEQQ3r
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174910.png",U.S| PARAMOUNT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174910&extension=ts&play_token=gn5drHgrew
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174911.png",U.S| PBS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174911&extension=ts&play_token=udQkqUxRYt
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174912.png",U.S| PBS KIDS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174912&extension=ts&play_token=UOqCYYevb7
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174914.png",U.S| PIXL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174914&extension=ts&play_token=Z5EDXzi3AC
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174915.png",U.S| POP HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174915&extension=ts&play_token=O11uK6M5PH
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174916.png",U.S| PURSUIT CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174916&extension=ts&play_token=z7b8nKOqKv
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174917.png",U.S| QVC 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174917&extension=ts&play_token=FVhdES43xd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174918.png",U.S| QVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174918&extension=ts&play_token=Ih8bO3db4n
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174919.png",U.S| RED BULL TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174919&extension=ts&play_token=0cCq6DW92d
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174920.png",U.S| REELZ HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174920&extension=ts&play_token=MnwK3oHqRr
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174921.png",U.S| RETROPLEX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174921&extension=ts&play_token=G1ILY3yGJ5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174922.png",U.S| RETRO TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174922&extension=ts&play_token=L4yvtq02Dv
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174923.png",U.S| REVOLT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174923&extension=ts&play_token=xOfK1k67DT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174924.png",U.S| RFD TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174924&extension=ts&play_token=41ps5D9wwD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174927.png",U.S| SEC NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174927&extension=ts&play_token=Wxs170759j
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174928.png",U.S| SHOWTIME 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174928&extension=ts&play_token=0AcpajyKVb
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174929.png",U.S| SHOWTIME WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174929&extension=ts&play_token=L4lHN03Ljj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174930.png",U.S| SHOWTIME EAST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174930&extension=ts&play_token=YfW78abJQc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174931.png",U.S| SHOWTIME EXTREME HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174931&extension=ts&play_token=1Z7DGCBbJH
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174932.png",U.S| SHOWTIME FAMILY ZONE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174932&extension=ts&play_token=sj5hnBjIG0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174933.png",U.S| SHOWTIME HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174933&extension=ts&play_token=og05T8T0WY
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174934.png",U.S| SHOWTIME NEXT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174934&extension=ts&play_token=jCLkk1br93
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174935.png",U.S| SHOWTIME SHOWCASE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174935&extension=ts&play_token=5j9GeD6tp4
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174936.png",U.S| SHOWTIME WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174936&extension=ts&play_token=9LMpkeM5Ae
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174937.png",U.S| SHOWTIME WOMEN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174937&extension=ts&play_token=lZLNUFQIk1
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174938.png",U.S| SMITHSONIAN CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174938&extension=ts&play_token=6zUlbJwOjx
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/174939.png",U.S| SMITHSONIAN CHANNEL WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174939&extension=ts&play_token=sliyylebQ5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174940.png",U.S| SONY MOVIE CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174940&extension=ts&play_token=pnoP9A33cM
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174941.png",U.S| SPECTRUM NEWS 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174941&extension=ts&play_token=SDRKNoSZUX
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174942.png",U.S| SPORTSMAN CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174942&extension=ts&play_token=CoYaFWN80i
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174943.png",U.S| SPORTSNET LA DODGERS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174943&extension=ts&play_token=zZwcHyfrUz
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174809.png",U.S| NFL NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174809&extension=ts&play_token=UsSeNh1KUs
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174944.png",U.S| SPORTSNET LA LAKERS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174944&extension=ts&play_token=ngoyO7dFs7
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174945.png",U.S| SPORTSNET NEW YORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174945&extension=ts&play_token=eZgKC33BoC
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174949.png",U.S| STADIUM HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174949&extension=ts&play_token=x7ZkgQUnLI
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174950.png",U.S| START TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174950&extension=ts&play_token=jhTfyMrVC1
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174952.png",U.S| STARZ CINEMA EAST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174952&extension=ts&play_token=I4jYYjPLKe
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174953.png",U.S| STARZ CINEMA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174953&extension=ts&play_token=J3ef2wDPZD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174954.png",U.S| STARZ COMEDY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174954&extension=ts&play_token=ItEbh0okkG
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174955.png",U.S| STARZ EAST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174955&extension=ts&play_token=XSgw3SulUv
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174956.png",U.S| STARZ EDGE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174956&extension=ts&play_token=D0h8RozZkj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174958.png",U.S| STARZ ENCORE ACTION HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174958&extension=ts&play_token=DlW3UVEPp4
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174959.png",U.S| STARZ ENCORE BLACK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174959&extension=ts&play_token=dTJQW5rBHy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/STARZ-ENCORE-CLASSIC.png",U.S| STARZ ENCORE CLASSIC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174960&extension=ts&play_token=J477BkD00z
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174961.png",U.S| STARZ ENCORE EAST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174961&extension=ts&play_token=hk1fKqm95t
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174962.png",U.S| STARZ ENCORE FAMILY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174962&extension=ts&play_token=OmroCKvD1g
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174963.png",U.S| STARZ ENCORE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174963&extension=ts&play_token=wA5hmm05IM
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174964.png",U.S| STARZ ENCORE SUSPENSE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174964&extension=ts&play_token=PtwbaS4m1w
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174965.png",U.S| STARZ ENCORE WESTERNS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174965&extension=ts&play_token=xTBInj9Asw
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174966.png",U.S| STARZ ENCORE WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174966&extension=ts&play_token=qDWb9qYPz6
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174967.png",U.S| STARZ FAMILY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174967&extension=ts&play_token=7NMqHbmlfk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174968.png",U.S| STARZ HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174968&extension=ts&play_token=su8BAr6nzd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174969.png",U.S| STARZ KIDS & FAMILY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174969&extension=ts&play_token=5ZQ0lUYPak
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174970.png",U.S| STARZ WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174970&extension=ts&play_token=yHcGqyidnn
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174971.png",U.S| SUNDANCE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174971&extension=ts&play_token=tCoDDTzjVF
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174972.png",U.S| SYFY HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174972&extension=ts&play_token=Bd9jhYDHUE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174973.png",U.S| SYFY WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174973&extension=ts&play_token=BnvQKH3sC8
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174974.png",U.S| TASTEMADE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174974&extension=ts&play_token=NFRT0GkchX
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174975.png",U.S| TBS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174975&extension=ts&play_token=3JBbBCpNSp
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174976.png",U.S| TBS WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174976&extension=ts&play_token=GoQt0FnBm2
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174977.png",U.S| TCM HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174977&extension=ts&play_token=d94zusSoJ2
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174978.png",U.S| TEEN NICK
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174978&extension=ts&play_token=HmH1AlenAr
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174979.png",U.S| TENNIS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174979&extension=ts&play_token=4y3uLpm4U6
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174981.png",U.S| THE WEATHER CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174981&extension=ts&play_token=t6XPh9NBlk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174982.png",U.S| TLC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174982&extension=ts&play_token=Y5p5I90WHX
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174983.png",U.S| TLC WEST
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174983&extension=ts&play_token=Y2MzhnrnGn
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174985.png",U.S| TNT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174985&extension=ts&play_token=rUP86zqQ3c
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174986.png",U.S| TNT WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174986&extension=ts&play_token=gk3vAXAwrw
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174987.png",U.S| TRAVEL CHANNEL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174987&extension=ts&play_token=dZyEOHnR6a
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174988.png",U.S| TRAVEL CHANNEL WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174988&extension=ts&play_token=cxDCMrX7RG
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174989.png",U.S| TRUTV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174989&extension=ts&play_token=GY2pRCkVuq
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174990.png",U.S| TRUTV WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174990&extension=ts&play_token=pRiP6UrrSx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174991.png",U.S| TVG NETWORK
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174991&extension=ts&play_token=a9OsJep1Rx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174993.png",U.S| TV LAND HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174993&extension=ts&play_token=unIXTpaWuJ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174994.png",U.S| TV ONE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174994&extension=ts&play_token=UyBrPbiqTP
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174995.png",U.S| UFC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174995&extension=ts&play_token=LT6RXGj3K1
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174997.png",U.S| UP TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174997&extension=ts&play_token=aldo9GlQqO
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174998.png",U.S| USA NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174998&extension=ts&play_token=Iftjexsdcc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174999.png",U.S| USA NETWORK WEST HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=174999&extension=ts&play_token=HnQjkK4CCc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/175000.png",U.S| VH1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=175000&extension=ts&play_token=tL0yQS96Cl
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/175001.png",U.S| VICELAND HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=175001&extension=ts&play_token=sr591bOhRW
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/175002.png",U.S| VSIN
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=175002&extension=ts&play_token=k1797Tv1jW
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/175003.png",U.S| WE TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=175003&extension=ts&play_token=yBkTH2zc91
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/175004.png",U.S| WILLOW CRICKET
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=175004&extension=ts&play_token=ltxYo9Opyc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/175005.png",U.S| WORLD FISHING NETWORK HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=175005&extension=ts&play_token=DCvrL9QzOn
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/175006.png",U.S| WWE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=175006&extension=ts&play_token=adtMlohgen
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/175008.png",U.S| Z CLASSIC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=175008&extension=ts&play_token=7fJQAWxkel

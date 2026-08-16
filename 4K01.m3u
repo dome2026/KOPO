@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS MAIN EVENTS UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1608071&extension=ts&play_token=bHU4K6fsqX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS UHD [EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1471387&extension=ts&play_token=uCUND9gEZz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS 1 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1608068&extension=ts&play_token=6R1xOdk1Zi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS 2 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1608069&extension=ts&play_token=HhCWgE6GSi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS F1 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761500&extension=ts&play_token=7Jw7gQe1bQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS DARTS UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1471382&extension=ts&play_token=2swEryhZy0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| TNT ULTIMATE 4K+ [LIVE-EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1595637&extension=ts&play_token=oR9BdK4fUX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| TNT SPORTS UHD [EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1479591&extension=ts&play_token=hk9V8zQylW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ULTRA CINEMA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1479590&extension=ts&play_token=n3WNxm0cse
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SPORTSNET 360 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1470603&extension=ts&play_token=lOqE4fbw3p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ESPN UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1481941&extension=ts&play_token=WNy3zLSZ0a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ELEVEN SPORTS 1 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1470618&extension=ts&play_token=j5LGnDqTzB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ZIGGO SPORT UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1481950&extension=ts&play_token=m8r0Z2Aqn1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| OUR SIBERIA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1471378&extension=ts&play_token=KUAz131NZD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| V SPORT+ UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1632123&extension=ts&play_token=A9D6g12fgi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| KINO UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1470620&extension=ts&play_token=Hm1xreaVN4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4k| V SPORT UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1749221&extension=ts&play_token=Y5FiQRO2LG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4k| YES SPORT 5 UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1749220&extension=ts&play_token=AbF7FstAKw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4k| QUADRO UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1749219&extension=ts&play_token=j2aAErblbN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| DIGI UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1632122&extension=ts&play_token=CskcHX9rgY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4k| TF1 HDR/UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1640379&extension=ts&play_token=6230r8GJoj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4k| NESN UHD/4K+
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1124351&extension=ts&play_token=iHWF6IszFO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4k| IRIB HDR/UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1640385&extension=ts&play_token=Z87up16ZXz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ELEVEN PL UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948662&extension=ts&play_token=bkr7wOJHsh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ELEVEN SPORTS PL UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948661&extension=ts&play_token=Su2PwCGkEM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ELEVEN SPORTS 1 UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948660&extension=ts&play_token=QbdNzP52qx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| LA 1 UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948659&extension=ts&play_token=0sNoAaTGta
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| MOVISTAR  LALIGA 2 UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948658&extension=ts&play_token=aWqEx4AXin
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| TRAVEL XP CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948656&extension=ts&play_token=A1BtQRSlhd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| NOW SPORTS UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948655&extension=ts&play_token=0Z99yVyPDv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| TSN WEST CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948654&extension=ts&play_token=HoWdTgjk6P
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| STINGRAY NOW CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948653&extension=ts&play_token=srVjrJFya0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| STINGRAY FESTIVAL CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948652&extension=ts&play_token=CsEB16RPCK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| STINGRAY AMBIANCE CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948651&extension=ts&play_token=HZ428DyP3h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SPORTSNET ONE CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948650&extension=ts&play_token=NsFPwtsSul
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SPORTSNET CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948649&extension=ts&play_token=zUgNIHvS3m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| REVELTV CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948648&extension=ts&play_token=Rdnqxy99Id
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| INULTRA CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948647&extension=ts&play_token=mR0GfCvMen
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| TSN SENATORS CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948646&extension=ts&play_token=X76pdlSChD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| TSN LEAFS CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948645&extension=ts&play_token=Bk4XYCC5sf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SPORTSNET ONE CA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948644&extension=ts&play_token=BsVGLBqApG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ULTRA REX RU UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948643&extension=ts&play_token=6yXrJLiAfY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ULTRA CINEMA RU UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948642&extension=ts&play_token=5dKyIXEOup
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| QUADRO RU UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948641&extension=ts&play_token=JqaKjuh8lh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ODISEA ES UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948640&extension=ts&play_token=p2BwvxoEsQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| DECASA UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948639&extension=ts&play_token=xSY9NeUAdM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| OUR SIBERIA RU UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948638&extension=ts&play_token=AVLkUckIHp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| KINO RU UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948637&extension=ts&play_token=McHwkXemxj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| NOW SPORTS HK UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948636&extension=ts&play_token=affTxT1P2p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| MUSEUM MULTI UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948634&extension=ts&play_token=RpvOVC72uD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| MUSEUM UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948633&extension=ts&play_token=eE6EkN6wPU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| FRANCE 2 FR UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948631&extension=ts&play_token=sSqIcP76OG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SLOW ES UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948630&extension=ts&play_token=HwxDCzxWVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| DECASA ES UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948629&extension=ts&play_token=pNnC21TtCy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| BEIN UHD/4K NM
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948627&extension=ts&play_token=lUVsxpdSv2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| NOW SPORTS PREMIER LEAGUE UHD/4K NM
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948624&extension=ts&play_token=ZLirfO73rw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| M+ LALIGA TV UHD/4K NM
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948619&extension=ts&play_token=qjw9KmSj3L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| RAI 1 UHD/4K NM
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948617&extension=ts&play_token=gGhiTQG4ZN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| THROUGH THE EYES OF A TOURIST UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1774383&extension=ts&play_token=ao5wpetxBC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORT 4K [LIVE-EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1753227&extension=ts&play_token=GvsAVBQIaJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4k| ULTRA REX UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1640388&extension=ts&play_token=BXlDNexbHv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| LOVE NATURE UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1471386&extension=ts&play_token=EQvpyAOwto
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| MUSEUM UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1632124&extension=ts&play_token=vfCk9CAJJF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| BLOOMBERG UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1470604&extension=ts&play_token=efBdurQTU4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| CNN UHD 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1470653&extension=ts&play_token=wnIBm9H5Xf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| COCINA UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1471385&extension=ts&play_token=2HeEBpy7Rv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| DECASA UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1471384&extension=ts&play_token=JIxmPzgMdV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| LA 1 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1620282&extension=ts&play_token=NSAxgSQ0og
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| BLOOMBERG+ UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491209&extension=ts&play_token=89ERv1xe3d
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| QVC UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491207&extension=ts&play_token=6HBmBAtqkv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| ODISEA UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1471383&extension=ts&play_token=i5riBYMfDs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY PRIMAFILA 1 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491180&extension=ts&play_token=letVeTRIXL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY PRIMAFILA 2 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491181&extension=ts&play_token=tjYNkbqbIi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY PRIMAFILA 3 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491183&extension=ts&play_token=ipQGZmtqYe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY PRIMAFILA 4 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491184&extension=ts&play_token=53lFufmyNi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY PRIMAFILA 5 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491185&extension=ts&play_token=1S7FjMtyqV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY PRIMAFILA 6 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491186&extension=ts&play_token=iId6VuZZsa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY PRIMAFILA 7 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491187&extension=ts&play_token=cGMhc2s6DL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY PRIMAFILA 8 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491188&extension=ts&play_token=7bFAlWTOwR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY PRIMAFILA 9 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1491189&extension=ts&play_token=AW09pOD5un

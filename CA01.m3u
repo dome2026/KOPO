@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/tsn1.png",CA| TSN 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=20476&extension=ts&play_token=OQB62WDntu
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/tsn2.png",CA| TSN 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=20475&extension=ts&play_token=qjV5ph99sN
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/tsn3.png",CA| TSN 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=20474&extension=ts&play_token=yW2kyoq7fr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/tsn5.png",CA| TSN 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=20472&extension=ts&play_token=Zt3YNZlqwx
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/sportsnet.png",CA| SPORTSNET EAST
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=20503&extension=ts&play_token=YBZQBwh3tR
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/sportsnet.png",CA| SPORTSNET 360
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=20504&extension=ts&play_token=9BPXEjUKWp
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/sportsnet.png",CA| SPORTSNET ONE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=20502&extension=ts&play_token=QgT7NFPcyn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/sportsnet.png",CA| SPORTSNET ONTARIO
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=20501&extension=ts&play_token=ljPAvO68rn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/sportsnet.png",CA| SPORTSNET PACIFIC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=20500&extension=ts&play_token=1mZYzWbAIp

@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/763888.png",JP| NHK
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=763888&extension=ts&play_token=aLxLO2lEz9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/763884.png",JP| NHK WORLD PREMIUM
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=763884&extension=ts&play_token=jYXIWNEZWv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432238.png",JP| NIPPON TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432238&extension=ts&play_token=oJ2E06ZWwq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432237.png",JP| TV ASAHI
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432237&extension=ts&play_token=ce7EuVtU4z
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432236.png",JP| FUJI TELEVISION
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432236&extension=ts&play_token=ohEghXssZe
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432235.png",JP| TV TOKYO
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432235&extension=ts&play_token=BFpZqhqKtX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432234.png",JP| TBS TELEVISION
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432234&extension=ts&play_token=jQvHqqt46m
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432232.png",JP| TOKYO MX
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432232&extension=ts&play_token=DIvVvtGkzY
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432231.png",JP| NHK BS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432231&extension=ts&play_token=Uc0fOFlOZa
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432230.png",JP| ANIMAX
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432230&extension=ts&play_token=UCXsNWK2UA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432229.png",JP| NHK GENERAL TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432229&extension=ts&play_token=q6Zdqm34Ru
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432228.png",JP| BS TV TOKYO
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432228&extension=ts&play_token=DrHhZNK0Kd
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432227.png",JP| NHK EDUCATIONAL TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432227&extension=ts&play_token=6ofjacj06R
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432226.png",JP| BS-TBS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432226&extension=ts&play_token=eFyPJTw8tE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432225.png",JP| MTV Japan
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432225&extension=ts&play_token=hEn7lwARMT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/J-SPORTS-1-SPORTS.png",JP| J SPORTS 1 SPORTS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432224&extension=ts&play_token=u3oeP1vZRv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/J-SPORTS-1-SPORTS.png",JP| J SPORTS 2 SPORTS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432223&extension=ts&play_token=0OxMt1kSGp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/J-SPORTS-1-SPORTS.png",JP| J SPORTS 3 SPORTS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432222&extension=ts&play_token=Ly7PiC7kPW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/J-SPORTS-1-SPORTS.png",JP| J SPORTS 4 SPORTS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432221&extension=ts&play_token=pC6Iqp2MZS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WOWOW-PRIME.png",JP| WOWOW PRIME
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432220&extension=ts&play_token=5EOis8l4o8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WOWOW-LIVE.png",JP| WOWOW LIVE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432219&extension=ts&play_token=g5p4RVLqQf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WOWOW-CINEMA-MOVIES.png",JP| WOWOW CINEMA MOVIES
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432218&extension=ts&play_token=z2mq9NeNRn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432217.png",JP| STAR CHANNEL 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432217&extension=ts&play_token=6nCznLJpIq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432216.png",JP| STAR CHANNEL 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432216&extension=ts&play_token=F8Rh0404XS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432215.png",JP| STAR CHANNEL 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432215&extension=ts&play_token=WFyrYXyX3L
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/763890.png",JP| NHK WORLD HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=763890&extension=ts&play_token=a4H9m0L6rT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOKYO-NOW-HD.jpg",JP| TOKYO NOW HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=763885&extension=ts&play_token=uF76WNi4Im

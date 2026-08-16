@@ -1,0 +1,833 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RTL.png",DE| RTL HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889556&extension=ts&play_token=qlWt1kkcWS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889555.png",DE| RTL II HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889555&extension=ts&play_token=zNrhpvF4G4
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889537.png",DE| DISCOVERY HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889537&extension=ts&play_token=MzFiINJvjT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889536.png",DE| HISTORY HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889536&extension=ts&play_token=iGra45NXQx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889535.png",DE| NAT GEO WILD HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889535&extension=ts&play_token=QxHJCjuRSy
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889534.png",DE| NATIONAL GEOGRAPHIC HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889534&extension=ts&play_token=g7pv0qfdmZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889509.png",DE| SPORT 1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889509&extension=ts&play_token=226JOg7aOl
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889508.png",DE| EUROSPORT 1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889508&extension=ts&play_token=onOcawdUSE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889507.png",DE| EUROSPORT 2 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889507&extension=ts&play_token=yQz4abbV6Q
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889506.png",DE| DAZN BAR 1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889506&extension=ts&play_token=bF6xanNXmH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889505.png",DE| DAZN BAR 2 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889505&extension=ts&play_token=6oQSXTwHWz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889503.png",DE| SKY SPORT NEWS HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889503&extension=ts&play_token=zs8mnXh9bf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889504.png",DE| SKY SPORT F1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889504&extension=ts&play_token=g0C4vbGREp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889502.png",DE| SKY SPORT BUNDESLIGA 1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889502&extension=ts&play_token=6ZNBObBTNk
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984666.png",DE| SKY SPORT BUNDESLIGA HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984666&extension=ts&play_token=wxiPVuEhHD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984665.png",DE| SKY SPORT TOP EVENT HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984665&extension=ts&play_token=SHvvWBlIYa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984664.png",DE| SKY SPORT TENNIS HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984664&extension=ts&play_token=3c2OipUBIY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984663.png",DE| SKY SPORT PREMIER LEAGUE HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984663&extension=ts&play_token=OTBPjnrojp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984662.png",DE| SKY SPORT MIX HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984662&extension=ts&play_token=hpcy8b0qqw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984661.png",DE| SKY SPORT GOLF HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984661&extension=ts&play_token=d3GMFknvUb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889501.png",DE| SKY SPORT BUNDESLIGA 2 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889501&extension=ts&play_token=TmZWimB7oN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889500.png",DE| SKY SPORT BUNDESLIGA 3 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889500&extension=ts&play_token=ug6W8N4pqb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889499.png",DE| SKY SPORT BUNDESLIGA 4 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889499&extension=ts&play_token=LxvPCKrUOQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889498.png",DE| SKY SPORT BUNDESLIGA 5 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889498&extension=ts&play_token=W8aa5HOPqb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889497.png",DE| SKY SPORT BUNDESLIGA 6 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889497&extension=ts&play_token=qlUNqH4hCg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889496.png",DE| SKY SPORT BUNDESLIGA 7 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889496&extension=ts&play_token=jhcdk0N3dy
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889495.png",DE| SKY SPORT BUNDESLIGA 8 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889495&extension=ts&play_token=HBG1we7QbU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889494.png",DE| SKY SPORT BUNDESLIGA 9 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889494&extension=ts&play_token=AeX8q0narm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889492.png",DE| SKY SPORT BUNDESLIGA 10 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889492&extension=ts&play_token=pZnLTuEeDb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889491.png",DE| SKY SPORT 1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889491&extension=ts&play_token=0ez4CeH3w9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889489.png",DE| SKY SPORT 2 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889489&extension=ts&play_token=KadJF6DoTs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889488.png",DE| SKY SPORT 3 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889488&extension=ts&play_token=S6yzkdWY1J
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889486.png",DE| SKY SPORT 4 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889486&extension=ts&play_token=ITBphO78c6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889485.png",DE| SKY SPORT 5 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889485&extension=ts&play_token=R1jLT5vS3e
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889483.png",DE| SKY SPORT 6 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889483&extension=ts&play_token=WdePfPATsS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889482.png",DE| SKY SPORT 7 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889482&extension=ts&play_token=TUN9773JIT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889480.png",DE| SKY SPORT 8 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889480&extension=ts&play_token=q4NMgvqxFL
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889479.png",DE| SKY SPORT 9 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889479&extension=ts&play_token=CstalhuPFq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889478.png",DE| SKY SPORT 10 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889478&extension=ts&play_token=QJUTsY9D0G
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889477.png",DE| SKY SPORT AUSTRIA 1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889477&extension=ts&play_token=ws95Rkzmhk
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889476.png",DE| SKY SPORT AUSTRIA 2 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889476&extension=ts&play_token=k8d8fEmOcC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889475.png",DE| SKY SPORT AUSTRIA 3 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889475&extension=ts&play_token=p3S1TDCENf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889473.png",DE| SKY SPORT AUSTRIA 4 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889473&extension=ts&play_token=gyGy9IRC6R
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889472.png",DE| ATV HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889472&extension=ts&play_token=3BNWiV3ola
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889470.png",DE| BLUE SPORT 1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889470&extension=ts&play_token=qYbV2mgyjO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889469.png",DE| BLUE SPORT 2 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889469&extension=ts&play_token=ia0pqkwt3Y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1948039.png",DE| BILD+ EVENT FAME FIGHTING
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1948039&extension=ts&play_token=7dowkDefe0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/DASERSTE.png",DE| DAS ERSTE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411462&extension=ts&play_token=lx3DPxiJH7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/DASERSTE.png",DE| DAS ERSTE FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=578802&extension=ts&play_token=V4nZJYTSVa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png",DE| ZDF HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411459&extension=ts&play_token=2eUQE9MtIe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png",DE| ZDF HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=557314&extension=ts&play_token=xkEA9dRDsc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RTL.png",DE| RTL 4K FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411632&extension=ts&play_token=G3cqVNdIfb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RTLPLUS.png",DE| RTL PLUS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1828542&extension=ts&play_token=ZZgQ0hWM4t
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RTL.png",DE| RTL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411631&extension=ts&play_token=THt2cWHFBK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/411453.png",DE| RTL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411453&extension=ts&play_token=ZMTe53AcRU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RTL-UP.png",DE| RTL UP HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=833392&extension=ts&play_token=TeH0zdjnkM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RTLZWEI.png",DE| RTLZWEI HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411448&extension=ts&play_token=ZzUPmTcr5A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RTLZWEI.png",DE| RTLZWEI FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411629&extension=ts&play_token=SpB1t5cRQz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RTL-UP.png",DE| RTL UP HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411323&extension=ts&play_token=MY88xz40HB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RTLNITRO.png",DE| RTL NITRO FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411445&extension=ts&play_token=khYQP50EFX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/RTLNITRO.png",DE| RTL NITRO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411610&extension=ts&play_token=sxCeguwR26
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1346172.png",DE| DYN PPV 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1346172&extension=ts&play_token=2XUIWj6WJF
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1346173.png",DE| DYN PPV 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1346173&extension=ts&play_token=8DdRPwli2O
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1346174.png",DE| DYN PPV 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1346174&extension=ts&play_token=zvQ5Per4zk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1346175.png",DE| DYN PPV 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1346175&extension=ts&play_token=NQ9EKpjHpd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1346176.png",DE| DYN PPV 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1346176&extension=ts&play_token=MNoaN5sU4X
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1346177.png",DE| DYN PPV 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1346177&extension=ts&play_token=3kLyAH17Sm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1346178.png",DE| DYN PPV 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1346178&extension=ts&play_token=hh1uGwZWft
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1346179.png",DE| DYN PPV 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1346179&extension=ts&play_token=m9s3wDqd6a
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1346180.png",DE| DYN PPV 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1346180&extension=ts&play_token=184gimLwZF
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1346181.png",DE| DYN PPV 10 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1346181&extension=ts&play_token=FiCfzl73E3
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1495548.png",DE| DYN PPV 11 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1495548&extension=ts&play_token=Xf1s6Zf4lt
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1495549.png",DE| DYN PPV 12 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1495549&extension=ts&play_token=PnEN6kLlzO
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1495550.png",DE| DYN PPV 13 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1495550&extension=ts&play_token=4O1vvX0QCe
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1495551.png",DE| DYN PPV 14 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1495551&extension=ts&play_token=iloRclyPnd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1495552.png",DE| DYN PPV 15 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1495552&extension=ts&play_token=rSUm5lYHRm
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1495553.png",DE| DYN PPV 16 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1495553&extension=ts&play_token=Fuu8ywdh2U
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1495554.png",DE| DYN PPV 17 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1495554&extension=ts&play_token=40mUe6CutI
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1495555.png",DE| DYN PPV 18 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1495555&extension=ts&play_token=aiNEFoCits
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1495556.png",DE| DYN PPV 19 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1495556&extension=ts&play_token=0HO1qcpDIN
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1495557.png",DE| DYN PPV 20 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1495557&extension=ts&play_token=BsvAW2dPxL
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751230.png",DE| MYTEAM SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751230&extension=ts&play_token=KTGtbRa3cf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751229.png",DE| MYTEAM SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751229&extension=ts&play_token=ectjylsjb0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751228.png",DE| MYTEAM SPORT 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751228&extension=ts&play_token=Wa4Ttea2dm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751227.png",DE| MYTEAM SPORT 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751227&extension=ts&play_token=DUmXCAjjiw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751226.png",DE| MYTEAM SPORT 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751226&extension=ts&play_token=y2zvvL4D4z
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751225.png",DE| MYTEAM SPORT 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751225&extension=ts&play_token=gbmuHIoDa4
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751224.png",DE| MYTEAM SPORT 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751224&extension=ts&play_token=Tf4lnz39pp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751223.png",DE| MYTEAM SPORT 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751223&extension=ts&play_token=XveXTuuXvF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751222.png",DE| MYTEAM SPORT 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751222&extension=ts&play_token=5n22kRHj20
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751221.png",DE| MYTEAM SPORT 10 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751221&extension=ts&play_token=sS9mejLx3j
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751220.png",DE| MYTEAM SPORT 11 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751220&extension=ts&play_token=wI94FLVmaz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751219.png",DE| MYTEAM SPORT 12 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751219&extension=ts&play_token=IccO7KRnnv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751218.png",DE| MYTEAM SPORT 13 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751218&extension=ts&play_token=ioG3JIsx2e
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751217.png",DE| MYTEAM SPORT 14 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751217&extension=ts&play_token=GpipaO8YJG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751216.png",DE| MYTEAM SPORT 15 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751216&extension=ts&play_token=vBivZGmVbT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751215.png",DE| MYTEAM SPORT 16 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751215&extension=ts&play_token=8dLSDBkB1g
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751214.png",DE| MYTEAM SPORT 17 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751214&extension=ts&play_token=kEzbG6K1My
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1751213.png",DE| MYTEAM SPORT 18 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1751213&extension=ts&play_token=VrEdfOM4MF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517663.png",DE| MAGENTA ACTION 1 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517663&extension=ts&play_token=CyDDJDpBIY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517664.png",DE| MAGENTA ACTION 2 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517664&extension=ts&play_token=MmEbKisXOP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517666.png",DE| MAGENTA COMEDY 1 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517666&extension=ts&play_token=UxTOqr8lLB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517667.png",DE| MAGENTA COMEDY 2 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517667&extension=ts&play_token=Gj0NemSsNe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517668.png",DE| MAGENTA DRAMA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517668&extension=ts&play_token=Jj72HuEDcf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517669.png",DE| MAGENTA HORROR 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517669&extension=ts&play_token=Ia6VztjnV6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517665.png",DE| MAGENTA ADVENTURE 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517665&extension=ts&play_token=IzRpEhysWe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517675.png",DE| MAGENTA THRILLER 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517675&extension=ts&play_token=kBjl8vRKRe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517674.png",DE| MAGENTA SPECIAL 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517674&extension=ts&play_token=MtF2WqHuaq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517673.png",DE| MAGENTA SCI-FI 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517673&extension=ts&play_token=WIVZeJg7OT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517672.png",DE| MAGENTA ROMANCE 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517672&extension=ts&play_token=k25sPZhLJe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517671.png",DE| MAGENTA NON-STOP 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517671&extension=ts&play_token=Mv5ubqSPUE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1517670.png",DE| MAGENTA KINDER 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1517670&extension=ts&play_token=EdVTtAaE13
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578206.png",DE| MAGENTA SPORT PPV 1 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578206&extension=ts&play_token=3L52j2CxFo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578205.png",DE| MAGENTA SPORT PPV 2 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578205&extension=ts&play_token=re35AHn7PH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578204.png",DE| MAGENTA SPORT PPV 3 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578204&extension=ts&play_token=ufJ37VU538
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578203.png",DE| MAGENTA SPORT PPV 4 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578203&extension=ts&play_token=SqWbMFSViZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578202.png",DE| MAGENTA SPORT PPV 5 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578202&extension=ts&play_token=1xw0bKrbxo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578201.png",DE| MAGENTA SPORT PPV 6 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578201&extension=ts&play_token=Log6CLrQ3t
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578200.png",DE| MAGENTA SPORT PPV 7 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578200&extension=ts&play_token=3nlFd7iWJ3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578199.png",DE| MAGENTA SPORT PPV 8 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578199&extension=ts&play_token=GTCm1KorSz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578198.png",DE| MAGENTA SPORT PPV 9 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578198&extension=ts&play_token=1lkfAcfLyh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578197.png",DE| MAGENTA SPORT PPV 10 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578197&extension=ts&play_token=uNtKixOei2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578196.png",DE| MAGENTA SPORT PPV 11 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578196&extension=ts&play_token=Uu8FhVq90u
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578195.png",DE| MAGENTA SPORT PPV 12 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578195&extension=ts&play_token=lJ2Wpe9CGa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578194.png",DE| MAGENTA SPORT PPV 13 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578194&extension=ts&play_token=K7jhXAMXbE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578193.png",DE| MAGENTA SPORT PPV 14 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578193&extension=ts&play_token=tBA9m2GhWA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578192.png",DE| MAGENTA SPORT PPV 15 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578192&extension=ts&play_token=TUTIQgYVOC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578191.png",DE| MAGENTA SPORT PPV 16 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578191&extension=ts&play_token=TxFhszO1Dl
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578190.png",DE| MAGENTA SPORT PPV 17 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578190&extension=ts&play_token=HW76YX3jQN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1578189.png",DE| MAGENTA SPORT PPV 18 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1578189&extension=ts&play_token=ebdgpPBnFL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN 1 ᴴᴰ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696649&extension=ts&play_token=oqPE9nMmVC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN 2 ᴴᴰ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696648&extension=ts&play_token=cpdpn9xS31
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN SPORTDIGITAL FUSSBALL ᴴᴰ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696647&extension=ts&play_token=1DH9psplxs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN ACL CORNHOLE TV ᴴᴰ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696639&extension=ts&play_token=2JefTCYJTu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN BILLIARD TV ᴴᴰ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696638&extension=ts&play_token=9jOay9knJw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN FAST PLUS ᴴᴰ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696636&extension=ts&play_token=gCmi1o7hUG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN RISE ᴴᴰ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696635&extension=ts&play_token=uWpzWnFpvz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN LACROSSE TV ᴴᴰ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696634&extension=ts&play_token=tgdJ8UyjKZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN MOTO AMERICA ᴴᴰ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696632&extension=ts&play_token=xJv7aKRYKY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN 1 SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696671&extension=ts&play_token=9Y69ElqUp8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN 2 SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696670&extension=ts&play_token=eQKS2qY4Xd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN SPORTDIGITAL FUSSBALL SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696669&extension=ts&play_token=5EJSyUMxXc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN ACL CORNHOLE TV SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696661&extension=ts&play_token=IxvQxqvSNu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN BILLIARD TV SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696660&extension=ts&play_token=Wl4AhacrWi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN FAST PLUS SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696658&extension=ts&play_token=6cUgb0R0UO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN RISE SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696657&extension=ts&play_token=mxaELws2cF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN LACROSSE TV SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696656&extension=ts&play_token=5CPEHiqjNB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN MOTO AMERICA SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696654&extension=ts&play_token=OQWX30nnhs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN 1 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696693&extension=ts&play_token=usvVvWOU2W
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN 2 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696692&extension=ts&play_token=e5RnR77o4o
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN SPORTDIGITAL FUSSBALL ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696691&extension=ts&play_token=0MGtAGLhQo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN ACL CORNHOLE TV ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696683&extension=ts&play_token=Xgji0bAlY5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN BILLIARD TV ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696682&extension=ts&play_token=0Grq7ITJ6F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN FAST PLUS ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696680&extension=ts&play_token=Q2OWuJ8n0T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN RISE ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696679&extension=ts&play_token=GT8d89xLoG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN LACROSSE TV ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696678&extension=ts&play_token=2Rxo7Red5h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",DE| DAZN MOTO AMERICA ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1696676&extension=ts&play_token=w1BQQKdTE2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423317.png",DE| MYSPORTS EDGE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423317&extension=ts&play_token=jySnBzI5Do
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423316.png",DE| MYSPORTS 1 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423316&extension=ts&play_token=tw8KNJ81bR
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423315.png",DE| MYSPORTS 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423315&extension=ts&play_token=Wjw4Mh7Gth
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423314.png",DE| MYSPORTS 2 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423314&extension=ts&play_token=fl796LJ8NM
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423313.png",DE| MYSPORTS 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423313&extension=ts&play_token=ecMbAoDYKN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423312.png",DE| MYSPORTS 3 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423312&extension=ts&play_token=Pm5FNIoFWT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423311.png",DE| MYSPORTS 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423311&extension=ts&play_token=3kHjvio0ME
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423310.png",DE| MYSPORTS 4 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423310&extension=ts&play_token=8RrOKpbcgw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423309.png",DE| MYSPORTS 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423309&extension=ts&play_token=8foFpGZIsU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423308.png",DE| MYSPORTS 5 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423308&extension=ts&play_token=sbXFtnm8we
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423307.png",DE| MYSPORTS 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423307&extension=ts&play_token=hory4djlWS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423306.png",DE| MYSPORTS 6 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423306&extension=ts&play_token=am0V2G3z8Y
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423305.png",DE| MYSPORTS 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423305&extension=ts&play_token=UoEeMqVHeB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423304.png",DE| MYSPORTS 7 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423304&extension=ts&play_token=MH9XinrDuV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423303.png",DE| MYSPORTS 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423303&extension=ts&play_token=WST8CbrNrV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423302.png",DE| MYSPORTS 8 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423302&extension=ts&play_token=47iwG7GHhl
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423301.png",DE| MYSPORTS 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423301&extension=ts&play_token=7dDYIJFdfa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423300.png",DE| MYSPORTS 9 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423300&extension=ts&play_token=Q4P0plP17C
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423299.png",DE| MYSPORTS 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423299&extension=ts&play_token=qi7cXYlwtG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423298.png",DE| MYSPORTS 10 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423298&extension=ts&play_token=iWc5a1vTwB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1423297.png",DE| MYSPORTS 10 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1423297&extension=ts&play_token=FrNPjgRrSf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411389.png",DE| DAZN BAR 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411389&extension=ts&play_token=6dPL4zCVbK
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png",DE| DAZN BAR 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411552&extension=ts&play_token=yXXKrW4qVK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411550.png",DE| DAZN BAR 1 FHD*
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411550&extension=ts&play_token=nszEdip1H9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411388.png",DE| DAZN BAR 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411388&extension=ts&play_token=ZRhDdOOlkd
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411551.png",DE| DAZN BAR 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411551&extension=ts&play_token=JrMniBRGvq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411549.png",DE| DAZN BAR 2 FHD*
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411549&extension=ts&play_token=5ilur90TsE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411603.png",DE| SKY SPORT 4K [LIVE-EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411603&extension=ts&play_token=xN0Ps8F9UE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411441.png",DE| SKY SPORT NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411441&extension=ts&play_token=wUNsHmzFnS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411604.png",DE| SKY SPORT NEWS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411604&extension=ts&play_token=AwcW7tcsjP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/523239.png",DE| SKY SPORTS F1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=523239&extension=ts&play_token=4T8o7khKQB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/513132.png",DE| SKY SPORTS F1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=513132&extension=ts&play_token=Apo8RwfAOQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411413.png",DE| FC BAYERN TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411413&extension=ts&play_token=SDkjhXiLoQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411440.png",DE| SKY SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411440&extension=ts&play_token=sxkl3Fi6VV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411602.png",DE| SKY SPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411602&extension=ts&play_token=YncRXUxMdP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411601.png",DE| SKY SPORT 1 FHD*
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411601&extension=ts&play_token=ycqFlH8JaN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411439.png",DE| SKY SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411439&extension=ts&play_token=6Fm0kRceva
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411600.png",DE| SKY SPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411600&extension=ts&play_token=BU4P9mfk9X
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411599.png",DE| SKY SPORT 2 FHD*
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411599&extension=ts&play_token=yM1ncJrjCs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411438.png",DE| SKY SPORT 3 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411438&extension=ts&play_token=d64iPsijyM
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411598.png",DE| SKY SPORT 3 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411598&extension=ts&play_token=ocxQkOICKs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411597.png",DE| SKY SPORT 3 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411597&extension=ts&play_token=y8Jgh4FZ4s
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411437.png",DE| SKY SPORT 4 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411437&extension=ts&play_token=j1PriF5n0U
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411596.png",DE| SKY SPORT 4 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411596&extension=ts&play_token=XiPvNCkPPA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411595.png",DE| SKY SPORT 4 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411595&extension=ts&play_token=xrhbriAdf7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411436.png",DE| SKY SPORT 5 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411436&extension=ts&play_token=hyvY2zHe7D
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411594.png",DE| SKY SPORT 5 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411594&extension=ts&play_token=HLLvHJOIDg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411593.png",DE| SKY SPORT 5 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411593&extension=ts&play_token=cGc611CKPK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411435.png",DE| SKY SPORT 6 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411435&extension=ts&play_token=hVECingwp3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411592.png",DE| SKY SPORT 6 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411592&extension=ts&play_token=fVvZLuB117
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411591.png",DE| SKY SPORT 6 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411591&extension=ts&play_token=0YJIqZ46jg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411434.png",DE| SKY SPORT 7 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411434&extension=ts&play_token=hMaycviKVq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411590.png",DE| SKY SPORT 7 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411590&extension=ts&play_token=u1Htlotl4H
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411589.png",DE| SKY SPORT 7 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411589&extension=ts&play_token=eTWW5yhf1c
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411433.png",DE| SKY SPORT 8 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411433&extension=ts&play_token=VZ3Wvu3uTV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411588.png",DE| SKY SPORT 8 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411588&extension=ts&play_token=D0relxAnd4
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411587.png",DE| SKY SPORT 8 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411587&extension=ts&play_token=bXZ49qiwsR
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411432.png",DE| SKY SPORT 9 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411432&extension=ts&play_token=Izm0ldAL2u
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411586.png",DE| SKY SPORT 9 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411586&extension=ts&play_token=ENLsFjvLmm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411585.png",DE| SKY SPORT 9 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411585&extension=ts&play_token=SWMQCTERsp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411431.png",DE| SKY SPORT 10 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411431&extension=ts&play_token=9mdzCwFot3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411584.png",DE| SKY SPORT 10 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411584&extension=ts&play_token=HqJ4zc2TJh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411583.png",DE| SKY SPORT 10 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411583&extension=ts&play_token=uFcSRqCqkY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/578801.png",DE| SKY SPORT 12 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=578801&extension=ts&play_token=yqbnsLgQj0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/578800.png",DE| SKY SPORT 13 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=578800&extension=ts&play_token=f2VYDm7S1S
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/578799.png",DE| SKY SPORT 14 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=578799&extension=ts&play_token=8m3PNtbxYh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411430.png",DE| SKY SPORT AUSTRIA 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411430&extension=ts&play_token=yszuHu1m1e
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411582.png",DE| SKY SPORT AUSTRIA 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411582&extension=ts&play_token=q2ewJSgNP8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411581.png",DE| SKY SPORT AUSTRIA 1 FHD*
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411581&extension=ts&play_token=K7iqNnfVMS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411429.png",DE| SKY SPORT AUSTRIA 2 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411429&extension=ts&play_token=3xPOmNtKoT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411580.png",DE| SKY SPORT AUSTRIA 2 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411580&extension=ts&play_token=mZNivbag7D
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411579.png",DE| SKY SPORT AUSTRIA 2 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411579&extension=ts&play_token=pbswmsRTt8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411428.png",DE| SKY SPORT AUSTRIA 3 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411428&extension=ts&play_token=gDnMnD2LRm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411578.png",DE| SKY SPORT AUSTRIA 3 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411578&extension=ts&play_token=x536TOxdzO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411577.png",DE| SKY SPORT AUSTRIA 3 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411577&extension=ts&play_token=xH9O6n8Pbx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411427.png",DE| SKY SPORT AUSTRIA 4 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411427&extension=ts&play_token=tlBZ7tiuII
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411576.png",DE| SKY SPORT AUSTRIA 4 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411576&extension=ts&play_token=cJJAqSMKjx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411575.png",DE| SKY SPORT AUSTRIA 4 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411575&extension=ts&play_token=6lN46hVY6s
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/971771.png",DE|  SKY SPORT TOP EVENT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971771&extension=ts&play_token=1lV4tDFhyF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/977113.png",DE| SKY SPORT AUSTRIA 5 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=977113&extension=ts&play_token=XWkIK6n4m5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/732337.png",DE| SKY SPORT AUSTRIA 5 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=732337&extension=ts&play_token=OD3bUVLgjV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/977114.png",DE| SKY SPORT AUSTRIA 6 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=977114&extension=ts&play_token=Fwz4Wlmx5g
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/732336.png",DE| SKY SPORT AUSTRIA 6 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=732336&extension=ts&play_token=zZh3znbCpV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/977115.png",DE| SKY SPORT AUSTRIA 7 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=977115&extension=ts&play_token=HZVBAOV9Lx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/732335.png",DE| SKY SPORT AUSTRIA 7 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=732335&extension=ts&play_token=Xv2SFkDGbz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/971739.png",DE| SKY SPORT TENNIS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971739&extension=ts&play_token=Pc76KlSQv5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/971711.png",DE| SKY SPORT PREMIER LEAGUE FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971711&extension=ts&play_token=8hnDLkXE3i
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/971710.png",DE| SKY SPORT MIX FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971710&extension=ts&play_token=vM6yjsYFL0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/971709.png",DE| SKY SPORT GOLF FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971709&extension=ts&play_token=T5kCuf67Nv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411387.png",DE| EUROSPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411387&extension=ts&play_token=xc6h6Ukg6d
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411547.png",DE| EUROSPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411547&extension=ts&play_token=z2LuWkSkzN
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/411386.png",DE| EUROSPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411386&extension=ts&play_token=JGdMthFMGW
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411545.png",DE| EUROSPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411545&extension=ts&play_token=KUQxbrnUjY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411383.png",DE| EUROSPORT 2 XTRA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411383&extension=ts&play_token=WtlWaH8fp0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411543.png",DE| EUROSPORT 2XTRA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411543&extension=ts&play_token=qZ4PV4EWA1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411381.png",DE| SPORT1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411381&extension=ts&play_token=PWMSGbzT2v
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411541.png",DE| SPORT1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411541&extension=ts&play_token=92l3A4ZE5r
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411536.png",DE| SPORT1+ FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411536&extension=ts&play_token=lTMCVmmqYe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411539.png",DE| SPORTDIGITAL FUSSBALL FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411539&extension=ts&play_token=2AW8SFUJfx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411534.png",DE| SPORTDIGITAL FUSSBALL FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411534&extension=ts&play_token=H5nrcO6TnF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411537.png",DE| MOTORVISION TV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411537&extension=ts&play_token=pMEqy7wW94
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411535.png",DE| ESPORTS1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411535&extension=ts&play_token=EVce8QB3AC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411380.png",DE| AUTO MOTOR SPORT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411380&extension=ts&play_token=PHPYe0O1TP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/692608.png",DE| CLIPMYHORSE.TV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692608&extension=ts&play_token=OwEcv16XSM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MSCOLF1.jpg",DE| MS GOLF 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2019918&extension=ts&play_token=syPNPLgjQj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MSCOLF2.jpg",DE| MS GOLF 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2019917&extension=ts&play_token=e0oJfgWuNX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 4K [LIVE-EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411573&extension=ts&play_token=mOUU5HIMbK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971682&extension=ts&play_token=N47IloRpxD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411425&extension=ts&play_token=dS9whwEqQP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411572&extension=ts&play_token=7MPyt8LrzU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 1 FHD*
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411571&extension=ts&play_token=CvSyadCBB2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 2 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411424&extension=ts&play_token=Dh7qQ0RwcR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 2 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411570&extension=ts&play_token=30O88dyfxp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 2 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411569&extension=ts&play_token=YXQYFm0WEd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 3 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411423&extension=ts&play_token=YhRt03udak
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 3 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411568&extension=ts&play_token=RnoWMSIUEW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 3 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411567&extension=ts&play_token=qyIWhE0c5u
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 4 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411422&extension=ts&play_token=pCiTy5lpG8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 4 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411566&extension=ts&play_token=b2LhYpt6Ym
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 4 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411565&extension=ts&play_token=LmbgL82aBz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 5 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411421&extension=ts&play_token=BkeAOseBwe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 5 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411564&extension=ts&play_token=nkDPbt6qK8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 5 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411563&extension=ts&play_token=HMD96NdFWu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 6 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411420&extension=ts&play_token=cDHzbOiXqj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 6 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411562&extension=ts&play_token=XitZQOlywe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 6 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411561&extension=ts&play_token=xzCeOTxTqW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 7 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411419&extension=ts&play_token=Dd8ONgMbms
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 7 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411560&extension=ts&play_token=Ea4Gt8JyeJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 7 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411559&extension=ts&play_token=K4WpJIzWqg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 8 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411418&extension=ts&play_token=coPTHos2mx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 8 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411558&extension=ts&play_token=lSjlcGjUCR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 8 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411557&extension=ts&play_token=j2jyBJUtxS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 9 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411417&extension=ts&play_token=5Yyo8musLq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 9 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411556&extension=ts&play_token=bRLH5F476f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 9 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411555&extension=ts&play_token=rsNVzW5hMw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 10 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411416&extension=ts&play_token=uQ7stwlk9z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY BUNDESLIGA 10 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411554&extension=ts&play_token=ImYzIecJjG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| BUNDESLIGA (DAZN STREAM)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411415&extension=ts&play_token=Is0efdqHfF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| BUNDESLIGA (DAZN STREAM)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411548&extension=ts&play_token=DDe2w5HGPD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216673&extension=ts&play_token=8x3uaRYclA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216676&extension=ts&play_token=UGW8XbUziS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216679&extension=ts&play_token=bH6kFHWUmK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216682&extension=ts&play_token=5O9Ilpljsp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216685&extension=ts&play_token=5ZqSUjeauP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216688&extension=ts&play_token=JIqwsGZzzo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216691&extension=ts&play_token=TxxLSUoQWs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216694&extension=ts&play_token=aqxL6eEowK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216697&extension=ts&play_token=oDgvTm7jxz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216700&extension=ts&play_token=QsOSjgJqjV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216703&extension=ts&play_token=2dyg9CKNH5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216706&extension=ts&play_token=hD0d4fNwfw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216709&extension=ts&play_token=Qb8aCkGZWw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216712&extension=ts&play_token=tILuP1CS9f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 7 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216715&extension=ts&play_token=5If24hyhb8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216718&extension=ts&play_token=1zWhh3LhnH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 8 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216721&extension=ts&play_token=5HwZTKBh79
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216724&extension=ts&play_token=Fi9Mn7XzfK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 9 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216727&extension=ts&play_token=aljRljvQgz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216730&extension=ts&play_token=TUXmjx2fcR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 10 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216733&extension=ts&play_token=fWEXBnOlfp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 10 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216736&extension=ts&play_token=ZU7wsKii3Y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 0 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036758&extension=ts&play_token=I9RGtmQWqr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 1 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036757&extension=ts&play_token=TiyAadMQum
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 2 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036756&extension=ts&play_token=rET0ThaJCy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 3 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036755&extension=ts&play_token=MM7y6Tx3sG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 4 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036754&extension=ts&play_token=dx4CHossV3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 5 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036753&extension=ts&play_token=rCcS5Cj94L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 6 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036752&extension=ts&play_token=3VnUy3x1Uv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 7 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036751&extension=ts&play_token=dkvBwbW0lx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 8 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036750&extension=ts&play_token=YWsiNU056x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 9 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036749&extension=ts&play_token=wOlhg2b9dK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 10 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036748&extension=ts&play_token=LIBk8Uf6H3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 11 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036747&extension=ts&play_token=yAYSw3aE7O
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 13 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036746&extension=ts&play_token=COiZQvSe3G
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 14 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036775&extension=ts&play_token=ob55B6sFWh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RTLPLUS.png",DE| RTL PPV 20 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2036745&extension=ts&play_token=UEFTdGA2O7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/120.jpg",DE| MAGENTA SPORT PPV 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=749404&extension=ts&play_token=qfMid4TD6L
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/749403.png",DE| MAGENTA SPORT PPV 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=749403&extension=ts&play_token=1Lj9dXU2kN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/749402.png",DE| MAGENTA SPORT PPV 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=749402&extension=ts&play_token=jybhDvQKra
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/749401.png",DE| MAGENTA SPORT PPV 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=749401&extension=ts&play_token=U7VrVPPupO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/749400.png",DE| MAGENTA SPORT PPV 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=749400&extension=ts&play_token=oRrxnTdne8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/749399.png",DE| MAGENTA SPORT PPV 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=749399&extension=ts&play_token=e09sVbexKs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/749398.png",DE| MAGENTA SPORT PPV 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=749398&extension=ts&play_token=WhFzgUI7tx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/749397.png",DE| MAGENTA SPORT PPV 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=749397&extension=ts&play_token=VHKfKU0njv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/749396.png",DE| MAGENTA SPORT PPV 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=749396&extension=ts&play_token=XWkm6NZQmN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/914401.png",DE| MAGENTA SPORT PPV 10 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=914401&extension=ts&play_token=mKzxUSnehK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/914400.png",DE| MAGENTA SPORT PPV 11 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=914400&extension=ts&play_token=QfhJAnk2LC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/914399.png",DE| MAGENTA SPORT PPV 12 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=914399&extension=ts&play_token=V9rJxtspn7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/914398.png",DE| MAGENTA SPORT PPV 13 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=914398&extension=ts&play_token=nuBzgCPo4q
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/914397.png",DE| MAGENTA SPORT PPV 14 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=914397&extension=ts&play_token=oAWfz9MgJp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/914396.png",DE| MAGENTA SPORT PPV 15 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=914396&extension=ts&play_token=Cu4DioD0nC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/914395.png",DE| MAGENTA SPORT PPV 16 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=914395&extension=ts&play_token=SUeG3Mo2yM
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/914394.png",DE| MAGENTA SPORT PPV 17 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=914394&extension=ts&play_token=2hTpfk9dr8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/914393.png",DE| MAGENTA SPORT PPV 18 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=914393&extension=ts&play_token=t3jawZrdCe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235955.png",DE| SKY SPORT NEWS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235955&extension=ts&play_token=oKTlmazE4t
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235948.png",DE| SKY SPORT NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235948&extension=ts&play_token=pSmjtse6TK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235941.png",DE| SKY SPORT TOP EVENT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235941&extension=ts&play_token=M5cDhGFXrF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235934.png",DE| SKY SPORT TOP EVENT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235934&extension=ts&play_token=H3KvGmhLmI
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235927.png",DE| SKY SPORT PREMIER LEAGUE FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235927&extension=ts&play_token=XpimwR6IpD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235920.png",DE| SKY SPORT PREMIER LEAGUE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235920&extension=ts&play_token=af2LDcyza1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235913.png",DE| SKY SPORT MIX FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235913&extension=ts&play_token=9MWVbJI5uv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235906.png",DE| SKY SPORT MIX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235906&extension=ts&play_token=3PGx92J7nR
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235899.png",DE| SKY SPORT F1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235899&extension=ts&play_token=esvOYsj1YK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235892.png",DE| SKY SPORT F1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235892&extension=ts&play_token=xB1iDTTlxR
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235885.png",DE| SKY SPORT GOLF FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235885&extension=ts&play_token=andocnyxQX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235878.png",DE| SKY SPORT GOLF HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235878&extension=ts&play_token=SMmARzjuqF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235871.png",DE| SKY SPORT TENNIS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235871&extension=ts&play_token=xAyP6qRwpD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235864.png",DE| SKY SPORT TENNIS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235864&extension=ts&play_token=OcfnJaCyBO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235857.png",DE| SPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235857&extension=ts&play_token=AOTi5AdFFZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235850.png",DE| SPORT 1 PLUS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235850&extension=ts&play_token=3uwlhJLBbu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235843.png",DE| SKY SPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235843&extension=ts&play_token=2aYusxhnN9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235836.png",DE| SKY SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235836&extension=ts&play_token=gZql481gPZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235829.png",DE| SKY SPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235829&extension=ts&play_token=3PD69Q7duY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235822.png",DE| SKY SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235822&extension=ts&play_token=OxhG68SGx0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235815.png",DE| SKY SPORT 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235815&extension=ts&play_token=wo0VZMdQpx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235808.png",DE| SKY SPORT 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235808&extension=ts&play_token=1b4kVli9lE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235801.png",DE| SKY SPORT 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235801&extension=ts&play_token=58NRC7W1yc
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235794.png",DE| SKY SPORT 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235794&extension=ts&play_token=fq0DNA4efJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235787.png",DE| SKY SPORT 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235787&extension=ts&play_token=be5sXgyeHo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235780.png",DE| SKY SPORT 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235780&extension=ts&play_token=zNEeh6V9Hj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235773.png",DE| SKY SPORT 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235773&extension=ts&play_token=2k62F5T0Eb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235766.png",DE| SKY SPORT 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235766&extension=ts&play_token=pPh6u6mnoC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235759.png",DE| SKY SPORT 7 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235759&extension=ts&play_token=n3i1FQwbfe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235752.png",DE| SKY SPORT 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235752&extension=ts&play_token=GSN61HpRdt
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235745.png",DE| SKY SPORT 8 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235745&extension=ts&play_token=u2kDvPrIap
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235738.png",DE| SKY SPORT 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235738&extension=ts&play_token=hI0D7ikDV5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235731.png",DE| SKY SPORT 9 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235731&extension=ts&play_token=jBspeKgIoI
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235724.png",DE| SKY SPORT 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235724&extension=ts&play_token=Uscoi9Qxyz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235717.png",DE| SKY SPORT 10 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235717&extension=ts&play_token=0Oz0Wqlhif
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235710.png",DE| SKY SPORT 10 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235710&extension=ts&play_token=yCDTOQJ9hc
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323973.png",DE| SKY SPORT AUSTRIA 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323973&extension=ts&play_token=W0KX1YKCdg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323972.png",DE| SKY SPORT AUSTRIA 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323972&extension=ts&play_token=zmRg0mROTA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323971.png",DE| SKY SPORT AUSTRIA 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323971&extension=ts&play_token=MvyKlRjP9b
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323970.png",DE| SKY SPORT AUSTRIA 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323970&extension=ts&play_token=thyuOXqMDs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323969.png",DE| SKY SPORT AUSTRIA 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323969&extension=ts&play_token=4LMsPFvXYZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323968.png",DE| SKY SPORT AUSTRIA 6
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323968&extension=ts&play_token=DRzKMBB7Qm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323967.png",DE| SKY SPORT AUSTRIA 7
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323967&extension=ts&play_token=lBjxEy0QHC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235696.png",DE| SKY SPORT BUNDESLIGA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235696&extension=ts&play_token=vjVYZCwraZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235689.png",DE| SKY SPORT BUNDESLIGA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235689&extension=ts&play_token=6uGTsGNxUQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235682.png",DE| SKY SPORT BUNDESLIGA 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235682&extension=ts&play_token=ULEjOeCp6z
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235675.png",DE| SKY SPORT BUNDESLIGA 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235675&extension=ts&play_token=Xtbx4qQYdQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235668.png",DE| SKY SPORT BUNDESLIGA 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235668&extension=ts&play_token=enHEbou0UD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235661.png",DE| SKY SPORT BUNDESLIGA 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235661&extension=ts&play_token=IIaqSWxtxH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235654.png",DE| SKY SPORT BUNDESLIGA 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235654&extension=ts&play_token=JbwqL5qrRB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235647.png",DE| SKY SPORT BUNDESLIGA 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235647&extension=ts&play_token=CHZVzxx4zC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235640.png",DE| SKY SPORT BUNDESLIGA 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235640&extension=ts&play_token=cyExA7VKuc
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235633.png",DE| SKY SPORT BUNDESLIGA 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235633&extension=ts&play_token=5ZF77nV7gf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235626.png",DE| SKY SPORT BUNDESLIGA 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235626&extension=ts&play_token=8paubxDpVi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235619.png",DE| SKY SPORT BUNDESLIGA 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235619&extension=ts&play_token=VPrHXBC4E9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235612.png",DE| SKY SPORT BUNDESLIGA 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235612&extension=ts&play_token=q22QkBZBH0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235605.png",DE| SKY SPORT BUNDESLIGA 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235605&extension=ts&play_token=9eHZbxSZat
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235598.png",DE| SKY SPORT BUNDESLIGA 7 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235598&extension=ts&play_token=A14gzrbBhw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235591.png",DE| SKY SPORT BUNDESLIGA 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235591&extension=ts&play_token=W19Z3Z4vgP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235584.png",DE| SKY SPORT BUNDESLIGA 8 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235584&extension=ts&play_token=ZhEmBhKBq0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235577.png",DE| SKY SPORT BUNDESLIGA 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235577&extension=ts&play_token=eETh6QqD9I
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235570.png",DE| SKY SPORT BUNDESLIGA 9 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235570&extension=ts&play_token=nCYQGLeLpT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235563.png",DE| SKY SPORT BUNDESLIGA 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235563&extension=ts&play_token=KigjOkFYEX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235556.png",DE| SKY SPORT BUNDESLIGA 10 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235556&extension=ts&play_token=njlvAmdjx1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235549.png",DE| SKY SPORT BUNDESLIGA 10 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235549&extension=ts&play_token=XVcTDM7uNB

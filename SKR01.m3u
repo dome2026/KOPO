@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156436.png",SKR| ARIRANG (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156436&extension=ts&play_token=pBPO5fy5Lz
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156434.png",SKR| CTS (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156434&extension=ts&play_token=XEF2hQbI8Z
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156431.png",SKR| EBS (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156431&extension=ts&play_token=NDZH1Tq2Qw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156437.png",SKR| KBS WORLD (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156437&extension=ts&play_token=Gn4Pi7PZYz
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156429.png",SKR| MBC (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156429&extension=ts&play_token=QTsZeOy3QW
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156430.png",SKR| MBN (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156430&extension=ts&play_token=1lX24hivOO
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156432.png",SKR| NATGEO (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156432&extension=ts&play_token=VMpnfAk0aR
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156426.png",SKR| SBS (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156426&extension=ts&play_token=pHjhLHuxtC
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156427.png",SKR| SBS PLUS (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156427&extension=ts&play_token=oYYmvq1tcC
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156433.png",SKR| TAN (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156433&extension=ts&play_token=t1l82Q23ST
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156435.png",SKR| TVN (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156435&extension=ts&play_token=nBtZSw4akc
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156428.png",SKR| YTN  (NA)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156428&extension=ts&play_token=8QYxqZdbHw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89499.png",SKR| ARTE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89499&extension=ts&play_token=CUojrwx2jq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89498.png",SKR| BBS TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89498&extension=ts&play_token=9yZwOKdVGd
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89497.png",SKR| CCHANNEL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89497&extension=ts&play_token=zL4wTh07Pk
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89494.png",SKR| CPBC TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89494&extension=ts&play_token=HK72StJSak
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89493.png",SKR| CTS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89493&extension=ts&play_token=l3z9OwZnxt
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89487.png",SKR| EBS 2  HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89487&extension=ts&play_token=SRvZjSz9TC
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89492.png",SKR| EBS E HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89492&extension=ts&play_token=hwwdDPUECm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EBS1.png",SKR| EBS FM HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89491&extension=ts&play_token=C0WkX5tsuo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EBS1.png",SKR| EBS FM2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89490&extension=ts&play_token=MU66tMH6i5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89489.png",SKR| EBS I HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89489&extension=ts&play_token=bbh4tmXNKM
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89488.png",SKR| EBS KIDS  HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89488&extension=ts&play_token=p7xWEoCUJ0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89486.png",SKR| EBS1  HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89486&extension=ts&play_token=vrGdYNgGZb
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89485.png",SKR| EBS2  HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89485&extension=ts&play_token=ODJWwvJ4N6
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89484.png",SKR| EDAILY TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89484&extension=ts&play_token=0y7RfZUFpE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89483.png",SKR| FGTV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89483&extension=ts&play_token=LlUSVWFxoE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89482.png",SKR| GCN
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89482&extension=ts&play_token=rSqph4OJSs
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89481.png",SKR| GOOD TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89481&extension=ts&play_token=tAHuAE328Y
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89480.png",SKR| GS MY SHOP
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89480&extension=ts&play_token=OrEo69h9QF
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89479.png",SKR| GS SHOP
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89479&extension=ts&play_token=qZt2x52W1S
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89478.png",SKR| HOME & SHOPPING
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89478&extension=ts&play_token=jWTXalqjdx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HYUNDAI_HMALL.png",SKR| HYUNDAI HMALL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89477&extension=ts&play_token=o2Px4axCTn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89476.png",SKR| IM SHOPPING
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89476&extension=ts&play_token=eRNO7jQ7Xl
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89510.png",SKR| KBS1 TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89510&extension=ts&play_token=R0tH5M0bTJ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89509.png",SKR| KBS2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89509&extension=ts&play_token=Inuj5vXerA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89472.png",SKR| KCTV  CH05
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89472&extension=ts&play_token=amw7OwB84B
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89471.png",SKR| KCTV  CH07
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89471&extension=ts&play_token=IYBPFtUbHT
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89470.png",SKR| KCTV  CH20
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89470&extension=ts&play_token=xvjr0E6sWM
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89469.png",SKR| KCTV  CH21
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89469&extension=ts&play_token=lSAWI6XGlv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89468.png",SKR| KFN TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89468&extension=ts&play_token=iyeIUjolVn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89506.png",SKR| KTV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89506&extension=ts&play_token=0hG1nHB05J
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89467.png",SKR| LOTTE HOMESHOPPING
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89467&extension=ts&play_token=EvyvbDe9i8
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89505.png",SKR| M20 TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89505&extension=ts&play_token=juKw8rBDdD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89504.png",SKR| MBC SPORTS  TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89504&extension=ts&play_token=omHFFP6T8Q
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89466.png",SKR| MTN
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89466&extension=ts&play_token=j4hUxH6PtN
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89465.png",SKR| NS HOME SHOPPING
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89465&extension=ts&play_token=1lTrN87Haa
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89464.png",SKR| OBS GYEONGIN TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89464&extension=ts&play_token=dlhAkfbN8E
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/OBS.png",SKR| OBS W
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89463&extension=ts&play_token=Ut1zXQ5pie
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89502.png",SKR| OCN TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89502&extension=ts&play_token=fnqtvTnJVX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89461.png",SKR| R TOMATO TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89461&extension=ts&play_token=Uyo7uYSWyj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89460.png",SKR| RUTC TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89460&extension=ts&play_token=eqZ7aJZKVs
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/89453.png",SKR| YES TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=89453&extension=ts&play_token=nCgRI4J7gs
