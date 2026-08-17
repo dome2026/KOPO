@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20611.png",CA| CP24 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20611&extension=ts&play_token=7JiNbucv0s
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20619.png",CA| CNN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20619&extension=ts&play_token=ETcvLvbjmt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20620.png",CA| CNBC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20620&extension=ts&play_token=Ybw19xz6fn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/tsn1.png",CA| TSN 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20476&extension=ts&play_token=GZZfa0RD89
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/tsn2.png",CA| TSN 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20475&extension=ts&play_token=06T5QDJRUy
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/tsn3.png",CA| TSN 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20474&extension=ts&play_token=NlLIvbraS7
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/tsn5.png",CA| TSN 5 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20472&extension=ts&play_token=5HQkaQLdBU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/TV5-QUEBEC.png",CA| TV5 QUEBEC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20471&extension=ts&play_token=lhWjSszPh8
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20467.png",CA| TVA SPORTS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20467&extension=ts&play_token=iMa4ReZO4V
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20482.png",CA| TMN 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20482&extension=ts&play_token=0HwXYgWeCP
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20481.png",CA| TMN 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20481&extension=ts&play_token=bv7dL0Mh4Z
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20480.png",CA| TMN 3E
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20480&extension=ts&play_token=qAEhIbptCx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20655.png",CA| ABC WEST HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20655&extension=ts&play_token=HJqMC3EzuH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20658.png",CA|  YTV E
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20658&extension=ts&play_token=Rmag31zWHI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20653.png",CA| ADDIK TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20653&extension=ts&play_token=6Obw5v2EbI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20652.png",CA| AHC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20652&extension=ts&play_token=TecI4LuTst
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20651.png",CA| AMC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20651&extension=ts&play_token=E57zLC1aXO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20650.png",CA| ANIMAL PLANET
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20650&extension=ts&play_token=8BmJausUfO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20649.png",CA| APTN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20649&extension=ts&play_token=HSTNxx9fyi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20646.png",CA| BBC CANADA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20646&extension=ts&play_token=g6gx0p6hV9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20644.png",CA| BBC WORLD NEWS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20644&extension=ts&play_token=ElBXMdBDm6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20643.png",CA| BET
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20643&extension=ts&play_token=S8V3bKn5FO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20642.png",CA| BNN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20642&extension=ts&play_token=M9ddpe5AS6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20641.png",CA| BOOK TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20641&extension=ts&play_token=Q6ZE9pGYaq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20640.png",CA| BRAVO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20640&extension=ts&play_token=dw955yOEsG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20638.png",CA| CANAL SAVOIR
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20638&extension=ts&play_token=BueL7GPmoZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20636.png",CA| CASA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20636&extension=ts&play_token=W4JDoBOlxv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20635.png",CA| CBC MONTREAL
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20635&extension=ts&play_token=i7P5dvDaLt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20634.png",CA| CBC NEWS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20634&extension=ts&play_token=BhP8HghwUv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20633.png",CA| CBC OTTAWA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20633&extension=ts&play_token=sEOj2nP3TR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20632.png",CA| CBC TORONTO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20632&extension=ts&play_token=2bNvJqeFSl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20631.png",CA| CBC VANCOUVER
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20631&extension=ts&play_token=uZr9nOlTRs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20627.png",CA| CINEPOP
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20627&extension=ts&play_token=WsZQDOhTrZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20624.png",CA| CITY TORONTO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20624&extension=ts&play_token=qvdMxDN2xH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20623.png",CA| CITY VANCOUVER
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20623&extension=ts&play_token=cSyXVwjTfK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20621.png",CA| CMT CANADA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20621&extension=ts&play_token=rHBWfFKsJ1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20614.png",CA| COOKING CHANNEL
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20614&extension=ts&play_token=4EWgVfCw2B
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20612.png",CA| COTTAGE LIFE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20612&extension=ts&play_token=Xujz1THpSE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20610.png",CA| CPAC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20610&extension=ts&play_token=gJW5V6f3yd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20609.png",CA| CPAC FRENCH
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20609&extension=ts&play_token=BTq0D92o1C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20608.png",CA| CRIME & INVESTIGATION
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20608&extension=ts&play_token=Qy9ibZPFla
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20607.png",CA| CTV 2 VANCOUVER
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20607&extension=ts&play_token=aCtPdXiVbP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20605.png",CA| CTV NEWS NETWORK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20605&extension=ts&play_token=nzAswihNv1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20604.png",CA| CTV OTTAWA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20604&extension=ts&play_token=uYLFvCHtln
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20603.png",CA| CTV TORONTO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20603&extension=ts&play_token=A1eeJO3JtT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20601.png",CA| CTV 2 OTTAWA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20601&extension=ts&play_token=iUjn5Iccoo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20598.png",CA| DEJAVIEW
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20598&extension=ts&play_token=szjsUwnAfj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20597.png",CA| DISCOVERY CANADA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20597&extension=ts&play_token=JZjK50Vhcx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20596.png",CA| DISCOVERY SCIENCE CANADA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20596&extension=ts&play_token=pFEYdYoyO6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20595.png",CA| DISNEY CHANNEL
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20595&extension=ts&play_token=gCTB5NKlne
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20593.png",CA| DISNEY JUNIOR
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20593&extension=ts&play_token=YsRKXn5u4a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20592.png",CA| DIY
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20592&extension=ts&play_token=tsFCOPtM6k
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/1423442.png",CA| ARY DIGITAL
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1423442&extension=ts&play_token=eYTKo5Kr1k
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20589.png",CA| E! ENTERTAINMENT
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20589&extension=ts&play_token=rVUjCekQac
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20586.png",CA| EVASION
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20586&extension=ts&play_token=job6bCZ0r5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20580.png",CA| FOOD NETWORK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20580&extension=ts&play_token=vQYFzISB11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20579.png",CA| FOX EAST
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20579&extension=ts&play_token=vim7pUUNo8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20578.png",CA| FOX NEWS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20578&extension=ts&play_token=bXIGuu9meH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20575.png",CA| FYI
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20575&extension=ts&play_token=svHcfXZKgR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20574.png",CA| GAMETV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20574&extension=ts&play_token=4kGxtAo1wW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/1549817.png",CA| GLOBAL NATIONAL NEWS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1549817&extension=ts&play_token=Oewf1qJlK8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/20572.png",CA| GLOBAL HALIFAX
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20572&extension=ts&play_token=U0cGxKFp9T
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20571.png",CA| GLOBAL TORONTO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20571&extension=ts&play_token=TVLzfUsJKj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20569.png",CA| GOLF
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20569&extension=ts&play_token=3EMZ4c37QL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/GLOBAL-VANCOUVER.png",CA| GLOBAL VANCOUVER
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20570&extension=ts&play_token=q11yMvyKaT
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20567.png",CA| GSN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20567&extension=ts&play_token=BbJygDqo2d
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20566.png",CA| GUSTO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20566&extension=ts&play_token=ODjRavntjw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20565.png",CA| H2 CANADA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20565&extension=ts&play_token=ptNLbndnB8
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20564.png",CA| HBO 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20564&extension=ts&play_token=Z2NcieebnS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20563.png",CA| HBO 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20563&extension=ts&play_token=2nqTWhd5x3
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20562.png",CA| HGTV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20562&extension=ts&play_token=YP1YovXfUV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20560.png",CA| HISTORY
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20560&extension=ts&play_token=8ZnTtVY5iy
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20555.png",CA| ICI VANCOUVER
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20555&extension=ts&play_token=022Iwi4yrA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20556.png",CA| ICI MONTREAL
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20556&extension=ts&play_token=RejNPwG2oX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20554.png",CA| ID CANADA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20554&extension=ts&play_token=BCVD3iN3VI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20553.png",CA| IFC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20553&extension=ts&play_token=g37vK6IbGq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/LCN.png",CA| LCN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20549&extension=ts&play_token=wnBaRO3JXm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20547.png",CA| LIFETIME
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20547&extension=ts&play_token=R5fBnEdjqT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MAKEFUL.png",CA| MAKEFUL
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20546&extension=ts&play_token=FiG4Erb59R
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20543.png",CA| MIRACLE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20543&extension=ts&play_token=eBGGCFG2ur
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20539.png",CA| MTV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20539&extension=ts&play_token=mSNPdtsXre
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20538.png",CA| MTV 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20538&extension=ts&play_token=TD8ykj450b
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MUCH-MUSIC.png",CA| MUCH MUSIC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20537&extension=ts&play_token=GGAAhrwR8X
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20535.png",CA| NAT GEO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20535&extension=ts&play_token=46DKHmxU0S
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20533.png",CA| NBC EAST
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20533&extension=ts&play_token=sxgWiy8TuK
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20529.png",CA| NTV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20529&extension=ts&play_token=ua5CrqwRck
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20527.png",CA| OMNI 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20527&extension=ts&play_token=I29P3TOHsH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/OMNI.png",CA| OMNI 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20526&extension=ts&play_token=MxHhIrOUto
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20522.png",CA| OUTTV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20522&extension=ts&play_token=pg5RtFbnLG
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20520.png",CA| PBS EAST
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20520&extension=ts&play_token=GPqli1mCuV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20518.png",CA| PEACH TREE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20518&extension=ts&play_token=wH47WYb7wF
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20517.png",CA| PRISE 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20517&extension=ts&play_token=4u15k3ojOi
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20516.png",CA| RDI
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20516&extension=ts&play_token=M9o2grb9Cl
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20515.png",CA| RDS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20515&extension=ts&play_token=CZgO1Z5103
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20514.png",CA| RDS 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20514&extension=ts&play_token=9jUElNnAsS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20512.png",CA| SERIES PLUS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20512&extension=ts&play_token=MdiH1YEp6X
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20511.png",CA| SHOPPING
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20511&extension=ts&play_token=d4RihgI7Oq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20510.png",CA| SHOWCASE EAST
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20510&extension=ts&play_token=L4wIWwi8qO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/SILVER-SCREEN-CLASSICS.png",CA| SILVER SCREEN CLASSICS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20509&extension=ts&play_token=4BfETAdksT
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20508.png",CA| SLICE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20508&extension=ts&play_token=tFtnsUua7N
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20507.png",CA| SMITHSONIAN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20507&extension=ts&play_token=pWGxOk6nJJ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/sportsnet.png",CA| SPORTSNET EAST
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20503&extension=ts&play_token=8UcNBMzVSS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/sportsnet.png",CA| SPORTSNET 360
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20504&extension=ts&play_token=wrKpusQwNc
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/sportsnet.png",CA| SPORTSNET ONE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20502&extension=ts&play_token=lCO8NiIiri
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/sportsnet.png",CA| SPORTSNET ONTARIO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20501&extension=ts&play_token=Qhg6PyMBxk
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/sportsnet.png",CA| SPORTSNET PACIFIC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20500&extension=ts&play_token=neraIPADrs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/SUPER-CHANNEL-VAULT.png",CA| SUPER CHANNEL VAULT
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20497&extension=ts&play_token=Lk0zHeENQr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20496.png",CA| SUPER ECRAN 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20496&extension=ts&play_token=xDTjExrY2W
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20495.png",CA| SUPER ECRAN 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20495&extension=ts&play_token=F6O6OHVfW2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/SUPER-ECRAN-4.png",CA| SUPER ECRAN 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20493&extension=ts&play_token=gJO9zR7TcV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20492.png",CA| TCM
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20492&extension=ts&play_token=0h5wgSjd67
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20490.png",CA| TELE QUEBEC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20490&extension=ts&play_token=c0w2YWj9Cc
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20489.png",CA| TELE TOON EAST
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20489&extension=ts&play_token=N2kNJBVYlY
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20484.png",CA| THE WEATHER NETWORK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20484&extension=ts&play_token=Qr8zLTqAX8
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20483.png",CA| TLC CANADA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20483&extension=ts&play_token=RHUm9wn0sp
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20466.png",CA| TVO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20466&extension=ts&play_token=1wXfs0j0rZ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20462.png",CA| VIE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20462&extension=ts&play_token=zBLd3kMV24
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20461.png",CA| VISION
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20461&extension=ts&play_token=MQ1Uu4TBWu
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20459.png",CA| W NETWORK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20459&extension=ts&play_token=cPuFA3Ha8R
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20457.png",CA| WGN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20457&extension=ts&play_token=ykd3eTGAFX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20454.png",CA| YES TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20454&extension=ts&play_token=O7Kg1TikH7
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20452.png",CA| YTV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20452&extension=ts&play_token=V4i5s82hD6
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/20449.png",CA| ZESTE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=20449&extension=ts&play_token=2j24T6GeTq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/52594.png",CA| CBC CALGARY
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=52594&extension=ts&play_token=3FKw4bKYkP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/52592.png",CA| CITY CALGARY
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=52592&extension=ts&play_token=v1eOzYWhwj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/52591.png",CA| CRAVE 1 / TMN 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=52591&extension=ts&play_token=hMRY85yVHR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/52590.png",CA| CRAVE 2 / TMN 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=52590&extension=ts&play_token=HBByy0GHKe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/52589.png",CA| CRAVE 3 / TMN 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=52589&extension=ts&play_token=s5UIU3eCrT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/52586.png",CA| CTV CALGARY
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=52586&extension=ts&play_token=ngv3pb6E7J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/52585.png",CA| CTV MONTREAL
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=52585&extension=ts&play_token=TYuHbdJsNN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/52576.png",CA| TRAVEL AND ESCAPE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=52576&extension=ts&play_token=RsNE8GEkpJ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1425812.png",CA| ATN CRICKET PLUS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1425812&extension=ts&play_token=gfSokI18qC

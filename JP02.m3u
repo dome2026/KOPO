@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/763888.png",JP| NHK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=763888&extension=ts&play_token=TSOBGaum6n
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/763884.png",JP| NHK WORLD PREMIUM
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=763884&extension=ts&play_token=G7rr16ZUAt
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432238.png",JP| NIPPON TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432238&extension=ts&play_token=7ivTCFoYUw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432237.png",JP| TV ASAHI
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432237&extension=ts&play_token=Pnx4kaAIGg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432236.png",JP| FUJI TELEVISION
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432236&extension=ts&play_token=oggv10hAPq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432235.png",JP| TV TOKYO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432235&extension=ts&play_token=F5LVblDaDl
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432234.png",JP| TBS TELEVISION
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432234&extension=ts&play_token=8cgINGaTFw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432232.png",JP| TOKYO MX
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432232&extension=ts&play_token=xbrb5Lzqn9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432231.png",JP| NHK BS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432231&extension=ts&play_token=UTIkNzI92F
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432230.png",JP| ANIMAX
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432230&extension=ts&play_token=lOekJWkPYv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432229.png",JP| NHK GENERAL TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432229&extension=ts&play_token=9Fgpm1SHEI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432228.png",JP| BS TV TOKYO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432228&extension=ts&play_token=kPvDkoJtdi
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432227.png",JP| NHK EDUCATIONAL TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432227&extension=ts&play_token=jPJA5BHz5W
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432226.png",JP| BS-TBS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432226&extension=ts&play_token=BuKoNTKuSz
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432225.png",JP| MTV Japan
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432225&extension=ts&play_token=zr6OKK0JEt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/J-SPORTS-1-SPORTS.png",JP| J SPORTS 1 SPORTS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432224&extension=ts&play_token=8PCFW8vehU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/J-SPORTS-1-SPORTS.png",JP| J SPORTS 2 SPORTS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432223&extension=ts&play_token=ymCQ06dkfA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/J-SPORTS-1-SPORTS.png",JP| J SPORTS 3 SPORTS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432222&extension=ts&play_token=wvtJVI87Zz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/J-SPORTS-1-SPORTS.png",JP| J SPORTS 4 SPORTS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432221&extension=ts&play_token=wEhPcUBD7z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WOWOW-PRIME.png",JP| WOWOW PRIME
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432220&extension=ts&play_token=M3JWyV7pov
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WOWOW-LIVE.png",JP| WOWOW LIVE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432219&extension=ts&play_token=wY2FvmepJS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WOWOW-CINEMA-MOVIES.png",JP| WOWOW CINEMA MOVIES
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432218&extension=ts&play_token=FMnqnL7arj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432217.png",JP| STAR CHANNEL 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432217&extension=ts&play_token=GM94sValJX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432216.png",JP| STAR CHANNEL 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432216&extension=ts&play_token=WBKeTuIHRA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1432215.png",JP| STAR CHANNEL 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1432215&extension=ts&play_token=p1haP1udlg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/763890.png",JP| NHK WORLD HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=763890&extension=ts&play_token=6FUyih2sDE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOKYO-NOW-HD.jpg",JP| TOKYO NOW HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=763885&extension=ts&play_token=frUxrgoCJk

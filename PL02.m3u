@@ -1,0 +1,1153 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ 4K ULTRA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917620&extension=ts&play_token=6ckACPouI7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917619.png",PL| ELEVEN 4K
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917619&extension=ts&play_token=rjQ5LHaP0P
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917618.png",PL| ELEVEN SPORT 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917618&extension=ts&play_token=GSrJCAANbL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917617.png",PL| ELEVEN SPORT 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917617&extension=ts&play_token=JR7LwgwWKg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917616.png",PL| ELEVEN SPORT 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917616&extension=ts&play_token=n2mbHHzzqO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917615.png",PL| ELEVEN SPORT 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917615&extension=ts&play_token=oPBU7PkBlY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917614.png",PL| POLSAT SPORT 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917614&extension=ts&play_token=5tjO4Ur8ji
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917613.png",PL| POLSAT SPORT 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917613&extension=ts&play_token=QbGmSs9FJ2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917612.png",PL| POLSAT SPORT 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917612&extension=ts&play_token=werlwyb2bX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917611.png",PL| POLSAT SPORT PREMIUM 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917611&extension=ts&play_token=Htq5xRf7dP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917610.png",PL| POLSAT SPORT PREMIUM 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917610&extension=ts&play_token=4ZbPzjFJfn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917609.png",PL| POLSAT SPORT EXTRA 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917609&extension=ts&play_token=WcXKfYk1qJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917608.png",PL| POLSAT SPORT EXTRA 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917608&extension=ts&play_token=vlkQfxxefe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917607.png",PL| POLSAT SPORT EXTRA 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917607&extension=ts&play_token=dxN2KFwaYD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917606.png",PL| POLSAT SPORT EXTRA 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917606&extension=ts&play_token=JNE1vntl6O
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917605.png",PL| POLSAT SPORT FIGHT
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917605&extension=ts&play_token=4vlOvEWJhG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917604.png",PL| POLSAT GAMES
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917604&extension=ts&play_token=jIEdL49fI2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ 360
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917603&extension=ts&play_token=8GAIK8IfQr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ PREMIUM
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917602&extension=ts&play_token=f7pEdRGO6q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917601&extension=ts&play_token=gKk9MNX6hk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917600&extension=ts&play_token=5pZKZUKmhC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917599&extension=ts&play_token=V3DtbHNZd0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 4 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917598&extension=ts&play_token=snbx9rXtl5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 5 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917597&extension=ts&play_token=Lgg3ynUcuW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 6 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917596&extension=ts&play_token=zm4pjSUHs5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 7 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917595&extension=ts&play_token=FQpP5uRldN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ SPORT 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917594&extension=ts&play_token=7iLtbGzfP3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ SPORT 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917593&extension=ts&play_token=P7fQHWOvyg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ SPORT 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917592&extension=ts&play_token=73JSswWHxE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ SPORT 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917591&extension=ts&play_token=Ue08IxDeC6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ SPORT 5
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917590&extension=ts&play_token=tM813sx6us
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ SPORT
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917589&extension=ts&play_token=pyOxLFTCZO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png",PL| EURONEWS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917588&extension=ts&play_token=MJrOEruLdP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png",PL| EUROSPORT 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917587&extension=ts&play_token=zXWVtmHYzp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/EUROSPORT.png",PL| EUROSPORT 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917586&extension=ts&play_token=8Mg1lHV8G5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917585.png",PL| FIGHT KLUB HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917585&extension=ts&play_token=S8nvzhjotC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917584.png",PL| EXTREME SPORTS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917584&extension=ts&play_token=JRXsLVmypo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917583.png",PL|  TVP SPORT
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917583&extension=ts&play_token=CfKEOsR43k
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 8 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917582&extension=ts&play_token=oZ11x4MQq5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 9 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917581&extension=ts&play_token=3UvuLYOe0E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 10 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917580&extension=ts&play_token=3BKzTh5Qkw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 11 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917579&extension=ts&play_token=NsUTmH5jDo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 12 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917578&extension=ts&play_token=htqfn69fo2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 13 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917577&extension=ts&play_token=heh2hvLmCl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 14 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917576&extension=ts&play_token=BBJrT7eMS3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 15 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917575&extension=ts&play_token=Rs1rAEASZn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 16 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917574&extension=ts&play_token=fgxWYSGia6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 17 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917573&extension=ts&play_token=FzmCDw8yvJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EXTRA 18 PPV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917572&extension=ts&play_token=foyz3rW9Xs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EVENT 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917571&extension=ts&play_token=R9pgMVTdIC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EVENT 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917570&extension=ts&play_token=gjvHdJHhhT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EVENT 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917569&extension=ts&play_token=3y7o94yy0y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/CANALPLUS.png",PL| CANAL+ EVENT 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917568&extension=ts&play_token=iqIzAfRUS7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1917567.png",PL| FIGHTKLUB HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1917567&extension=ts&play_token=RK6jtV0RVO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png",EPL| PREMIERE LEAGUE 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1616586&extension=ts&play_token=fBdkb9b3L9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png",EPL| PREMIERE LEAGUE 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1616585&extension=ts&play_token=aBNhymAAwu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png",EPL| PREMIERE LEAGUE 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1616584&extension=ts&play_token=aIN8Ht1i2k
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png",EPL| PREMIERE LEAGUE 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1616583&extension=ts&play_token=lAL5XYlOkM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png",EPL| PREMIERE LEAGUE 5
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1616582&extension=ts&play_token=TsqJljdk7N
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png",EPL| PREMIERE LEAGUE 6
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1616581&extension=ts&play_token=Y9V3vM9nyC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png",EPL| PREMIERE LEAGUE 7
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1616580&extension=ts&play_token=BPzKV7rHyR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png",EPL| PREMIERE LEAGUE 8
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1616579&extension=ts&play_token=alIVNIARmn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png",EPL| PREMIERE LEAGUE 9
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1616578&extension=ts&play_token=5WslhRa08O
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png",EPL| PREMIERE LEAGUE 10
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1616577&extension=ts&play_token=R7NObLnX1B
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/897006.png",PL| ITVN HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=897006&extension=ts&play_token=n7vZPW5HLu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/897007.png",PL| ITVN EXTRA (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=897007&extension=ts&play_token=6oVgzxSHmQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936949.png",PL| TVP3 WROCLAW (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936949&extension=ts&play_token=Nmf1cNi0Ya
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/897009.png",PL| LUBELSKA TV (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=897009&extension=ts&play_token=Cd8rwZfiKC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/897004.png",PL| CHANNEL 13 (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=897004&extension=ts&play_token=oMg9QbDq3a
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882111.png",PL| TVP 1 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882111&extension=ts&play_token=AtnWfAfDCF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882110.png",PL| TVP 2 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882110&extension=ts&play_token=ezi6dZddB2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882105.png",PL| TVP SERIALE (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882105&extension=ts&play_token=37xGPKEmta
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882112.png",PL| TVP HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882112&extension=ts&play_token=7uCElCaHkf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882108.png",PL| TVP HISTORIA (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882108&extension=ts&play_token=dpmVZBnc54
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882109.png",PL| TVP KULTURA HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882109&extension=ts&play_token=FJLD5GG4Ht
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882106.png",PL| TVP ROZRYWKA (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882106&extension=ts&play_token=FLgcCJlUMX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882078.png",PL| POLSAT SERIALE HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882078&extension=ts&play_token=vpwnM30Myk
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882103.png",PL| TVN HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882103&extension=ts&play_token=tvMVMDWDy9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882083.png",PL| TVN24 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882083&extension=ts&play_token=TvKt2HeUxb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882102.png",PL| TVN 7 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882102&extension=ts&play_token=NA8Vc4Qm0Y
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882080.png",PL| POLSAT HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882080&extension=ts&play_token=EnMWrSxzGp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/897011.png",PL| POLSAT 1 (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=897011&extension=ts&play_token=YFwK0AWcEV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882079.png",PL| POLSAT2 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882079&extension=ts&play_token=Y5HtemJKdO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882095.png",PL| KINO POLSKA HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882095&extension=ts&play_token=BECKHN2wno
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882081.png",PL| TV4 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882081&extension=ts&play_token=oYPJi7GxKu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882082.png",PL| TV6 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882082&extension=ts&play_token=ATGRrGqKJj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882104.png",PL| TTV HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882104&extension=ts&play_token=G16XzuJeK8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882100.png",PL| TVN TURBO HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882100&extension=ts&play_token=pWB2EncVO8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882101.png",PL| TVN STYLE HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882101&extension=ts&play_token=a16GYFuiAJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882099.png",PL| POLSAT PLAY HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882099&extension=ts&play_token=fzEm4MFblv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882098.png",PL| POLSAT CAFE HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882098&extension=ts&play_token=HEWCN7HvNw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882086.png",PL| HBO HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882086&extension=ts&play_token=NeFx8dIhH5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882085.png",PL| HBO 2 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882085&extension=ts&play_token=eGg0S0sde0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882084.png",PL| HBO 3 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882084&extension=ts&play_token=gyc2tcJBis
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882088.png",PL| CANAL+ PREMIUM HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882088&extension=ts&play_token=zRu54utq7m
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882087.png",PL| CANAL+ SERIALE HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882087&extension=ts&play_token=T9Y47iM55G
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882092.png",PL| CANAL+ FILM HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882092&extension=ts&play_token=PSgDZWXAV1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882096.png",PL| DOMO+ HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882096&extension=ts&play_token=HIDfHBX92O
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882094.png",PL| POLSAT SPORT PREMIUM 1 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882094&extension=ts&play_token=bHLNtYJgFn
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882093.png",PL| POLSAT SPORT PREMIUM 2 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882093&extension=ts&play_token=GCBvHJZxh1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882107.png",PL| TVP ABC (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882107&extension=ts&play_token=bJJBbhgbFq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882091.png",PL| CANAL+ 1 HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882091&extension=ts&play_token=lPgNxxqdzy
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882089.png",PL| CANAL+ NOW HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882089&extension=ts&play_token=S7NWrnh5rJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/882097.png",PL| KUCHNIA+ HD (NA)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=882097&extension=ts&play_token=THmTSPOTXj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880520.png",PL| TVP 1 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880520&extension=ts&play_token=t5qf2QsQYf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880380.png",PL| TVP 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880380&extension=ts&play_token=HipLVQ127t
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880519.png",PL| TVP 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880519&extension=ts&play_token=potbtkirdv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880379.png",PL| TVP 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880379&extension=ts&play_token=Dgq7JoVRrp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880504.png",PL| TVP FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880504&extension=ts&play_token=F0fL1eHOJP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880364.png",PL| TVP HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880364&extension=ts&play_token=qxkre3BrQC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880240.png",PL| TVP 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880240&extension=ts&play_token=0Rznp6Uo1V
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121741.png",PL| TVP KOBIETA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121741&extension=ts&play_token=OVVNbdwg1Z
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880237.png",PL| TVP ROZRYWKA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880237&extension=ts&play_token=OcggtHdo7P
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880387.png",PL| TVP KULTURA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880387&extension=ts&play_token=U7yp9spf88
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880247.png",PL| TVP KULTURA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880247&extension=ts&play_token=ds3T1kwMWx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880389.png",PL| TTV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880389&extension=ts&play_token=cz1nROeFhh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880249.png",PL| TTV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880249&extension=ts&play_token=LOfPtNcRvW
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880518.png",PL| TVN FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880518&extension=ts&play_token=tri33h139E
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880378.png",PL| TVN HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880378&extension=ts&play_token=zxbWoSYspu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880517.png",PL| TVN 7 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880517&extension=ts&play_token=Q16gppioAY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880377.png",PL| TVN 7 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880377&extension=ts&play_token=BpBP75ueBA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880516.png",PL| TVN FABULA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880516&extension=ts&play_token=UNwUBN0qHY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880376.png",PL| TVN FABULA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880376&extension=ts&play_token=TonGjLeqfy
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880515.png",PL| TVN STYLE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880515&extension=ts&play_token=Rea67hlIhx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880375.png",PL| TVN STYLE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880375&extension=ts&play_token=0bl99rqlex
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880514.png",PL| TVN TURBO FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880514&extension=ts&play_token=HVBixGcQe5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880374.png",PL| TVN TURBO HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880374&extension=ts&play_token=gDAEP4VSNN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1629540.png",PL| TBN POLSKA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1629540&extension=ts&play_token=7ffnibS3f3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880386.png",PL| SUPER POLSAT FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880386&extension=ts&play_token=DpNtQfa384
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880246.png",PL| SUPER POLSAT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880246&extension=ts&play_token=SysyBbXw1B
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880509.png",PL| POLSAT FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880509&extension=ts&play_token=WcEiopE0yC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880369.png",PL| POLSAT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880369&extension=ts&play_token=8ZilmHgweV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880508.png",PL| POLSAT 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880508&extension=ts&play_token=McnKbjHnp5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880368.png",PL| POLSAT 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880368&extension=ts&play_token=0E0stiXHEO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880506.png",PL| POLSAT RODZINA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880506&extension=ts&play_token=u04724Clyf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880366.png",PL| POLSAT RODZINA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880366&extension=ts&play_token=h3PlcGgeWO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880404.png",PL| POLSAT CAFE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880404&extension=ts&play_token=hPZ1oQ6TDZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880264.png",PL| POLSAT CAFE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880264&extension=ts&play_token=tz51XvFMWG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880401.png",PL| POLSAT GAMES FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880401&extension=ts&play_token=updkBJm9K1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880261.png",PL| POLSAT GAMES HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880261&extension=ts&play_token=yFDz72Wh5U
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880399.png",PL| POLSAT PLAY FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880399&extension=ts&play_token=i0V4mGWSAW
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880259.png",PL| POLSAT PLAY HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880259&extension=ts&play_token=nVBn2U4OxX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/880475.png",PL| PULS FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880475&extension=ts&play_token=niZ2C6wzPt
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880335.png",PL| PULS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880335&extension=ts&play_token=XABXiroy7D
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880479.png",PL| PULS 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880479&extension=ts&play_token=sor91o32rU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880339.png",PL| PULS 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880339&extension=ts&play_token=BuZi5M62Yg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880510.png",PL| TV4 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880510&extension=ts&play_token=H7zZnLsIbY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880370.png",PL| TV4 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880370&extension=ts&play_token=joQPhqExZA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880511.png",PL| TV6 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880511&extension=ts&play_token=C6uhQeiOPm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880371.png",PL| TV6 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880371&extension=ts&play_token=CaBGYFz4XT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880230.png",PL| TELE 5
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880230&extension=ts&play_token=mzY54Ghsiy
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1679452.png",PL| EWTN POLSKA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1679452&extension=ts&play_token=mJFBjpKqdC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1060637.png",PL| ANTENA TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1060637&extension=ts&play_token=Mtfjj5rQIx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880474.png",PL| TLC FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880474&extension=ts&play_token=MZuA5IBsE1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880334.png",PL| TLC HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880334&extension=ts&play_token=S5emXtfM6u
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880481.png",PL| FOOD NETWORK FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880481&extension=ts&play_token=1CZKStxlN5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880341.png",PL| FOOD NETWORK HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880341&extension=ts&play_token=ECfnewLOfP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880385.png",PL| HGTV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880385&extension=ts&play_token=f4xwT59p4N
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880245.png",PL| HGTV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880245&extension=ts&play_token=LWkWJGcy8f
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880214.png",PL| HOME TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880214&extension=ts&play_token=1xhEWPq5bg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880424.png",PL| DOMO+ FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880424&extension=ts&play_token=7xPcVKu05Y
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880284.png",PL| DOMO+ HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880284&extension=ts&play_token=mspVANdODv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880415.png",PL| KUCHNIA+ FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880415&extension=ts&play_token=gRUNEZ2Y4H
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880275.png",PL| KUCHNIA+ HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880275&extension=ts&play_token=pgfzbCwVVw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880234.png",PL| ACTIVE FAMILY
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880234&extension=ts&play_token=6jqKuPN7pE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880212.png",PL| METRO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880212&extension=ts&play_token=cd84fqfn2w
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880201.png",PL| TVS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880201&extension=ts&play_token=j14qDymiku
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880407.png",PL| NOWA TV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880407&extension=ts&play_token=bmJtqqnqaZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880267.png",PL| NOWA TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880267&extension=ts&play_token=iXLGAabFS0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880190.png",PL| ZOOM TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880190&extension=ts&play_token=NQv9MiIrZU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880422.png",PL| E! ENTERTAINMENT FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880422&extension=ts&play_token=VEG7hHLbg7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880282.png",PL| E! ENTERTAINMENT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880282&extension=ts&play_token=WPxMlzSIAY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880192.png",PL| WP
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880192&extension=ts&play_token=VoiY76G53v
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880242.png",PL| TVP POLONIA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880242&extension=ts&play_token=ScyeKTBaW8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880241.png",PL| TVP POLONIA 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880241&extension=ts&play_token=4LRW2CBuam
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/884764.png",PL| TRWAM TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=884764&extension=ts&play_token=hfuHkzd11c
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880498.png",PL| CANAL+ PREMIUM FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880498&extension=ts&play_token=uNXTz5oDyW
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880358.png",PL| CANAL+ PREMIUM HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880358&extension=ts&play_token=Aolpwg7Nlo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880501.png",PL| CANAL+ 1 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880501&extension=ts&play_token=eYRfz2n8f3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880361.png",PL| CANAL+ 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880361&extension=ts&play_token=I5pqtof1zo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880491.png",PL| CANAL+ FILM FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880491&extension=ts&play_token=QTHcTJ39fM
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880351.png",PL| CANAL+ FILM HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880351&extension=ts&play_token=eBQvGhVqIp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880497.png",PL| CANAL+ SERIALE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880497&extension=ts&play_token=wgJ1gZ8N0V
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880357.png",PL| CANAL+ SERIALE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880357&extension=ts&play_token=aO4tJYDX0I
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880494.png",PL| HBO FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880494&extension=ts&play_token=XzBFKX8x9e
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880354.png",PL| HBO HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880354&extension=ts&play_token=t4matmAovU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880496.png",PL| HBO 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880496&extension=ts&play_token=Vt5gWN52Ek
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880356.png",PL| HBO 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880356&extension=ts&play_token=9UBX6FPfpA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880495.png",PL| HBO 3 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880495&extension=ts&play_token=NOOgsdN5u3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880355.png",PL| HBO 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880355&extension=ts&play_token=eZ0R47DOwL
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880505.png",PL| POLSAT FILM FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880505&extension=ts&play_token=w9Q4HsGtTr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880365.png",PL| POLSAT FILM HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880365&extension=ts&play_token=0ZyzR2JH9s
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880472.png",PL| PARAMOUNT CHANNEL FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880472&extension=ts&play_token=lr1edAbHWm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880332.png",PL| PARAMOUNT CHANNEL HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880332&extension=ts&play_token=tnAQrTm7vb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880473.png",PL| WARNER TV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880473&extension=ts&play_token=FckIJHd2bU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880333.png",PL| WARNER TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880333&extension=ts&play_token=ES2NZ9hx5T
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880492.png",PL| 13 ULICA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880492&extension=ts&play_token=uHssW1Tfek
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880352.png",PL| 13 ULICA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880352&extension=ts&play_token=ZdA3NX6zON
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880433.png",PL| AMC FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880433&extension=ts&play_token=J5hJCz6Tsy
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880293.png",PL| AMC HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880293&extension=ts&play_token=sp31kBW29V
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880493.png",PL| ALE KINO+ FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880493&extension=ts&play_token=VZuCJUs2u4
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880353.png",PL| ALE KINO+ HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880353&extension=ts&play_token=3nhZefTiiq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880490.png",PL| AXN FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880490&extension=ts&play_token=Gkfsd5DMne
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880350.png",PL| AXN HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880350&extension=ts&play_token=Ga5MXQ9JJT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880489.png",PL| AXN SPIN FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880489&extension=ts&play_token=GgHlNUlGkd
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880349.png",PL| AXN SPIN HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880349&extension=ts&play_token=kaDCBgBt3V
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880235.png",PL| AXN WHITE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880235&extension=ts&play_token=sXBvklJyaL
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880236.png",PL| AXN BLACK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880236&extension=ts&play_token=WXF5JaMNtv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880485.png",PL| CINEMAX FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880485&extension=ts&play_token=iiNSzT2J3b
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880345.png",PL| CINEMAX HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880345&extension=ts&play_token=hnInsIm1rO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880488.png",PL| CINEMAX 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880488&extension=ts&play_token=1HkaB3nVd6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880348.png",PL| CINEMAX 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880348&extension=ts&play_token=FW1sxJq37a
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880483.png",PL| FILMBOX PREMIUM FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880483&extension=ts&play_token=VIErBNcdFW
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880344.png",PL| FILMBOX EXTRA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880344&extension=ts&play_token=kSsJP0G5VP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880484.png",PL| FILMBOX EXTRA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880484&extension=ts&play_token=PiMGKXRzye
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880232.png",PL| FILMBOX ARTHOUSE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880232&extension=ts&play_token=m5T7yHbdcp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880233.png",PL| FILMBOX ACTION
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880233&extension=ts&play_token=HGkhsjZsXg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880231.png",PL| FILMBOX FAMILY
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880231&extension=ts&play_token=DvjOhWmA46
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880487.png",PL| COMEDY CENTRAL FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880487&extension=ts&play_token=5voQVqSLdF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880347.png",PL| COMEDY CENTRAL HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880347&extension=ts&play_token=4x9BjoDvwa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880403.png",PL| POLSAT COMEDY CENTRAL EXTRA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880403&extension=ts&play_token=eNrCSowktq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880263.png",PL| POLSAT COMEDY CENTRAL EXTRA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880263&extension=ts&play_token=wxkemr15oN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880486.png",PL| COMEDY CENTRAL POLAND FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880486&extension=ts&play_token=qqSPLjOmcN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880346.png",PL| COMEDY CENTRAL POLAND HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880346&extension=ts&play_token=Gwjo0S9gHS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880478.png",PL| KINO TV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880478&extension=ts&play_token=fMcwtCN588
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880338.png",PL| KINO TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880338&extension=ts&play_token=lOzfmVmS7X
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880476.png",PL| KINO POLSKA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880476&extension=ts&play_token=0GBUUD5LWH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880336.png",PL| KINO POLSKA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880336&extension=ts&play_token=wQ2uLrVphm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880189.png",PL| TVP SERIALE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880189&extension=ts&play_token=6OfRCoukuT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880507.png",PL| POLSAT SERIALE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880507&extension=ts&play_token=jAsrPbEDYi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880367.png",PL| POLSAT SERIALE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880367&extension=ts&play_token=zTwzwFG5FL
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880477.png",PL| FOX FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880477&extension=ts&play_token=iiAsOlLfcj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880337.png",PL| FOX HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880337&extension=ts&play_token=9sYNUmgKef
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880480.png",PL| FOX COMEDY FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880480&extension=ts&play_token=BGukdicGwF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880340.png",PL| FOX COMEDY HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880340&extension=ts&play_token=LU0mPEsqqM
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880451.png",PL| SCIFI UNIVERSAL FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880451&extension=ts&play_token=DsUZQteCbJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880311.png",PL| SCIFI UNIVERSAL HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880311&extension=ts&play_token=fyy9EuyLFg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880431.png",PL| CBS EUROPA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880431&extension=ts&play_token=o25fLifPwA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880291.png",PL| CBS EUROPA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880291&extension=ts&play_token=xK3AAA6Jj5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880421.png",PL| EPIC DRAMA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880421&extension=ts&play_token=nfqHsozYQp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880281.png",PL| EPIC DRAMA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880281&extension=ts&play_token=ELr2Tce2WE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880229.png",PL| STOPKLATKA TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880229&extension=ts&play_token=3SuHpoetwS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880392.png",PL| SUNDANCE TV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880392&extension=ts&play_token=EWC47uiIF6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880252.png",PL| SUNDANCE TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880252&extension=ts&play_token=r5sOuCwmkG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880394.png",PL| ROMANCE TV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880394&extension=ts&play_token=UtsJnuFk3x
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880254.png",PL| ROMANCE TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880254&extension=ts&play_token=bpkvegjmto
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880209.png",PL| NOVELA TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880209&extension=ts&play_token=OMJTphnUyE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880410.png",PL| NOVELAS+ FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880410&extension=ts&play_token=meBEyx2Ad0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880270.png",PL| NOVELAS+ HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880270&extension=ts&play_token=tAjkljgwHz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880395.png",PL| RED CARPET TV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880395&extension=ts&play_token=fYyCK4uGtY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880255.png",PL| RED CARPET TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880255&extension=ts&play_token=t7VKRbke7g
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880197.png",PL| VOD 205
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880197&extension=ts&play_token=4e4NA1pnuP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880196.png",PL| VOD 206
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880196&extension=ts&play_token=PmegBiVCXo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880195.png",PL| VOD 207
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880195&extension=ts&play_token=LGUKc84WvJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880194.png",PL| VOD 208
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880194&extension=ts&play_token=JoTGr1aOtq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1649893.png",PL| TVN CZAS NA ŚLUB ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1649893&extension=ts&play_token=Np1RBTf6sV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1649892.png",PL| TVN CZAS NA ŚLUB ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1649892&extension=ts&play_token=2ljgcFlPN3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1649891.png",PL| TVN KULINARNE PODRÓŻE ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1649891&extension=ts&play_token=pVB31fke6C
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1649890.png",PL| TVN KULINARNE PODRÓŻE ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1649890&extension=ts&play_token=QWzzBFoTiC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1649889.png",PL| TVN PATROL ONLINE ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1649889&extension=ts&play_token=MAc59ChmrI
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1649888.png",PL| TVN PATROL ONLINE ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1649888&extension=ts&play_token=8prZU0emQi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433874.png",PL| TVN KRYMINALNIE ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433874&extension=ts&play_token=kKZ9galj10
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433875.png",PL| TVN KRYMINALNIE ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433875&extension=ts&play_token=1nmyho6DIG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433876.png",PL| TVN KULTOWE SERIALE ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433876&extension=ts&play_token=6QGwtVx0fK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433877.png",PL| TVN KULTOWE SERIALE ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433877&extension=ts&play_token=sIxZYnUi2m
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433878.png",PL| TVN MOMENTY PRAWDY ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433878&extension=ts&play_token=Z1AY2RtAnS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433879.png",PL| TVN MOMENTY PRAWDY ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433879&extension=ts&play_token=GL6hcWxNS5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433880.png",PL| TVN MOTO ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433880&extension=ts&play_token=JQN7WISCwT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433881.png",PL| TVN MOTO ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433881&extension=ts&play_token=x7e9aEYL9f
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433882.png",PL| TVN PRAWO I ŻYCIE ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433882&extension=ts&play_token=uYO1QUuOVX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433883.png",PL| TVN PRAWO I ŻYCIE ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433883&extension=ts&play_token=ItDp6nK1rC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433884.png",PL| TVN RAJSKA MIŁOŚĆ ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433884&extension=ts&play_token=xT19HMY87K
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433885.png",PL| TVN RAJSKA MIŁOŚĆ ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433885&extension=ts&play_token=G55SYeacj4
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433886.png",PL| TVN REWOLUCJE W KUCHNI ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433886&extension=ts&play_token=D8lnjcn7eC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433887.png",PL| TVN REWOLUCJE W KUCHNI ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433887&extension=ts&play_token=nOge42rQze
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433888.png",PL| TVN SERIAL O KOBIETACH ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433888&extension=ts&play_token=xUNbKaWUbK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433889.png",PL| TVN SERIAL O KOBIETACH ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433889&extension=ts&play_token=gYHT7QyyhP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433890.png",PL| TVN SZKOŁA ŻYCIA ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433890&extension=ts&play_token=pchsjDt4CC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433891.png",PL| TVN SZKOŁA ŻYCIA ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433891&extension=ts&play_token=COWe1o2yjv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433892.png",PL| TVN SZPITALNE HISTORIE ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433892&extension=ts&play_token=FlqwAf0JSA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433893.png",PL| TVN SZPITALNE HISTORIE ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433893&extension=ts&play_token=noTFQpZ5k9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433894.png",PL| TVN TALK-SHOW ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433894&extension=ts&play_token=Vrr716zjOp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433895.png",PL| TVN TALK-SHOW ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433895&extension=ts&play_token=NiMDTPNU7k
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433896.png",PL| TVN TELENOWELE ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433896&extension=ts&play_token=pMjVPYnY6L
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433897.png",PL| TVN TELENOWELE ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433897&extension=ts&play_token=ULkJCLm7DA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433898.png",PL| TVN USTERKA ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433898&extension=ts&play_token=OKOQKvalGz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433899.png",PL| TVN USTERKA ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433899&extension=ts&play_token=TzucQUVHle
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433900.png",PL| TVN W DOMU ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433900&extension=ts&play_token=LmgiORaLmw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433901.png",PL| TVN W DOMU ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433901&extension=ts&play_token=nlvLQfLwaq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1496498.png",PL| TVN MILIONERZY ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1496498&extension=ts&play_token=pCepa9a18w
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1496497.png",PL| TVN MILIONERZY ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1496497&extension=ts&play_token=MCsYtSaFx6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433902.png",PL| TVN ŻYCIE JAK W BAJCE ᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433902&extension=ts&play_token=XtQEHRDTc1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1433903.png",PL| TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1433903&extension=ts&play_token=LLVEXNIk7e
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880224.png",PL| DA VINCI LEARNING
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880224&extension=ts&play_token=ZevmsUbsMY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880239.png",PL| TVP ABC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880239&extension=ts&play_token=HbHlZt6D0s
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121740.png",PL| TVP ABC 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121740&extension=ts&play_token=XMDxT4wvyL
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121750.png",PL| DUCK TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121750&extension=ts&play_token=CYFI5cPjmJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121751.png",PL| DUCK TV PLUS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121751&extension=ts&play_token=JSvlElNXBa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880226.png",PL| BBC CBEEBIES
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880226&extension=ts&play_token=ABwKsYBYxI
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/897016.png",PL| TOP KIDS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=897016&extension=ts&play_token=WNj0Kay66U
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880225.png",PL| BABY TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880225&extension=ts&play_token=hbD14F18oo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1035704.png",PL| 4FUN KIDS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1035704&extension=ts&play_token=6E2A9pOSql
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880211.png",PL| NICK JR POLSKA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880211&extension=ts&play_token=xVVUui0o6Y
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121757.png",PL| NICK MUSIC HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121757&extension=ts&play_token=ZMr2ppvH0P
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880411.png",PL| TEENNICK FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880411&extension=ts&play_token=hlzvvITieh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880271.png",PL| TEENNICK HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880271&extension=ts&play_token=TT68aP4q0F
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880210.png",PL| NICKELODEON
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880210&extension=ts&play_token=wQETQetMg3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880412.png",PL| NICKTOONS FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880412&extension=ts&play_token=551ptlzkEt
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880272.png",PL| NICKTOONS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880272&extension=ts&play_token=lEhsfVdx2L
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880206.png",PL| POLSAT JIM JAM
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880206&extension=ts&play_token=et9hlKMGJG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880285.png",PL| DISNEY CHANNEL HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880285&extension=ts&play_token=mQnUy1t9xy
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880219.png",PL| DISNEY JUNIOR
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880219&extension=ts&play_token=SxU6DHDDuz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880218.png",PL| DISNEY XD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880218&extension=ts&play_token=wob2106ALt
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880443.png",PL| BOOMERANG FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880443&extension=ts&play_token=Hw0xs1xIpY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880303.png",PL| BOOMERANG HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880303&extension=ts&play_token=dnC4zsR66I
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880390.png",PL| TELETOON+ FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880390&extension=ts&play_token=YXaDRZhSrA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880250.png",PL| TELETOON+ HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880250&extension=ts&play_token=d18Hm3vz8L
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880414.png",PL| MINIMINI FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880414&extension=ts&play_token=Hefdm4yZZs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880274.png",PL| MINIMINI HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880274&extension=ts&play_token=PIxNZqpC5j
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880432.png",PL| CARTOON NETWORK FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880432&extension=ts&play_token=XwYHAVBbsX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880292.png",PL| CARTOON NETWORK HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880292&extension=ts&play_token=t0K20c6CRI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVC.png",PL| TVC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2117789&extension=ts&play_token=8fZjUcqaJa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1131804.png",PL| LOVE NATURE 4K+
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1131804&extension=ts&play_token=ZtaSQpCQfw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880445.png",PL| TRAVEL CHANNEL FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880445&extension=ts&play_token=98gaj6uPxR
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880305.png",PL| TRAVEL CHANNEL HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880305&extension=ts&play_token=9Yc7c3KCe6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880437.png",PL| ANIMAL PLANET FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880437&extension=ts&play_token=qvCOsYJO9N
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880297.png",PL| ANIMAL PLANET HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880297&extension=ts&play_token=vaaxWy4ohY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880434.png",PL| ADVENTURE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880434&extension=ts&play_token=nU5qPDpMcM
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880294.png",PL| ADVENTURE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880294&extension=ts&play_token=MeJPzYTbIf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880450.png",PL| BBC BRIT FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880450&extension=ts&play_token=Y18IQMJ3cg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880310.png",PL| BBC BRIT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880310&extension=ts&play_token=kNvEYR6Sy7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880436.png",PL| BBC EARTH FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880436&extension=ts&play_token=p0YEPGZgcy
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880296.png",PL| BBC EARTH HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880296&extension=ts&play_token=gjVpbUj0Sm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880309.png",PL| BBC FIRST HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880309&extension=ts&play_token=qiKYGGzEUr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880449.png",PL| BBC FIRST FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880449&extension=ts&play_token=C0EZhDHFBr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880435.png",PL| BBC LIFESTYLE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880435&extension=ts&play_token=BodMd64Tyv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880295.png",PL| BBC LIFESTYLE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880295&extension=ts&play_token=4QpyXaikcd
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880430.png",PL| CBS REALITY FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880430&extension=ts&play_token=PPbwHRcSW4
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880290.png",PL| CBS REALITY HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880290&extension=ts&play_token=PCrV23m2le
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATX.png",PL| POLSAT X
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=897002&extension=ts&play_token=1kZHBw02Cx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880442.png",PL| CANAL+ DOKUMENT FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880442&extension=ts&play_token=WkQEDok7Rh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880302.png",PL| CANAL+ DOKUMENT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880302&extension=ts&play_token=NThgVXAlYI
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880428.png",PL| DISCOVERY FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880428&extension=ts&play_token=l06z9fWmz0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880288.png",PL| DISCOVERY HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880288&extension=ts&play_token=c1gnvSA5xa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880426.png",PL| DISCOVERY SCIENCE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880426&extension=ts&play_token=iQRALdr74Y
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880286.png",PL| DISCOVERY SCIENCE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880286&extension=ts&play_token=ZHcnmq9OUW
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880427.png",PL| DISCOVERY LIFE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880427&extension=ts&play_token=5lgKcRMFw9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880287.png",PL| DISCOVERY LIFE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880287&extension=ts&play_token=1qCRpGH3AM
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530077.png",PL| DISCOVERY HISTORIA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1530077&extension=ts&play_token=4RVaRwyDAx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880228.png",PL| DISCOVERY HISTORIA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880228&extension=ts&play_token=fSTfu58anh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880438.png",PL| NATIONAL GEOGRAPHIC FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880438&extension=ts&play_token=GcE7IomGmo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880298.png",PL| NATIONAL GEOGRAPHIC HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880298&extension=ts&play_token=EjnLzL2MwQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880439.png",PL| NAT GEO WILD FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880439&extension=ts&play_token=cMB3zqVQG7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880299.png",PL| NAT GEO WILD HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880299&extension=ts&play_token=pKyW87dcOI
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880440.png",PL| NAT GEO PEOPLE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880440&extension=ts&play_token=9V1gi92pWa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880300.png",PL| NAT GEO PEOPLE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880300&extension=ts&play_token=YG2uoYpIdX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880416.png",PL| ID FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880416&extension=ts&play_token=wKJ3ROz8yT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880276.png",PL| ID HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880276&extension=ts&play_token=SjvmghRzRd
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880429.png",PL| CRIME AND INVESTIGATION FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880429&extension=ts&play_token=hIElgX8vxt
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880289.png",PL| CRIME AND INVESTIGATION HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880289&extension=ts&play_token=WrvNUH1Hpe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880423.png",PL| DTX FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880423&extension=ts&play_token=eMjIkNnLLp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880283.png",PL| DTX HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880283&extension=ts&play_token=nngYJUQWT8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880384.png",PL| HISTORY FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880384&extension=ts&play_token=KWX9u6WdkY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880244.png",PL| HISTORY HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880244&extension=ts&play_token=1kQYsYMDUr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880418.png",PL| H2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880418&extension=ts&play_token=go46juMjx4
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880278.png",PL| H2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880278&extension=ts&play_token=wIu6mQMcRG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880405.png",PL| PLANETE+ FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880405&extension=ts&play_token=ZK30oPx1gf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880265.png",PL| PLANETE+ HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880265&extension=ts&play_token=Os7mc2we3W
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880402.png",PL| POLSAT DOKU FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880402&extension=ts&play_token=vY1i3AJcro
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880262.png",PL| POLSAT DOKU HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880262&extension=ts&play_token=Z7K1gJaEtB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880397.png",PL| POLSAT VIASAT HISTORY FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880397&extension=ts&play_token=31LmUkPVdH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880257.png",PL| POLSAT VIASAT HISTORY HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880257&extension=ts&play_token=tJ0gn8InZC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880398.png",PL| POLSAT VIASAT EXPLORE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880398&extension=ts&play_token=9JLx1IuWd1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880258.png",PL| POLSAT VIASAT EXPLORE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880258&extension=ts&play_token=iy6kVQawkp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880396.png",PL| POLSAT VIASAT NATURE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880396&extension=ts&play_token=Y4Uk4iqaPq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880256.png",PL| POLSAT VIASAT NATURE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880256&extension=ts&play_token=sTEbZsCB4L
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880482.png",PL| FOKUS TV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880482&extension=ts&play_token=61CGE8MVKO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880342.png",PL| FOKUS TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880342&extension=ts&play_token=AQVhhyrGXs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880393.png",PL| STUDIOMED TV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880393&extension=ts&play_token=o4nBsIaBL4
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880253.png",PL| STUDIOMED TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880253&extension=ts&play_token=OJCUaAvwmi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880388.png",PL| TVP DOKUMENT FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880388&extension=ts&play_token=0XmIjUcqoq
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880248.png",PL| TVP DOKUMENT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880248&extension=ts&play_token=LpO7AdOO11
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880238.png",PL| TVP HISTORIA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880238&extension=ts&play_token=7jn9EUJqQJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121743.png",PL| TVP HISTORIA 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121743&extension=ts&play_token=wRhFjYryqX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS1.png",PL| ELEVEN SPORTS 1 4K/UHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1498959&extension=ts&play_token=H9dNjqN0xJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS1.png",PL| ELEVEN SPORTS 1 4K+
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=905665&extension=ts&play_token=JIzwW1K9yf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS1.png",PL| ELEVEN SPORTS 1 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880457&extension=ts&play_token=O5Z62f9zbm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS1.png",PL| ELEVEN SPORTS 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880317&extension=ts&play_token=4PYhZkTKsI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS2.png",PL| ELEVEN SPORTS 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880456&extension=ts&play_token=5BJXM6oWt1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS2.png",PL| ELEVEN SPORTS 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880316&extension=ts&play_token=EnRIj6SpXA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS3.png",PL| ELEVEN SPORTS 3 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880455&extension=ts&play_token=tlMxbkPQME
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS3.png",PL| ELEVEN SPORTS 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880315&extension=ts&play_token=SfeX0F8JRH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS4.png",PL| ELEVEN SPORTS 4 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880454&extension=ts&play_token=1ClHSgSyPD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/ELEVENSPORTS4.png",PL| ELEVEN SPORTS 4 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880314&extension=ts&play_token=KnlND4jprY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EUROSPORT1.png",PL| EUROSPORT 1 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880453&extension=ts&play_token=QkUMUeL95e
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EUROSPORT1.png",PL| EUROSPORT 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880313&extension=ts&play_token=mnT8q7NLij
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EUROSPORT2.png",PL| EUROSPORT 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880452&extension=ts&play_token=eJphzOA7Rc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EUROSPORT2.png",PL| EUROSPORT 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880312&extension=ts&play_token=6C0DFlYxSY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUS360.png",PL| CANAL+ 360 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880500&extension=ts&play_token=UGmaOAaGaQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUS360.png",PL| CANAL+ 360 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880360&extension=ts&play_token=2No7dbDS8Y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSNOW.png",PL| CANAL+ NOW FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880499&extension=ts&play_token=tgaDcdupC8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSNOW.png",PL| CANAL+ NOW HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880359&extension=ts&play_token=hoPrswiq7p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT.png",PL| CANAL+ SPORT FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880461&extension=ts&play_token=vOFUqytzh5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT.png",PL| CANAL+ SPORT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880321&extension=ts&play_token=VsjsQZsJnm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT2.png",PL| CANAL+ SPORT 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880460&extension=ts&play_token=kBS7dq2115
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT2.png",PL| CANAL+ SPORT 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880320&extension=ts&play_token=DBrcUFQKVx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT3.png",PL| CANAL+ SPORT 3 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880459&extension=ts&play_token=I236Icqneq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT3.png",PL| CANAL+ SPORT 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880319&extension=ts&play_token=Q7ClbfYYhf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT4.png",PL| CANAL+ SPORT 4 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880458&extension=ts&play_token=lyl2qegt29
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT4.png",PL| CANAL+ SPORT 4 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880318&extension=ts&play_token=TWHvADtOH8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT5.png",PL| CANAL+ SPORT 5 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880406&extension=ts&play_token=aDKl26gDKU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT5.png",PL| CANAL+ SPORT 5 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880266&extension=ts&play_token=QrszlKAymJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png",PL| POLSAT SPORT 1 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880471&extension=ts&play_token=QHY9ijbYHp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png",PL| POLSAT SPORT 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880331&extension=ts&play_token=nRLzMQcRhZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png",PL| POLSAT SPORT 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880470&extension=ts&play_token=TT8aJVAvJ1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png",PL| POLSAT SPORT 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880330&extension=ts&play_token=K5xNg9O3zS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png",PL| POLSAT SPORT 3 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880468&extension=ts&play_token=u6OICMW2h6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png",PL| POLSAT SPORT 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880328&extension=ts&play_token=YFZWS5Drd7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png",PL| POLSAT SPORT PREMIUM 1 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880467&extension=ts&play_token=h5L2AgHvf2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png",PL| POLSAT SPORT PREMIUM 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880327&extension=ts&play_token=UC3wH1HvMq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png",PL| POLSAT SPORT PREMIUM 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880466&extension=ts&play_token=3rcy9bADOV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png",PL| POLSAT SPORT PREMIUM 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880326&extension=ts&play_token=WRum8y6zCZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM3.png",PL| POLSAT SPORT PREMIUM 3 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880465&extension=ts&play_token=RC4ReijOK6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM3.png",PL| POLSAT SPORT PREMIUM 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880325&extension=ts&play_token=yzEsaJmynk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM4.png",PL| POLSAT SPORT PREMIUM 4 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880464&extension=ts&play_token=cTsnOze6oM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM4.png",PL| POLSAT SPORT PREMIUM 4 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880324&extension=ts&play_token=ayeMMWGaj5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM5.png",PL| POLSAT SPORT PREMIUM 5 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880463&extension=ts&play_token=x9pWIHUeli
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM5.png",PL| POLSAT SPORT PREMIUM 5 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880323&extension=ts&play_token=ISNep2AxmZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM6.png",PL| POLSAT SPORT PREMIUM 6 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880462&extension=ts&play_token=K6PCbjT2Qj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM6.png",PL| POLSAT SPORT PREMIUM 6 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880322&extension=ts&play_token=2GsI3UE1eD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTFIGHT.png",PL| POLSAT SPORT FIGHT FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880469&extension=ts&play_token=Bbkn7M0FKO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTFIGHT.png",PL| POLSAT SPORT FIGHT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880329&extension=ts&play_token=j2dAf5PBJp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTEXTRA1.png",PL| POLSAT SPORT EXTRA 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2111293&extension=ts&play_token=REpFMRa7DC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTEXTRA2.png",PL| POLSAT SPORT EXTRA 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2111292&extension=ts&play_token=oPsYS9HZ1f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTEXTRA3.png",PL| POLSAT SPORT EXTRA 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2111291&extension=ts&play_token=PWk8vNdcXj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTEXTRA4.png",PL| POLSAT SPORT EXTRA 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2111290&extension=ts&play_token=exfUB1UdHF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",PL| TVP SPORT FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880502&extension=ts&play_token=69hJVuHDzB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",PL| TVP SPORT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880362&extension=ts&play_token=f0seiVTmBx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/sportklub.png",PL| SPORTKLUB FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880447&extension=ts&play_token=eY5FcD3LeU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/sportklub.png",PL| SPORTKLUB HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880307&extension=ts&play_token=aLD0ZrkgtJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/FIGHTKLUB.png",PL| FIGHTKLUB FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880420&extension=ts&play_token=QIl5ZAWNo7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/FIGHTKLUB.png",PL| FIGHTKLUB HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880280&extension=ts&play_token=0pCwwcip4G
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/FIGHTBOX.png",PL| FIGHTBOX FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880446&extension=ts&play_token=HqpAEg4vvT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/FIGHTBOX.png",PL| FIGHTBOX HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880306&extension=ts&play_token=s4VsOXgprw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/PRIMEFIGHT.png",PL| PRIME FIGHT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121749&extension=ts&play_token=SAkTZdhNWw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EXTREMESPORTS.png",PL| EXTREME SPORTS FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880448&extension=ts&play_token=e5KHfALSM5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/EXTREMESPORTS.png",PL| EXTREME SPORTS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880308&extension=ts&play_token=7wR79mBYHi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/GOLFCHANNEL.png",PL| GOLF CHANNEL FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880419&extension=ts&play_token=oX1ufFTEWb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/GOLFCHANNEL.png",PL| GOLF CHANNEL HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880279&extension=ts&play_token=l5YVBt8awL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/MOTOWIZJA.png",PL| MOTOWIZJA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880413&extension=ts&play_token=uhYB2Z7Zoq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/MOTOWIZJA.png",PL| MOTOWIZJA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880273&extension=ts&play_token=oTOnX7NSkc
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1602078.png",PL| EUROSPORT UHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1602078&extension=ts&play_token=U3H7auksGi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1602005.png",PL| EUROSPORT 1 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1602005&extension=ts&play_token=PF6OjfBnDt
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1602006.png",PL| EUROSPORT 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1602006&extension=ts&play_token=AJ3CHHW5U1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1602007.png",PL| EUROSPORT 3 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1602007&extension=ts&play_token=ojIrrUIW0B
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1602008.png",PL| EUROSPORT 4 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1602008&extension=ts&play_token=0LLUQNJoQk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602009.png",PL| EUROSPORT 5 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1602009&extension=ts&play_token=IkoAACQMB1
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602010.png",PL| EUROSPORT 6 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1602010&extension=ts&play_token=rgZKyaDxnL
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602011.png",PL| EUROSPORT 7 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1602011&extension=ts&play_token=EZ5AR2ddAy
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602012.png",PL| EUROSPORT 8 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1602012&extension=ts&play_token=hjQ0p4S20y
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1602013.png",PL| EUROSPORT 9 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1602013&extension=ts&play_token=57Qr7qm8E3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880512.png",PL| TVN24 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880512&extension=ts&play_token=Q14YbFuoCG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880372.png",PL| TVN24 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880372&extension=ts&play_token=h55FVqcxY1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/897018.png",PL| TVN 24
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=897018&extension=ts&play_token=Q2k54jyQvy
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880513.png",PL| TVN24 BIS FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880513&extension=ts&play_token=GfHS5udO8U
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880373.png",PL| TVN24 BIS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880373&extension=ts&play_token=NvmAYTnlzK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880503.png",PL| TVP INFO FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880503&extension=ts&play_token=KEgnmNBDZN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121739.png",PL| TVP WORLD HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121739&extension=ts&play_token=yD3bgQ77L7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880363.png",PL| TVP INFO HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880363&extension=ts&play_token=80n22ahL6z
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880382.png",PL| TVP POLONIA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880382&extension=ts&play_token=bc9vvC7nba
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1977093.png",PL| WYDARZENIA 24
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1977093&extension=ts&play_token=hrR1TH5Onc
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880441.png",PL| POLSAT NEWS FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880441&extension=ts&play_token=KzIK3jpx6z
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880301.png",PL| POLSAT NEWS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880301&extension=ts&play_token=TOQOx6v1Ju
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880227.png",PL| POLSAT NEWS 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880227&extension=ts&play_token=IjnPO02qfO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880444.png",PL| BIZNES24 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880444&extension=ts&play_token=On8jagO36b
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880304.png",PL| BIZNES24 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880304&extension=ts&play_token=IMvJpUXKi0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880191.png",PL| WPOLSCE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880191&extension=ts&play_token=8ufz3ULRfs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880203.png",PL| TV REPUBLIKA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880203&extension=ts&play_token=f5pVESEB6V
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880391.png",PL| POLSAT NEWS POLITYKA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880391&extension=ts&play_token=tRJvTMQxAt
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880251.png",PL| POLSAT NEWS POLITYKA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880251&extension=ts&play_token=2KjEmy0Iat
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880216.png",PL| ESKA TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880216&extension=ts&play_token=9ivQRIfZJm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880215.png",PL| ESKA TV EXTRA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880215&extension=ts&play_token=mdgJoZ5rMd
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880217.png",PL| ESKA ROCK TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880217&extension=ts&play_token=ZS84Vc0f3X
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880220.png",PL| 4FUN.TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880220&extension=ts&play_token=TzuzaLhQfE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880222.png",PL| 4FUN DANCE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880222&extension=ts&play_token=V0LT3sXWRx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880221.png",PL| 4FUN GOLD HITS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880221&extension=ts&play_token=IyZrVqJo34
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880204.png",PL| STARS.TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880204&extension=ts&play_token=We1a4FffQs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880207.png",PL| NUTA TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880207&extension=ts&play_token=VdoRB2KJzk
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880199.png",PL| MUSIC BOX POLSKA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880199&extension=ts&play_token=AXJCnSQLQb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121760.png",PL| MIXTAPE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121760&extension=ts&play_token=GQGjZzZ0WV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121759.png",PL| 360 TUNEBOX HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121759&extension=ts&play_token=Q4iABWQPnE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880213.png",PL| KINO POLSKA MUZYKA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880213&extension=ts&play_token=Fqtw90Wbdp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880400.png",PL| POLSAT MUSIC FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880400&extension=ts&play_token=IXmbvFFYHm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880260.png",PL| POLSAT MUSIC HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880260&extension=ts&play_token=bbgCckM4En
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880409.png",PL| MTV LIVE FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880409&extension=ts&play_token=ErILCtb3lp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880269.png",PL| MTV LIVE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880269&extension=ts&play_token=o7PBRLcYkC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880408.png",PL| MTV POLSKA FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880408&extension=ts&play_token=gG0BYXah0q
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880268.png",PL| MTV POLSKA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880268&extension=ts&play_token=lbpfoIPjly
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880200.png",PL| MTV 00S
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880200&extension=ts&play_token=1u5JpYQwsx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880208.png",PL| MTV 80S HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880208&extension=ts&play_token=7mOdsNfOzg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880198.png",PL| VOX MUSIC TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880198&extension=ts&play_token=psFnmtgTsP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880205.png",PL| POWER TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880205&extension=ts&play_token=6BB7po0wXn
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121755.png",PL| DISCO POLO MUSIC HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121755&extension=ts&play_token=ZcLjkbtTTA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880223.png",PL| DISCO POLO MUSIC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880223&extension=ts&play_token=qdql1Tf8Bj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880383.png",PL| POLO TV FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880383&extension=ts&play_token=i14w5NVJei
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880243.png",PL| POLO TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=880243&extension=ts&play_token=5Nhy2MCbLw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121754.png",PL| JAZZ HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121754&extension=ts&play_token=G6lj6njOwj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121752.png",PL| MEZZO HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121752&extension=ts&play_token=d5eYNY4ZXo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121753.png",PL| MEZZO LIVE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1121753&extension=ts&play_token=o7qRbeRjgN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936815.png",PL| TVP3 BIALYSTOK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936815&extension=ts&play_token=pOE0u7pZGK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936816.png",PL| TVP3 BYDGOSZCZ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936816&extension=ts&play_token=khHyVtT8ud
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936817.png",PL| TVP3 GDANSK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936817&extension=ts&play_token=B3iScB9R18
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936818.png",PL| TVP3 GORZOW
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936818&extension=ts&play_token=e9OVLn6pPR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPNAUKA.png",PL| TVP NAUKA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2118899&extension=ts&play_token=Kf15dG6mHm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936819.png",PL| TVP3 KATOWICE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936819&extension=ts&play_token=QD9L16UcrB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936820.png",PL| TVP3 KIELCE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936820&extension=ts&play_token=4K37EOBH16
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936821.png",PL| TVP3 KRAKOW
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936821&extension=ts&play_token=guNHEAGKXa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936834.png",PL| TVP3 LUBLIN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936834&extension=ts&play_token=F5to87MUqQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936835.png",PL| TVP3 LODZ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936835&extension=ts&play_token=jqqIHYDA8D
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936836.png",PL| TVP3 OLSZTYN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936836&extension=ts&play_token=jhishcCNbX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936837.png",PL| TVP3 OPOLE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936837&extension=ts&play_token=TbeWsX7KQ2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936838.png",PL| TVP3 POZNAN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936838&extension=ts&play_token=LUOKfFIEFT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936839.png",PL| TVP3 RZESZOW
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936839&extension=ts&play_token=M0yuB2WYol
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936948.png",PL| TVP3 SZCZECIN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936948&extension=ts&play_token=NkoBAURlMF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/936950.png",PL| TVP3 WARSZAWA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=936950&extension=ts&play_token=OMwTJLmnEH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1142450.png",PL| HIGH LEAGUE 6
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1142450&extension=ts&play_token=2776njAjiE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1142451.png",PL| HIGH LEAGUE 6 BACKUP 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1142451&extension=ts&play_token=139gHDBre9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1142452.png",PL| HIGH LEAGUE 6 BACKUP 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1142452&extension=ts&play_token=wxQeorAAOA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1289021.png",PL| KSW
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1289021&extension=ts&play_token=QsnKrJtArp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1289023.png",PL| FAME MMA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1289023&extension=ts&play_token=zm7ik3jAjh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1289024.png",PL| PRIME MMA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1289024&extension=ts&play_token=8R1yn4gkFs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1289026.png",PL| HIGH LEAGUE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1289026&extension=ts&play_token=Zwug8ppznW
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1289022.png",PL| FEN MMA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1289022&extension=ts&play_token=Uy152qoDF1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1289029.png",PL| THE WAR
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1289029&extension=ts&play_token=MBlSAhPfRC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1289028.png",PL| OKTAGON MMA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1289028&extension=ts&play_token=eYW88WQ33e
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1289027.png",PL| WOTORE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1289027&extension=ts&play_token=uaZYc5xWJp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1289025.png",PL| GROMDA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1289025&extension=ts&play_token=kLnZ3p7UID
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1311423.png",PL| CLOUT MMA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1311423&extension=ts&play_token=QbL8itPfi6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1293996.png",PL| WALKI 1 (LIVE EVENT ONLY)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1293996&extension=ts&play_token=a74o26xJai
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1293995.png",PL| WALKI 2 (LIVE EVENT ONLY)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1293995&extension=ts&play_token=mnd4jWjXT7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735090.png",PL| ARKA NOEGO KOLĘDY PIOSENKI ŚWIĄTECZNE POL
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735090&extension=ts&play_token=U9d8JRA2fm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735089.png",PL| ENEJ KOLĘDY POD WSPÓLNYM NIEBEM
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735089&extension=ts&play_token=G6bXzEH7vn
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735088.png",PL| GRONICKI NAJPIĘKNIEJSZE KOLĘDY POLSKIE I GÓRALSKIE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735088&extension=ts&play_token=5L4PzQyQbz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735087.png",PL| KAPELA GÓROLE KOLĘDY GÓRALSKIE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735087&extension=ts&play_token=RWneOFOGvE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735086.png",PL| KOLĘDY I PASTORAŁKI GÓRALSKIE KAPELA OGÓRKI
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735086&extension=ts&play_token=v5Jntl4zVF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735085.png",PL| KOLEDY I PASTORALKI GÓRALSKIE SPOD SAMIUCKIK TATER
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735085&extension=ts&play_token=TTTlcpddV9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735084.png",PL| KOLĘDY Z ZENKIEM MARTYNIUKIEM
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735084&extension=ts&play_token=uLWf8LWWXD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735083.png",PL| KOMINEK I MUZYKA RELAKSACYJNO BOŻONARODZENIOWA 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735083&extension=ts&play_token=CfVCwyfCcI
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735082.png",PL| KOMINEK I MUZYKA RELAKSACYJNO BOŻONARODZENIOWA 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735082&extension=ts&play_token=mTTDPAZP5Y
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735081.png",PL| KOMINEK I ZAGRANICZNE PIOSENKI ŚWIĄTECZNE 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735081&extension=ts&play_token=0vh9sRh4pF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735080.png",PL| KOMINEK I ZAGRANICZNE PIOSENKI ŚWIĄTECZNE 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735080&extension=ts&play_token=meOJwDLqSQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735079.png",PL| KOMINEK ŚWIĄTECZNY 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735079&extension=ts&play_token=QEJfJTuwxO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735078.png",PL| KOMINEK ŚWIĄTECZNY 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735078&extension=ts&play_token=lgjxcsj9OB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735077.png",PL| KONCERT KOLĘD I PASTORAŁEK MAŁEJ ARMII JANOSIKA W ROKICINACH PODHALAŃSKICH
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735077&extension=ts&play_token=CepByqaLWb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735076.png",PL| MATTEO BOCELLI I PRZYJACIELE ŚWIĘTA SPEŁNIONYCH MARZEŃ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735076&extension=ts&play_token=RJdULCNSm1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735075.png",PL| MAZOWSZE ŚPIEWA KOLĘDY
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735075&extension=ts&play_token=ue5slTMhgG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735074.png",PL| NAJLEPSZA RELAKSACYJNO ZAGRANICZNA MUZYKA ŚWIĄTECZNA PRZY KOMINKU
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735074&extension=ts&play_token=at4eygQyPd
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735073.png",PL| NAJLEPSZE ZAGRANICZNE PIOSENKI ŚWIĄTECZNE ZIMA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735073&extension=ts&play_token=HOWxQSpk26
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735072.png",PL| NAJLEPSZE ZAGRANICZNE PIOSENKI ŚWIĄTECZNE PRZY CHOINCE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735072&extension=ts&play_token=k4WOI2wQT8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735071.png",PL| NAJLEPSZE ZAGRANICZNE PIOSENKI ŚWIĄTECZNE Z TEKSTEM
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735071&extension=ts&play_token=xnTkIpgWX2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735070.png",PL| NAJPIĘKNIEJSZE KOLĘDY I PASTORAŁKI GÓRALSKIE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735070&extension=ts&play_token=d8ywfgX0xY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735069.png",PL| NAJPIĘKNIEJSZE KOLĘDY KRZYSZTOF KRAWCZYK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735069&extension=ts&play_token=lVdikGqI40
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735068.png",PL| NAJPIĘKNIEJSZE KOLĘDY Z PODHALA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735068&extension=ts&play_token=9uU2nOd30V
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735067.png",PL| NAJPIĘKNIEJSZE POLSKIE KOLĘDY DLA DZIECI
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735067&extension=ts&play_token=tLwxtZgxLl
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735066.png",PL| NAJPIĘKNIEJSZE POLSKIE KOLĘDY GOLEC UORKIESTRA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735066&extension=ts&play_token=gRHwtxwjZ8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735065.png",PL| NAJPIĘKNIEJSZE POLSKIE KOLĘDY GOLEC UORKIESTRA 3 JASNA GÓRA
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735065&extension=ts&play_token=mVxfkLmhpm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735064.png",PL| NAJPIĘKNIEJSZE POLSKIE KOLĘDY Z TEKSTEM
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735064&extension=ts&play_token=sn6z5ubWBu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735063.png",PL| PIOSENKI ŚWIĄTECZNE DLA DZIECI
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735063&extension=ts&play_token=7hypsRfZKb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735062.png",PL| ŚWIĄTECZNE ZAGRANICZNE PIOSENKI DLA DZIECI
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735062&extension=ts&play_token=DKiCZp9BwP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735061.png",PL| ŚWIĄTECZNY KOMINEK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735061&extension=ts&play_token=qc6BtC8wrD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735060.png",PL| ŚWIĘTA NA KLUBOWO
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735060&extension=ts&play_token=gjEDaJDg4z
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735059.png",PL| ŚWIĘTA Z BONEY M PRZY KOMINKU
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735059&extension=ts&play_token=1OzLiIcd8H
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735058.png",PL| WODECKI KRAWCZYK I RYNKOWSKI KOLĘDY
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735058&extension=ts&play_token=AvTXj6bEpb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735057.png",PL| ZIMA RELAKS 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735057&extension=ts&play_token=8SPa4LXPU7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735056.png",PL| ZIMA RELAKS 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735056&extension=ts&play_token=jKfwMnTnWA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1735055.png",PL| ZIMOWY KOMINEK 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1735055&extension=ts&play_token=0sEHSVrZhc

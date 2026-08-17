@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902358&extension=ts&play_token=WYn8QFlPWJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902357&extension=ts&play_token=dJuvZokMNi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902356&extension=ts&play_token=jprTiM9gkC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902355&extension=ts&play_token=Qv6GnCxDPH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 5
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902354&extension=ts&play_token=bQJXS7Ya5A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 6
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902353&extension=ts&play_token=SW2r3VlKNZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 7
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902352&extension=ts&play_token=s2FvGjFGwb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 8
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902351&extension=ts&play_token=oWOzyd3apW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 9
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902350&extension=ts&play_token=EiDHcKCKhX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 10
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902349&extension=ts&play_token=l6o8vEHDxd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 11
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902348&extension=ts&play_token=5WbLcUhwBq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 12
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902347&extension=ts&play_token=70bxncYEkM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 13
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902346&extension=ts&play_token=KYkeXQIvUq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 14
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902345&extension=ts&play_token=wutC0rVUff
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 15
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902344&extension=ts&play_token=lyZhgmS6Nw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 16
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902343&extension=ts&play_token=ISb69XmFJn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 17
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902342&extension=ts&play_token=0bksMQEnvN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 18
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902341&extension=ts&play_token=QzDe8OOXQ0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 19
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902340&extension=ts&play_token=sdrOnP6pnM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 20
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1902339&extension=ts&play_token=qDU4zJLgzy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 21
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106845&extension=ts&play_token=3iqGynWW4O
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 22
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106844&extension=ts&play_token=SdIyzaQXce
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 23
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106843&extension=ts&play_token=mXDvOQv7M5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 24
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106842&extension=ts&play_token=5GpmtKOtAv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 25
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106841&extension=ts&play_token=myGJrI6DxP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 26
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106840&extension=ts&play_token=MTZ7bA59P1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 27
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106839&extension=ts&play_token=JsXw1fDGPI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 28
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106838&extension=ts&play_token=nUBv3CwDW6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 29
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106837&extension=ts&play_token=UHeFNsmmoT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 30
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106836&extension=ts&play_token=MvOlCab1qb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 31
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106835&extension=ts&play_token=h8w99Trcwv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 32
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2106834&extension=ts&play_token=ZYlnplV4eH
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164616.png",TH| MONO+
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=164616&extension=ts&play_token=xf7CFWFSCC

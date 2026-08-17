@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182157.png",NZ| TVNZ 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1182157&extension=ts&play_token=UoA1mtv7j6
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182156.png",NZ| TVNZ 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1182156&extension=ts&play_token=2tDvS8BIim
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182155.png",NZ| TVNZ DUKE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1182155&extension=ts&play_token=oyNQOiYAsY
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1183170.png",NZ| THREE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1183170&extension=ts&play_token=DfQ5GpSpO5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182154.png",NZ| CH200 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1182154&extension=ts&play_token=eLrnkqX6tU
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182153.png",NZ| SHINE TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1182153&extension=ts&play_token=Y7JD7JIAtC
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182152.png",NZ| TE REO HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1182152&extension=ts&play_token=ZsJtiWKSTR
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182151.png",NZ| EDEN HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1182151&extension=ts&play_token=fLTzxtKJsE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182150.png",NZ| PRIME HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1182150&extension=ts&play_token=Vh6HB8w3Z9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182149.png",NZ| RUSH HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1182149&extension=ts&play_token=idwXsCy6UV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/814502.png",NZ| EDGE SPORTS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=814502&extension=ts&play_token=vkFJ8AtLyr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png",NZ| NBA TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=814501&extension=ts&play_token=VJrlNScQ0S
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/814498.png",NZ| LFC TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=814498&extension=ts&play_token=iHap0XkeZB
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/814497.png",NZ| MUTV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=814497&extension=ts&play_token=Frr8qHWkTq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521025.png",NZ| TRACK SIDE 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=521025&extension=ts&play_token=CKZ64SgeRI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521024.png",NZ| TRACK SIDE 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=521024&extension=ts&play_token=fHIg3bOUBn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/814500.png",NZ| TAB TRACKSIDE 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=814500&extension=ts&play_token=UyinoFmhdb
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/814499.png",NZ| TAB TRACKSIDE 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=814499&extension=ts&play_token=9ff3zDBPA5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521012.png",NZ| BBC EARTH HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=521012&extension=ts&play_token=nnsEHOWWv9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521001.png",NZ| BBC WORLD NEWS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=521001&extension=ts&play_token=i3wEPhQ3Rg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521000.png",NZ| SKY NEWS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=521000&extension=ts&play_token=wxQiPGjs8j
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520999.png",NZ| CNN HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=520999&extension=ts&play_token=TtnLNkkty9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520998.png",NZ| JUICE TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=520998&extension=ts&play_token=jPASP3WdUs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/WAIRARAPA-TV.png",NZ| WAIRARAPA TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=520996&extension=ts&play_token=PmTLpphM3g
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PARLIAMENT-TV.jpeg",NZ| PARLIAMENT TV HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=520995&extension=ts&play_token=mueh8CHiAL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520993.png",NZ| FIRSTLIGHT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=520993&extension=ts&play_token=1tD0XnY1V2
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520992.png",NZ| TVSN SHOPPING HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=520992&extension=ts&play_token=XRY14z9vtj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520991.png",NZ| AL JAZEERA HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=520991&extension=ts&play_token=tTC929XEob
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520990.png",NZ| TE REO HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=520990&extension=ts&play_token=HEXxH2CGse
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/520989.png",NZ| MAORI TELEVISION HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=520989&extension=ts&play_token=CHFxkd0f9v
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636918.png",NZ| SKY SPORT 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=636918&extension=ts&play_token=G7qTETqvyA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636919.png",NZ| SKY SPORT 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=636919&extension=ts&play_token=1wUtZMRvm9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636920.png",NZ| SKY SPORT 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=636920&extension=ts&play_token=N7Bep40mza
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636921.png",NZ| SKY SPORT 4 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=636921&extension=ts&play_token=aSe0BTVK0u
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636922.png",NZ| SKY SPORT 5 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=636922&extension=ts&play_token=j1tmqrehYv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636923.png",NZ| SKY SPORT 6 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=636923&extension=ts&play_token=v5bw5rHEVk
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636924.png",NZ| SKY SPORT 7 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=636924&extension=ts&play_token=phuIH381kG
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636925.png",NZ| SKY SPORT 8 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=636925&extension=ts&play_token=0bu4uN3HCv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636926.png",NZ| SKY SPORT 9 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=636926&extension=ts&play_token=0F1B6OYmE6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/skysport10.png",NZ| SKY SPORT 10 SELECT HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=636927&extension=ts&play_token=6PuO3UbMLE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sparksport.png",NZ| SPARK SPORTS EVENT 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=317003&extension=ts&play_token=vDhdDLKQda
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sparksport.png",NZ| SPARK SPORTS EVENT 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=317004&extension=ts&play_token=GpyFMF785P
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sparksport.png",NZ| SPARK SPORTS EVENT 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=317005&extension=ts&play_token=Dajav8zToP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sparksport.png",NZ| SPARK SPORTS EVENT 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=317006&extension=ts&play_token=lTxXyp5u8h
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sparksport.png",NZ| SPARK SPORTS EVENT 5
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=317007&extension=ts&play_token=fQysLMC6yc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sparksport.png",NZ| SPARK SPORTS EVENT 6
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=317008&extension=ts&play_token=bps1DQBV3P
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sparksport.png",NZ| SPARK SPORTS EVENT 7
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=317009&extension=ts&play_token=8eOgJbj98J
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sparksport.png",NZ| SPARK SPORTS EVENT 8
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=317010&extension=ts&play_token=fgNP3tqkbR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sparksport.png",NZ| SPARK SPORTS EVENT 9
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=317011&extension=ts&play_token=OykhrNqOQ7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sparksport.png",NZ| SPARK SPORTS EVENT 10
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=317012&extension=ts&play_token=lQVMX8Tgg2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 1 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2024778&extension=ts&play_token=XDZsbv3E8p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 2 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2024777&extension=ts&play_token=ZDsfiwy2gV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 3 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2024776&extension=ts&play_token=L5uPp0nlWC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 4 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2024775&extension=ts&play_token=NMD3AKaAxN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 5 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2024774&extension=ts&play_token=MFoQWmKXh8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 6 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2024773&extension=ts&play_token=D3MEkVr7cp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 7 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2024772&extension=ts&play_token=73XqMmQMLm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 8 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2024771&extension=ts&play_token=19FDdx5HG9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 9 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2024770&extension=ts&play_token=0soBY1Id3F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT POP UP 1 FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=2024769&extension=ts&play_token=pzuy621BVV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1424311.png",NZ| SKY SPORTS NZ PL
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424311&extension=ts&play_token=mzxRwacgpP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 9
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424310&extension=ts&play_token=OYyH1d7Y9K
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ SELECT
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424309&extension=ts&play_token=e3DGF0PSdw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1424308.png",NZ| SKY SPORTS NZ POPUP 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424308&extension=ts&play_token=2LBgDGcHL4
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1424307.png",NZ| SKY NZ ESPN
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424307&extension=ts&play_token=OeJ4MYFmu2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/espn.png",NZ| SKY NZ ESPN 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424306&extension=ts&play_token=GsBm8z1Ept
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424318&extension=ts&play_token=lT4JROWcFR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424317&extension=ts&play_token=whHWUZV6mr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424316&extension=ts&play_token=DjkabwXj22
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424315&extension=ts&play_token=yRjJcNL11W
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 5
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424314&extension=ts&play_token=DImFWkWRtN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 6
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424313&extension=ts&play_token=w1DKZZLkRJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 7
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1424312&extension=ts&play_token=qVvL4q5nCj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104679.png",NZ| SKY SPORT 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1104679&extension=ts&play_token=EYlaV6tBSr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1127566.png",NZ| SKY SPORT 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1127566&extension=ts&play_token=bWoglcKQ5s
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104680.png",NZ| SKY SPORT 4 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1104680&extension=ts&play_token=vAS63OJJah
