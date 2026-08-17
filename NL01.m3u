@@ -1,0 +1,581 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPO1.png",NL| NPO1 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283349&extension=ts&play_token=93kzouPYpW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPO2.png",NL| NPO2 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283348&extension=ts&play_token=KpdTM23CIs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPO3.png",NL| NPO3 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283347&extension=ts&play_token=Msikim52hI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/RTL4.png",NL| RTL4 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283346&extension=ts&play_token=QU5iQE4Ovu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/RTL5.png",NL| RTL5 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283345&extension=ts&play_token=fdqXMgu3Pa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SBS6.png",NL| SBS6 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283344&extension=ts&play_token=Os4CPreCwl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/RTL7.png",NL| RTL7 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283343&extension=ts&play_token=n9AVZwMiFM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/RTL8.png",NL| RTL8 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283342&extension=ts&play_token=4kfkYXOosQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SBS9.png",NL| SBS 9 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283341&extension=ts&play_token=jr1emPn3WZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NET5.png",NL| NET5 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283340&extension=ts&play_token=jQyux63UZR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/891544.png",NL| RTL CRIME 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283339&extension=ts&play_token=dwg4zDOh7s
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/891401.png",NL| RTL LOUNGE 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283338&extension=ts&play_token=ckw6PVhwoI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/891457.png",NL| RTL Z 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283337&extension=ts&play_token=KKNkaIMeTo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/VERONICADISNEYJR.png",NL| VERONICA / DISNEY JR 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283336&extension=ts&play_token=2lNIl1emSr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPO1EXTRA.png",NL| NPO 1 EXTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283335&extension=ts&play_token=m0sIoQ1OGL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPO2EXTRA.png",NL| NPO 2 EXTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283334&extension=ts&play_token=7Hex0Ci4d9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NPOPOLITIEK.png",NL| NPO POLITIEK 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283333&extension=ts&play_token=n3AYANJX00
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FILM1PREMIERE.png",NL| FILM1 PREMIERE 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283332&extension=ts&play_token=933PSZs69o
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FILM1ACTION.png",NL| FILM1 ACTION 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283331&extension=ts&play_token=FfC4ireUyU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FILM1DRAMA.png",NL| FILM1 DRAMA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283330&extension=ts&play_token=lLLAW6R7nm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FILM1FAMILY.png",NL| FILM1 FAMILY 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283329&extension=ts&play_token=QspUUP1Kzb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGO.png",NL| ZIGGO TV 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283328&extension=ts&play_token=vrZpgDKoZY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",NL| ESPN UHD 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283327&extension=ts&play_token=WwZOPVBuB8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",NL| ESPN 1 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283326&extension=ts&play_token=cKtvnG6fvH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",NL| ESPN 1 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283325&extension=ts&play_token=NwnwXfTL67
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN2.png",NL| ESPN 2 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283324&extension=ts&play_token=j4c1r2lavs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN2.png",NL| ESPN 2 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283323&extension=ts&play_token=MOgblWb5bc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN-3.png",NL| ESPN 3 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283322&extension=ts&play_token=6GyicjZLHy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN-3.png",NL| ESPN 3 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283321&extension=ts&play_token=UUZ9yAkf4N
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN4.png",NL| ESPN 4 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283320&extension=ts&play_token=gu71iKJupw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN4.png",NL| ESPN 4 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283319&extension=ts&play_token=F9ihSSlbDC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283318&extension=ts&play_token=KdymZhjRcC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283317&extension=ts&play_token=MyOLiKpgju
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283316&extension=ts&play_token=bx6JQMIC10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283315&extension=ts&play_token=CXnGEyftw4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 2 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283314&extension=ts&play_token=0q4FW5hr78
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 2 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283313&extension=ts&play_token=zIM2udkS1r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 3 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283310&extension=ts&play_token=EN1VPwj6vo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 3 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283309&extension=ts&play_token=77WutiEJam
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 4 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283308&extension=ts&play_token=MlwqwdE3ly
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 4 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283307&extension=ts&play_token=MnbVJMaKyV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 5 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283312&extension=ts&play_token=YEyfijIbpP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 5 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283311&extension=ts&play_token=YKhaYHQ0tN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 6 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283306&extension=ts&play_token=flV6r4OM8A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 6 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283305&extension=ts&play_token=y8ywPMLgqL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/EUROSPORT1.png",NL| EUROSPORT 1 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283304&extension=ts&play_token=4fQmknVc5a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/EUROSPORT1.png",NL| EUROSPORT 1 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283303&extension=ts&play_token=wUZuMN5fpe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/EUROSPORT2.png",NL| EUROSPORT 2 ULTRA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283302&extension=ts&play_token=Qr3OmOZu1z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/EUROSPORT2.png",NL| EUROSPORT 2 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283301&extension=ts&play_token=d5KJQ0wkNf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/VIAPLAY.png",NL| VIAPLAY TV 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283267&extension=ts&play_token=eELmKdGPvH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1761590.png",NL| NPO1 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761590&extension=ts&play_token=SCCP3Xd03k
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1761589.png",NL| NPO 2 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761589&extension=ts&play_token=4cstG8scRK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1761588.png",NL| NPO 3 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761588&extension=ts&play_token=jZ6aYB6rJy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1761587.png",NL| RTL 4 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761587&extension=ts&play_token=fPKgmax2VM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1761586.png",NL| RTL 5 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761586&extension=ts&play_token=HOEDNhgRww
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1761585.png",NL| SBS 6 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761585&extension=ts&play_token=9LcbDcnaM0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1761584.png",NL| RTL 7 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761584&extension=ts&play_token=uFj74y4taX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1761583.png",NL| RTL 8 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761583&extension=ts&play_token=d5GXM9MKIZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1761582.png",NL| SBS 9 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761582&extension=ts&play_token=zX6lTaqvxx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NET5.png",NL| NET 5 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761580&extension=ts&play_token=0r1qVQthsk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN2.png",NL| ESPN 2 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761578&extension=ts&play_token=UZypZS94Hn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN-3.png",NL| ESPN 3 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761577&extension=ts&play_token=bBoUzTTWDD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN4.png",NL| ESPN 4 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761576&extension=ts&play_token=JP8sa8DQwm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761575&extension=ts&play_token=LTx59yFqBb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 2 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761574&extension=ts&play_token=TwIWGjA4r2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 3 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761573&extension=ts&play_token=aOv1bdRh55
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 4 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761572&extension=ts&play_token=KbR0949ZLb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 5 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761571&extension=ts&play_token=QKfIl15wfu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 6 UHD 8K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761570&extension=ts&play_token=xjEC0VSDnJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282729.png",NL| NPO 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282729&extension=ts&play_token=e4C8FMXb6T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282728.png",NL| NPO 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282728&extension=ts&play_token=Ae71ltfhQd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282727.png",NL| NPO 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282727&extension=ts&play_token=GbFhrPYfvV
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282726.png",NL| RTL 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282726&extension=ts&play_token=IIfrugFQin
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282725.png",NL| RTL 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282725&extension=ts&play_token=524mUq80OX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282724.png",NL| SBS 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282724&extension=ts&play_token=MRT2UKp2yU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282723.png",NL| RTL 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282723&extension=ts&play_token=i1KXeVIz6U
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282722.png",NL| RTL 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282722&extension=ts&play_token=BzyzIb9C8E
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282721.png",NL| RTL Z HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282721&extension=ts&play_token=uGecXBt7n0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282720.png",NL| SBS 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282720&extension=ts&play_token=2dYGXZgwEc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282717.png",NL| NPO 1 EXTRA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282717&extension=ts&play_token=zQGAMCkg6m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282716.png",NL| NPO 2 EXTRA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282716&extension=ts&play_token=6TIlI8qFuM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1283099.png",NL| NPO POLITIEK
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1283099&extension=ts&play_token=7kVvBNZkg9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282714.png",NL| NPO 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282714&extension=ts&play_token=kXoFYFOEnV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282713.png",NL| NPO 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282713&extension=ts&play_token=WonNvRLD1h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282712.png",NL| NPO 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282712&extension=ts&play_token=1q6hyEbDKz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282711.png",NL| RTL 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282711&extension=ts&play_token=UXgpmS3GLA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282710.png",NL| RTL 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282710&extension=ts&play_token=N0UqQWy5wk
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282709.png",NL| SBS 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282709&extension=ts&play_token=td1EyUNYJy
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282708.png",NL| RTL 7 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282708&extension=ts&play_token=1gGmK3GhvS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282707.png",NL| RTL 8 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282707&extension=ts&play_token=mglCVY46cA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282706.png",NL| RTL Z FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282706&extension=ts&play_token=4F4aysGHNm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282705.png",NL| SBS 9 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282705&extension=ts&play_token=IiBx3JM7C3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282703.png",NL| NET 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282703&extension=ts&play_token=hx4765GqqC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282702.png",NL| NPO 1 EXTRA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282702&extension=ts&play_token=C4gyU8WZNn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282701.png",NL| NPO 2 EXTRA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282701&extension=ts&play_token=aOBRjXJjLp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/VIAPLAY.png",NL| VIAPLAY TV 24/7 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1838322&extension=ts&play_token=ZPBlBtC7zF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",NL| ESPN HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282769&extension=ts&play_token=zW2CQRKSes
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",NL| ESPN 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1634105&extension=ts&play_token=C8k42kd6by
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN2.png",NL| ESPN 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282768&extension=ts&play_token=ANzjruG1BN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN-3.png",NL| ESPN 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282767&extension=ts&play_token=3OPZHSTHZS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN4.png",NL| ESPN 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282766&extension=ts&play_token=LzIaXePQhX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282765&extension=ts&play_token=Hj8zDeOyae
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT HD ²
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282764&extension=ts&play_token=FxIBaPw7Yx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282763&extension=ts&play_token=Cd1GCkz5Nd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282761&extension=ts&play_token=E04RYae0Lf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282760&extension=ts&play_token=1IjgltusqX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282762&extension=ts&play_token=PnQAvaPQQY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282759&extension=ts&play_token=Ff3pPvyNnu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/EUROSPORT1.png",NL| EUROSPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282758&extension=ts&play_token=YpSMITFxvo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/EUROSPORT2.png",NL| EUROSPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282757&extension=ts&play_token=2HgKbQh7Ug
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",NL| ESPN FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282754&extension=ts&play_token=cBS3wwUbCP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",NL| ESPN 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1634106&extension=ts&play_token=xIewYjHqlf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN2.png",NL| ESPN 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282753&extension=ts&play_token=l1CXzpQgxX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN-3.png",NL| ESPN 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282752&extension=ts&play_token=NnbEhHjyrQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN4.png",NL| ESPN 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282751&extension=ts&play_token=1uvlvV5Wfb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921304.png",NL| ZIGGO TV ᴿᴬᵂ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921304&extension=ts&play_token=nS4WAXBOix
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921303.png",NL| ZIGGO LIVE EVENT 1 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921303&extension=ts&play_token=Fy0O7tpUqa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT TOTTAL ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921302&extension=ts&play_token=XXJ5JU6urT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT TOTTAL ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921295&extension=ts&play_token=eknSATgVMj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282750&extension=ts&play_token=PcdnyHIWaZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT FHD ²
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282749&extension=ts&play_token=N72exnmW52
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT ᴿᴬᵂ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921310&extension=ts&play_token=Qf5uG1GoGW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921301&extension=ts&play_token=dSwIzxaxFT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282748&extension=ts&play_token=KujVJADCXZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 2 ᴿᴬᵂ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921309&extension=ts&play_token=BsXjVKBrUY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 2 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921300&extension=ts&play_token=axd8en10S3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1282746.png",NL| ZIGGO SPORT 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282746&extension=ts&play_token=l79yQReGUt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 3 ᴿᴬᵂ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921308&extension=ts&play_token=XFGvRtOhwz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 3 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921299&extension=ts&play_token=YRh6JYnXIF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282745&extension=ts&play_token=kXpNBdOMcL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921307&extension=ts&play_token=vhi835GhHV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 4 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921298&extension=ts&play_token=OccrcCfM9G
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282747&extension=ts&play_token=nPswFGW5xb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 5 ᴿᴬᵂ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921306&extension=ts&play_token=IB2cJiNN44
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 5 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921297&extension=ts&play_token=3rFdPrrUxT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282744&extension=ts&play_token=HYsWAuMB0s
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 6 ᴿᴬᵂ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921305&extension=ts&play_token=Ga2X0o0y1E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",NL| ZIGGO SPORT 6 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1921296&extension=ts&play_token=JelksiWodz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/EUROSPORT1.png",NL| EUROSPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282743&extension=ts&play_token=mX2uq3YurD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/EUROSPORT2.png",NL| EUROSPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1282742&extension=ts&play_token=R9N3FkpjuC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1286570.png",NL| GLORY & UFC [LIVE EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1286570&extension=ts&play_token=h4cmJTaMsP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1286569.png",NL| VIDEOLAND 1 PPV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1286569&extension=ts&play_token=UUB6EfkUwX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1347133.png",NL| VIDEOLAND 2 PPV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1347133&extension=ts&play_token=uAS8fD7CEu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1360612.png",NL| VIDEOLAND 3 PPV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1360612&extension=ts&play_token=RxdNxTT9hb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1360611.png",NL| VIDEOLAND 4 PPV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1360611&extension=ts&play_token=HVDO5kvUGb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY TV 24/7 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1878024&extension=ts&play_token=lUN92OrtHT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY TV+ 24/7 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1878023&extension=ts&play_token=8Y0zXwllcA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY F1 LIVE KIJKEN 1 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1468200&extension=ts&play_token=O489BURLVe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY F1 LIVE KIJKEN 2 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1468201&extension=ts&play_token=8YJugX6sk8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| F1 OLAV MOL [KWALI + RACE]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1475230&extension=ts&play_token=bQAc0uliyU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL|  VIAPLAY DARTS PPV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1695426&extension=ts&play_token=eIc71fMsaP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| PREMIER LEAGUE TOP EVENT HD XTRA 84
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419072&extension=ts&play_token=Xw5vYR5AhU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| PREMIER LEAGUE TOP EVENT FHD XTRA 84
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419071&extension=ts&play_token=GRS9q73Kr0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 1 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419068&extension=ts&play_token=HVy6qiCPyv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 2 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419056&extension=ts&play_token=bzYv2BYpUK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 3 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419049&extension=ts&play_token=X03hjmYJTJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 4 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419048&extension=ts&play_token=DPkETyo91A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 5 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419042&extension=ts&play_token=hur4bDFA4C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 6 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419040&extension=ts&play_token=5bYL4xTIUc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 7 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419032&extension=ts&play_token=VYciN1pZay
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 8 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419020&extension=ts&play_token=mPtiQPSJkF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 9 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419067&extension=ts&play_token=D9pIq1ZZFb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 10 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419066&extension=ts&play_token=M4ZaKtDJqg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 11 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419065&extension=ts&play_token=9KYFYWvMuA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 12 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419064&extension=ts&play_token=QbzG2B00d3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 13 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419063&extension=ts&play_token=U2LolWHmOk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 14 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419062&extension=ts&play_token=rBFzcUKKwM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 15 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419061&extension=ts&play_token=lpAf7Xob36
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 16 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419060&extension=ts&play_token=3Gh5OfusZN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 17 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419059&extension=ts&play_token=BU6e3JSObZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 18 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419058&extension=ts&play_token=VeqpLasaMQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 19 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419057&extension=ts&play_token=rn8lYhEmuw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 20 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419055&extension=ts&play_token=mAarYSDlz0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 21 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419054&extension=ts&play_token=BqSPx74DTN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 22 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419053&extension=ts&play_token=487igRecYk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 23 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419052&extension=ts&play_token=s9Mq30tOg0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 25 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419051&extension=ts&play_token=5nLmtWX2No
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 26 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419050&extension=ts&play_token=aUxRXOXigG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 40 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419047&extension=ts&play_token=Q37W1WNEje
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 43 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419046&extension=ts&play_token=krQdYzr8Cn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 44 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419045&extension=ts&play_token=yRPNmKj79h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 48 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419044&extension=ts&play_token=WyYKOy2WAJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 49 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419043&extension=ts&play_token=OZ5VqY9Z86
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 50 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419041&extension=ts&play_token=6xjaglA7Pk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 63 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419039&extension=ts&play_token=wW4Znyu32m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 64 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419038&extension=ts&play_token=pN3gWtMaJx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 65 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419037&extension=ts&play_token=kZj4ed68DI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 66 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419036&extension=ts&play_token=HB8HpkMgFu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 67 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419035&extension=ts&play_token=512mb4ebs2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 68 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419034&extension=ts&play_token=gzlwn19jW0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 69 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419033&extension=ts&play_token=ASjtTCayru
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 70 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419031&extension=ts&play_token=kL4H5CsndI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 71 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419030&extension=ts&play_token=pDX5rgoWKo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 71 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419029&extension=ts&play_token=xHvGomPb2g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 72 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419028&extension=ts&play_token=OVuovjmOX5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 73 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419027&extension=ts&play_token=PqeCQBKboI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 74 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419026&extension=ts&play_token=wfcG8BDc5J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 75 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419025&extension=ts&play_token=bj8uN8R6Z5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 76 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419024&extension=ts&play_token=ol4dMTMhaV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 77 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419023&extension=ts&play_token=AI09NMYepO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 78 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419022&extension=ts&play_token=qFnhvmMDgj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 79 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419021&extension=ts&play_token=DMn4Xg0e8K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 80 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419019&extension=ts&play_token=4pYkWgj9VO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 81 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419018&extension=ts&play_token=8p4Ztcftkt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 82 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419017&extension=ts&play_token=dGc7GJYwpI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 83 PPV HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419070&extension=ts&play_token=3T196W9pg1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY XTRA 83 PPV FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419069&extension=ts&play_token=3uoLQv2K84
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| GRAND PRIX RADIO F1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1419016&extension=ts&play_token=u37iTb0aaU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020370&extension=ts&play_token=soD8pgapaB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020369&extension=ts&play_token=njQsNwaj9J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020368&extension=ts&play_token=wEZ7M0pQcJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020367&extension=ts&play_token=a6r3qQACXD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020366&extension=ts&play_token=TOWGs0HBbd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 6
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020365&extension=ts&play_token=EfmfFa1kEC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 7
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020364&extension=ts&play_token=4KqDYABC2s
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 8
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020363&extension=ts&play_token=7B8nZfPK2O
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 9
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020362&extension=ts&play_token=FJb2fJvz4F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 10
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020361&extension=ts&play_token=T8BEfifHHp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 11
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020360&extension=ts&play_token=AI8UdmCiKC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 12
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020359&extension=ts&play_token=MK4zoWzrgP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 13
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020358&extension=ts&play_token=X6pSLWzNYQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 14
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020357&extension=ts&play_token=YAVrqWKPFQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 15
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020356&extension=ts&play_token=BVsy9OXl3u
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 16
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020355&extension=ts&play_token=1QL0IinIU7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 17
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020354&extension=ts&play_token=aoc5S8O3XU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 18
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020353&extension=ts&play_token=DcdVL2oAVL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 19
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020352&extension=ts&play_token=ncMIleYox5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 20
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020351&extension=ts&play_token=T4DjBnz4gj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 21
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020350&extension=ts&play_token=OWRNDHwoUY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 22
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020349&extension=ts&play_token=PHImHhLI5S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 23
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020348&extension=ts&play_token=ENGzSRJUst
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 24
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020347&extension=ts&play_token=7aOV4o8iVN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 25
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020346&extension=ts&play_token=4UkfmjIxZQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 26
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020345&extension=ts&play_token=pxMe28pTiw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 27
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020344&extension=ts&play_token=g3bK3iCbXv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 28
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020343&extension=ts&play_token=GN1Sd2Oj1S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 29
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020342&extension=ts&play_token=tkNe1OSA07
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 30
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020341&extension=ts&play_token=QSLOf1Wkfl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 31
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020340&extension=ts&play_token=KZvrIwafId
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 32
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020339&extension=ts&play_token=eWWAO7bv9v
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 33
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020338&extension=ts&play_token=CJCgHgb63A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 34
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020337&extension=ts&play_token=qOmDu2STyU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 35
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020336&extension=ts&play_token=xo298G0ifd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020335&extension=ts&play_token=O2hKJtxdLw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 37
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020334&extension=ts&play_token=YcG3BmsUfC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 38
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020333&extension=ts&play_token=i5Di9q6ubp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 39
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020332&extension=ts&play_token=Lk5bu1NvNc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 40
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020331&extension=ts&play_token=npjniv47o0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 41
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020330&extension=ts&play_token=Q5RxvpwqvQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 42
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020329&extension=ts&play_token=5G61TwqYNY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 43
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020328&extension=ts&play_token=yZL3YEHXnw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 44
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020327&extension=ts&play_token=Pee1V2Pw6c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 45
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020326&extension=ts&play_token=hjMvD2PkEb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 46
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020325&extension=ts&play_token=jAe4uVwOKC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 47
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020324&extension=ts&play_token=rfKQ8EFFtp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 48
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020323&extension=ts&play_token=LEec3Oejim
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 49
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020322&extension=ts&play_token=CkCbvQqM6m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",NL| VIAPLAY PPV 50
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2020321&extension=ts&play_token=tkgcRsX8eY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021884&extension=ts&play_token=L83Z6R37Y9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021883&extension=ts&play_token=Mt8cHjfuQn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021882&extension=ts&play_token=q40PM5WvnY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021881&extension=ts&play_token=bm7w1QLp4L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021880&extension=ts&play_token=PEu5aDAuns
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 6
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021879&extension=ts&play_token=Z3xID5X2rZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 7
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021878&extension=ts&play_token=RwHWNwiozs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 8
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021877&extension=ts&play_token=Q7HKEBXjZG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 9
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021876&extension=ts&play_token=oNKDkoHrI5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 10
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021875&extension=ts&play_token=sOrOIS9Tg3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 11
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021874&extension=ts&play_token=XX15PP1zEW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 12
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021873&extension=ts&play_token=t5ZTLjWQEk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 13
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021872&extension=ts&play_token=PBAIGcrUpr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 14
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021871&extension=ts&play_token=E8fe6k9PJX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 15
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021870&extension=ts&play_token=kht2JoETCD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 16
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021869&extension=ts&play_token=lN8TNvxKdo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 17
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021868&extension=ts&play_token=2bGP2GJyhi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 18
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021867&extension=ts&play_token=BzQK0e7tGB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 19
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021866&extension=ts&play_token=PrwrhcxxoA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",NL| DAZN PPV 20
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2021865&extension=ts&play_token=6ikCSEmjyz
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/988726.png",NL| ESPN 1 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988726&extension=ts&play_token=beNSmFbUCu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/espn2.png",NL| ESPN 2 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988725&extension=ts&play_token=1Y7s5QtJs2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/espn3.png",NL| ESPN 3 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988724&extension=ts&play_token=xMSCRZSs2g
+#EXTINF:-1 tvg-logo="http://103.176.90.92/picons/espn4.png",NL| ESPN 4 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988723&extension=ts&play_token=1KjbS2CRZ9
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/988722.png",NL| ZIGGO SPORT LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988722&extension=ts&play_token=yxSCRNqTqy
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/988721.png",NL| ZIGGO SPORT 2 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988721&extension=ts&play_token=z14tSILtAh
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/988720.png",NL| ZIGGO SPORT 3 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988720&extension=ts&play_token=tXCCVeEBKI
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/988719.png",NL| ZIGGO SPORT 4 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988719&extension=ts&play_token=KCOlxFcBhW
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/988718.png",NL| ZIGGO SPORT 5 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988718&extension=ts&play_token=SRmGQyEsTK
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/988717.png",NL| ZIGGO SPORT 6 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988717&extension=ts&play_token=vDStAvtEPe
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/988716.png",NL| EUROSPORT 1 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988716&extension=ts&play_token=9oGo3OK8Tt
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/988715.png",NL| EUROSPORT 2 LQ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=988715&extension=ts&play_token=VUNqiENEFn

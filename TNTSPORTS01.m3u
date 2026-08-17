@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| TNT SPORTS UHD [EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1479591&extension=ts&play_token=TallkwwJfD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79486.png",UK| TNT SPORTS 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79486&extension=ts&play_token=gkpYkPelnC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png",UK| TNT SPORTS 1 HD ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1261564&extension=ts&play_token=NYYmvB5LAI
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79485.png",UK| TNT SPORTS 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79485&extension=ts&play_token=J4pY2PuKxH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79484.png",UK| TNT SPORTS 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79484&extension=ts&play_token=wcHl3smFu6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png",UK| TNT SPORTS 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1002857&extension=ts&play_token=QKJNAKENqy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png",UK| TNT SPORTS 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1004549&extension=ts&play_token=vqWu3iFz5k
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30564.png",UK| TNT SPORTS ESPN FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30564&extension=ts&play_token=7JUg1lk3CH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30567.png",UK| TNT SPORTS 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30567&extension=ts&play_token=XcZIcgOOIe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30566.png",UK| TNT SPORTS 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30566&extension=ts&play_token=dDDrShlwyp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30565.png",UK| TNT SPORTS 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30565&extension=ts&play_token=IhTqQdAT1T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png",UK| TNT SPORTS 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1019935&extension=ts&play_token=2bTTNBAtsH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png",UK| TNT SPORTS 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1004548&extension=ts&play_token=fBxfl3KccG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png",UK| TNT SPORTS 1 SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1047260&extension=ts&play_token=KNxSXLiCVT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png",UK| TNT SPORTS 2 SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1047261&extension=ts&play_token=e9rmBwsHt7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png",UK| TNT SPORTS 3 SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1047262&extension=ts&play_token=g9INC2I62I
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png",UK| TNT SPORTS 4 SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1047263&extension=ts&play_token=u4M4FCgcIP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png",UK| TNT SPORTS 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1004550&extension=ts&play_token=x8jtuQ9YYj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png",UK| TNT SPORTS 1 HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458678&extension=ts&play_token=TKUbBfoUlj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png",UK| TNT SPORTS 1 HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458654&extension=ts&play_token=jXmaTYVAc1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png",UK| TNT SPORTS 1 HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458667&extension=ts&play_token=XyaWRaJu80
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png",UK| TNT SPORTS 2 HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458666&extension=ts&play_token=etiTYSfV4s
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png",UK| TNT SPORTS 2 HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458653&extension=ts&play_token=EuZmYkoatG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png",UK| TNT SPORTS 3 HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458665&extension=ts&play_token=jt3kv9K51X
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png",UK| TNT SPORTS 3 HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458652&extension=ts&play_token=6L6jTJgGbF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png",UK| TNT SPORTS 4 HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458815&extension=ts&play_token=ddByVIRbXy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png",UK| TNT SPORTS 4 HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458651&extension=ts&play_token=H3ITiEgfLw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTSBOXOFFICE.png",UK| TNT SPORTS BOX OFFICE HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458650&extension=ts&play_token=yn4y2fFcxx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596285.png",TNT SPORTS | Event 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596285&extension=ts&play_token=wJ7IAqi7FS
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596284.png",TNT SPORTS | Event 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596284&extension=ts&play_token=maKy2fUswk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596283.png",TNT SPORTS | Event 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596283&extension=ts&play_token=RIyiYpwz2L
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596282.png",TNT SPORTS | Event 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596282&extension=ts&play_token=2h3p7sdaca
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596281.png",TNT SPORTS | Event 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596281&extension=ts&play_token=wPwIwwhnoO
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596280.png",TNT SPORTS | Event 6
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596280&extension=ts&play_token=AYyCGbW1iE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596279.png",TNT SPORTS | Event 7
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596279&extension=ts&play_token=JkkVN4Bqq9
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596278.png",TNT SPORTS | Event 8
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596278&extension=ts&play_token=HvaXSQ6eUG
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596277.png",TNT SPORTS | Event 9
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596277&extension=ts&play_token=GU7uiSZjNp
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596276.png",TNT SPORTS | Event 10
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596276&extension=ts&play_token=GQS0aAGoUA
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596275.png",TNT SPORTS | Event 11
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596275&extension=ts&play_token=CoAgsNEONp
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596274.png",TNT SPORTS | Event 12
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596274&extension=ts&play_token=KkL98criH2
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596273.png",TNT SPORTS | Event 13
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596273&extension=ts&play_token=hWi9u5KaHW
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596272.png",TNT SPORTS | Event 14
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596272&extension=ts&play_token=TATuopQdgn
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596271.png",TNT SPORTS | Event 15
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596271&extension=ts&play_token=Xpj9exPIzZ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596270.png",TNT SPORTS | Event 16
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596270&extension=ts&play_token=CquOyQd9HV
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596269.png",TNT SPORTS | Event 17
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596269&extension=ts&play_token=sTOaux9a3w
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596268.png",TNT SPORTS | Event 18
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1596268&extension=ts&play_token=fMQ8bInWcA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920821.png",PRIME| TNT SPORTS 1 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1920821&extension=ts&play_token=XDjeYCdDwU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920820.png",PRIME| TNT SPORTS 2 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1920820&extension=ts&play_token=a7DS69jCKo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920819.png",PRIME| TNT SPORTS 3 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1920819&extension=ts&play_token=7KSGCLj0VB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920818.png",PRIME| TNT SPORTS 4 ᴿᴬᵂ
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1920818&extension=ts&play_token=cAPw9KdQxO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905820.png",UK-NOWTV| TNT SPORT (UHD/4K)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905820&extension=ts&play_token=1EHSFzRWl6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905819.png",UK-NOWTV| TNT SPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905819&extension=ts&play_token=LEzCqXubQz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905817.png",UK-NOWTV| TNT SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905817&extension=ts&play_token=2aF002sEsX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905818.png",UK-NOWTV| TNT SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905818&extension=ts&play_token=HnNIcQmTRj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905816.png",UK-NOWTV| TNT SPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905816&extension=ts&play_token=ONok8kJhhK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905814.png",UK-NOWTV| TNT SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905814&extension=ts&play_token=tohCMYZvtG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905815.png",UK-NOWTV| TNT SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905815&extension=ts&play_token=TRup2YIHOR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png",UK-NOWTV| TNT SPORT 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905813&extension=ts&play_token=tU90sxailK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905811.png",UK-NOWTV| TNT SPORT 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905811&extension=ts&play_token=IOMmfzqDtQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905812.png",UK-NOWTV| TNT SPORT 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905812&extension=ts&play_token=pIS5UcAvSz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905810.png",UK-NOWTV| TNT SPORTS 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905810&extension=ts&play_token=Y8XTKPsFrb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905808.png",UK-NOWTV| TNT SPORTS 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905808&extension=ts&play_token=10gSFNJJ0t
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905809.png",UK-NOWTV| TNT SPORTS 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905809&extension=ts&play_token=K3DYfn3dbs
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/926449.png",ARG| TNT SPORTS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=926449&extension=ts&play_token=IF1TmGTqSD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/79314.png",CHL| TNT SPORT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79314&extension=ts&play_token=EfpZvCxO7F
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/79313.png",CHL| TNT SPORT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79313&extension=ts&play_token=wurXQUhNvf
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/25595.png",LAT| TNT SPORTS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=25595&extension=ts&play_token=JshmVMlz5h

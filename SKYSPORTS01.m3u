@@ -1,0 +1,1057 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS MAIN EVENTS UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1608071&extension=ts&play_token=N3rPm4rcHw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS UHD [EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1471387&extension=ts&play_token=G573oTiqDz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS 1 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1608068&extension=ts&play_token=L1ASjgeVho
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS 2 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1608069&extension=ts&play_token=xZupJxbCQy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS F1 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1761500&extension=ts&play_token=ZTiYPZeVnh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORTS DARTS UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1471382&extension=ts&play_token=boMzMAM5tQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png",4K| SKY SPORT 4K [LIVE-EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1753227&extension=ts&play_token=LYKLKMbxVF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png",F1| SKY SPORT F1 IT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=317778&extension=ts&play_token=tz7c20cY7q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png",F1| SKY SPORTS F1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=317781&extension=ts&play_token=QRiBY9fUcg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png",F1| SKY SPORTS F1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=317779&extension=ts&play_token=XwIBlgDVsk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png",F1| SKY SPORTS F1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=317782&extension=ts&play_token=VRkypEScX7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png",F1| SKY SPORTS F1 HD DE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=317780&extension=ts&play_token=LrjIlpz2O8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png",F1| SKY SPORTS FORMULA 1 HD IT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=317777&extension=ts&play_token=ee7kXI97si
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889503.png",DE| SKY SPORT NEWS HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889503&extension=ts&play_token=hJliTrO9vi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889504.png",DE| SKY SPORT F1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889504&extension=ts&play_token=16mxGtOzrK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889502.png",DE| SKY SPORT BUNDESLIGA 1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889502&extension=ts&play_token=qB5wbu3GBn
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984666.png",DE| SKY SPORT BUNDESLIGA HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984666&extension=ts&play_token=a4DhRG1ljH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984665.png",DE| SKY SPORT TOP EVENT HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984665&extension=ts&play_token=9HZ4NnNQkU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984664.png",DE| SKY SPORT TENNIS HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984664&extension=ts&play_token=NZWY9GBKSo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984663.png",DE| SKY SPORT PREMIER LEAGUE HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984663&extension=ts&play_token=J3dYpaNk3o
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984662.png",DE| SKY SPORT MIX HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984662&extension=ts&play_token=CkI2nAknJ9
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/984661.png",DE| SKY SPORT GOLF HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=984661&extension=ts&play_token=WSGrV05B7Y
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889501.png",DE| SKY SPORT BUNDESLIGA 2 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889501&extension=ts&play_token=8rNcjQSksA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889500.png",DE| SKY SPORT BUNDESLIGA 3 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889500&extension=ts&play_token=K2kxL7bLEL
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889499.png",DE| SKY SPORT BUNDESLIGA 4 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889499&extension=ts&play_token=dC3q5pNtFd
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889498.png",DE| SKY SPORT BUNDESLIGA 5 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889498&extension=ts&play_token=SkVlFFoG8i
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889497.png",DE| SKY SPORT BUNDESLIGA 6 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889497&extension=ts&play_token=FpT8BNf8An
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889496.png",DE| SKY SPORT BUNDESLIGA 7 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889496&extension=ts&play_token=HIi9SzyDPP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889495.png",DE| SKY SPORT BUNDESLIGA 8 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889495&extension=ts&play_token=twY3wqmZHi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889494.png",DE| SKY SPORT BUNDESLIGA 9 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889494&extension=ts&play_token=LDoEdgHKAi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889492.png",DE| SKY SPORT BUNDESLIGA 10 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889492&extension=ts&play_token=5MpniwsQZA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889491.png",DE| SKY SPORT 1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889491&extension=ts&play_token=OKOkdy953k
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889489.png",DE| SKY SPORT 2 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889489&extension=ts&play_token=AxA7f51vIW
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889488.png",DE| SKY SPORT 3 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889488&extension=ts&play_token=2cnqXKMO6b
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889486.png",DE| SKY SPORT 4 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889486&extension=ts&play_token=TjPZkpiFgx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889485.png",DE| SKY SPORT 5 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889485&extension=ts&play_token=6MfBqfSygv
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889483.png",DE| SKY SPORT 6 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889483&extension=ts&play_token=aeamn909tp
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889482.png",DE| SKY SPORT 7 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889482&extension=ts&play_token=eMgUVlmOPG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889480.png",DE| SKY SPORT 8 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889480&extension=ts&play_token=bOzowEuWGO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889479.png",DE| SKY SPORT 9 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889479&extension=ts&play_token=WyeQrvqcPJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889478.png",DE| SKY SPORT 10 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889478&extension=ts&play_token=N6jHW0swB3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889477.png",DE| SKY SPORT AUSTRIA 1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889477&extension=ts&play_token=KxKzmEDNRd
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889476.png",DE| SKY SPORT AUSTRIA 2 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889476&extension=ts&play_token=ZMfvgiA8zi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889475.png",DE| SKY SPORT AUSTRIA 3 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889475&extension=ts&play_token=WmP12rYc6k
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889473.png",DE| SKY SPORT AUSTRIA 4 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=889473&extension=ts&play_token=3AeUUMtFMd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964158.png",WOW| SKY SPORT TOP EVENT ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964158&extension=ts&play_token=gWoueKuur8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964157.png",WOW| SKY SPORT PREMIER LEAGUE ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964157&extension=ts&play_token=uKvTDAor1N
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964156.png",WOW| SKY SPORT MIX ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964156&extension=ts&play_token=4TTH4SXCwr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964155.png",WOW| SKY SPORT F1 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964155&extension=ts&play_token=OQ39sYnOtb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964154.png",WOW| SKY SPORT GOLF ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964154&extension=ts&play_token=Jlsd4fMBxE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964153.png",WOW| SKY SPORT TENNIS ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964153&extension=ts&play_token=JLbc00rXvH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964152.png",WOW| SKY SPORT BUNDESLIGA ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964152&extension=ts&play_token=vVMiGAt3Xo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964151.png",WOW| SKY SPORT BUNDESLIGA 1 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964151&extension=ts&play_token=EuqUTLVrqh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964150.png",WOW| SKY SPORT BUNDESLIGA 2 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964150&extension=ts&play_token=T4Wq9A458q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964149.png",WOW| SKY SPORT BUNDESLIGA 3 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964149&extension=ts&play_token=AE5bnjC3cz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964148.png",WOW| SKY SPORT BUNDESLIGA 4 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964148&extension=ts&play_token=QQtL0vPdNP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964147.png",WOW| SKY SPORT BUNDESLIGA 5 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964147&extension=ts&play_token=mIn9FmkHlo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964146.png",WOW| SKY SPORT BUNDESLIGA 6 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964146&extension=ts&play_token=jSwMnRX6sL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964145.png",WOW| SKY SPORT BUNDESLIGA 7 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964145&extension=ts&play_token=u69qhplwwC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964144.png",WOW| SKY SPORT BUNDESLIGA 8 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964144&extension=ts&play_token=KUh08pfK4S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964143.png",WOW| SKY SPORT BUNDESLIGA 9 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964143&extension=ts&play_token=ReQuc9qZDp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964142.png",WOW| SKY SPORT BUNDESLIGA 10 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964142&extension=ts&play_token=fI0CPLkzO5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964141.png",WOW| SKY SPORT 1 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964141&extension=ts&play_token=15kPWFmwzv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964140.png",WOW| SKY SPORT 2 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964140&extension=ts&play_token=I0QLuy1hiw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964139.png",WOW| SKY SPORT 3 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964139&extension=ts&play_token=fGJgXgpI92
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964138.png",WOW| SKY SPORT 4 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964138&extension=ts&play_token=PpDEBWytsa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964137.png",WOW| SKY SPORT 5 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964137&extension=ts&play_token=0n9IsqldtO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964135.png",WOW| SKY SPORT 6 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964136&extension=ts&play_token=yzeBEbf3eD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964135.png",WOW| SKY SPORT 7 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964135&extension=ts&play_token=UFdRzj6vOj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964134.png",WOW| SKY SPORT 8 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964134&extension=ts&play_token=U1K7NJZlkP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964133.png",WOW| SKY SPORT 9 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964133&extension=ts&play_token=cuFtBzQWVq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1964132.png",WOW| SKY SPORT 10 ᴴᴰ ◉
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1964132&extension=ts&play_token=wQfL2zccfM
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411603.png",DE| SKY SPORT 4K [LIVE-EVENT]
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411603&extension=ts&play_token=U83u26Qn44
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411441.png",DE| SKY SPORT NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411441&extension=ts&play_token=sPAmv1rZcz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411604.png",DE| SKY SPORT NEWS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411604&extension=ts&play_token=3pwpIYJ0q3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/523239.png",DE| SKY SPORTS F1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=523239&extension=ts&play_token=g4mGdIpyZG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/513132.png",DE| SKY SPORTS F1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=513132&extension=ts&play_token=TR2jb3DJh4
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411440.png",DE| SKY SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411440&extension=ts&play_token=zijOqN2HFu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411602.png",DE| SKY SPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411602&extension=ts&play_token=mmL2STnQap
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411601.png",DE| SKY SPORT 1 FHD*
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411601&extension=ts&play_token=p2I7OJs8Ze
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411439.png",DE| SKY SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411439&extension=ts&play_token=EDtpAzpYb0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411600.png",DE| SKY SPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411600&extension=ts&play_token=2olAU2HGet
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411599.png",DE| SKY SPORT 2 FHD*
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411599&extension=ts&play_token=TUqGOlkyDt
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411438.png",DE| SKY SPORT 3 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411438&extension=ts&play_token=62B02IpgIO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411598.png",DE| SKY SPORT 3 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411598&extension=ts&play_token=yvTkcs5B05
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411597.png",DE| SKY SPORT 3 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411597&extension=ts&play_token=bR5OLwMZ8U
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411437.png",DE| SKY SPORT 4 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411437&extension=ts&play_token=JRwS4AQCaP
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411596.png",DE| SKY SPORT 4 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411596&extension=ts&play_token=hpVAe0joQA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411595.png",DE| SKY SPORT 4 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411595&extension=ts&play_token=0ewtkSueD2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411436.png",DE| SKY SPORT 5 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411436&extension=ts&play_token=wP29YPVv5d
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411594.png",DE| SKY SPORT 5 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411594&extension=ts&play_token=ZGYnC6gjCB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411593.png",DE| SKY SPORT 5 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411593&extension=ts&play_token=ZVcm9782CC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411435.png",DE| SKY SPORT 6 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411435&extension=ts&play_token=N1lPsQs8e2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411592.png",DE| SKY SPORT 6 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411592&extension=ts&play_token=ajZ4M2xO0P
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411591.png",DE| SKY SPORT 6 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411591&extension=ts&play_token=cIKV61iYYj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411434.png",DE| SKY SPORT 7 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411434&extension=ts&play_token=Wd9Ynud88z
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411590.png",DE| SKY SPORT 7 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411590&extension=ts&play_token=pbxceECqSR
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411589.png",DE| SKY SPORT 7 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411589&extension=ts&play_token=EZ1EpO1C2c
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411433.png",DE| SKY SPORT 8 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411433&extension=ts&play_token=qwhqi5andx
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411588.png",DE| SKY SPORT 8 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411588&extension=ts&play_token=CcC1FKADDw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411587.png",DE| SKY SPORT 8 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411587&extension=ts&play_token=EDDl0Vkn1t
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411432.png",DE| SKY SPORT 9 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411432&extension=ts&play_token=GaQADDIkxK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411586.png",DE| SKY SPORT 9 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411586&extension=ts&play_token=NCmKyWLmrN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411585.png",DE| SKY SPORT 9 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411585&extension=ts&play_token=pn4u79loXb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411431.png",DE| SKY SPORT 10 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411431&extension=ts&play_token=icDpbes7I1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411584.png",DE| SKY SPORT 10 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411584&extension=ts&play_token=agl17PruGe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411583.png",DE| SKY SPORT 10 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411583&extension=ts&play_token=wQzWhQlSMu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/578801.png",DE| SKY SPORT 12 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=578801&extension=ts&play_token=jf2jiqqtuh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/578800.png",DE| SKY SPORT 13 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=578800&extension=ts&play_token=mJHuSZqtsI
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/578799.png",DE| SKY SPORT 14 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=578799&extension=ts&play_token=ZIbZ1bmDVF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411430.png",DE| SKY SPORT AUSTRIA 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411430&extension=ts&play_token=DitMM3ePUT
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411582.png",DE| SKY SPORT AUSTRIA 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411582&extension=ts&play_token=j0LMcdaDDn
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411581.png",DE| SKY SPORT AUSTRIA 1 FHD*
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411581&extension=ts&play_token=MMxn4Iot30
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411429.png",DE| SKY SPORT AUSTRIA 2 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411429&extension=ts&play_token=cYHdXgzf3X
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411580.png",DE| SKY SPORT AUSTRIA 2 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411580&extension=ts&play_token=2s4RSZHKet
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411579.png",DE| SKY SPORT AUSTRIA 2 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411579&extension=ts&play_token=XBc6FtVE1P
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411428.png",DE| SKY SPORT AUSTRIA 3 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411428&extension=ts&play_token=tNwwCbXZLU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411578.png",DE| SKY SPORT AUSTRIA 3 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411578&extension=ts&play_token=50mNJ0eGJw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411577.png",DE| SKY SPORT AUSTRIA 3 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411577&extension=ts&play_token=VJGQiuL45Q
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411427.png",DE| SKY SPORT AUSTRIA 4 HD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411427&extension=ts&play_token=0dnNDoPQDo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411576.png",DE| SKY SPORT AUSTRIA 4 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411576&extension=ts&play_token=AT2P5J0SU6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/411575.png",DE| SKY SPORT AUSTRIA 4 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411575&extension=ts&play_token=3ZWBg6c2KQ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/971771.png",DE|  SKY SPORT TOP EVENT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971771&extension=ts&play_token=7ZcWEgt33T
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/977113.png",DE| SKY SPORT AUSTRIA 5 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=977113&extension=ts&play_token=3Dx5AX20aF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/732337.png",DE| SKY SPORT AUSTRIA 5 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=732337&extension=ts&play_token=sKt3QDn9h8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/977114.png",DE| SKY SPORT AUSTRIA 6 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=977114&extension=ts&play_token=qSIegrPx9X
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/732336.png",DE| SKY SPORT AUSTRIA 6 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=732336&extension=ts&play_token=PCsZozBci7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/977115.png",DE| SKY SPORT AUSTRIA 7 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=977115&extension=ts&play_token=x0c2Ddlxle
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/732335.png",DE| SKY SPORT AUSTRIA 7 FHD (DURING GAMES ONLY)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=732335&extension=ts&play_token=KJ0HTzwZPK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/971739.png",DE| SKY SPORT TENNIS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971739&extension=ts&play_token=yEUesKD03Q
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/971711.png",DE| SKY SPORT PREMIER LEAGUE FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971711&extension=ts&play_token=cvkBin81Ms
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/971710.png",DE| SKY SPORT MIX FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971710&extension=ts&play_token=CUqyFkpVCw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/971709.png",DE| SKY SPORT GOLF FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971709&extension=ts&play_token=pr8Z0DpuoC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=971682&extension=ts&play_token=GyITDdcZZE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 9 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=411555&extension=ts&play_token=bQ8a2fSRb6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216673&extension=ts&play_token=0dIadEIsNh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216676&extension=ts&play_token=FHRIRcdk5X
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216679&extension=ts&play_token=oxzEbNqsFs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216682&extension=ts&play_token=rFHxYYZZMx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216685&extension=ts&play_token=TGsiKW7SzW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216688&extension=ts&play_token=PaLjPXQsKV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216691&extension=ts&play_token=C3KoUdpaWJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216694&extension=ts&play_token=EMv7jmDfU8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216697&extension=ts&play_token=8yI03VtEdO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216700&extension=ts&play_token=SJeEY8orrg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216703&extension=ts&play_token=AUWbyLFg1C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216706&extension=ts&play_token=8WPvU3hy8S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216709&extension=ts&play_token=jchIuus3mm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216712&extension=ts&play_token=7ztfcilTW4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 7 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216715&extension=ts&play_token=6L2xF3pzkJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216718&extension=ts&play_token=VMVWUo2XAp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 8 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216721&extension=ts&play_token=RkgTvGKIGR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216724&extension=ts&play_token=GEu1PUt5wL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 9 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216727&extension=ts&play_token=EbIj93EKA7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216730&extension=ts&play_token=Z9wQwKSBKT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 10 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216733&extension=ts&play_token=AKr8tXn0E0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",DE| SKY SPORT BUNDESLIGA 10 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1216736&extension=ts&play_token=PLMjJivkuy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/GERMANY.png",##### SKY SPORT #####
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235962&extension=ts&play_token=HjGZjLenFD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235955.png",DE| SKY SPORT NEWS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235955&extension=ts&play_token=V0qdstjl6e
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235948.png",DE| SKY SPORT NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235948&extension=ts&play_token=uEprdRNsDj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235941.png",DE| SKY SPORT TOP EVENT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235941&extension=ts&play_token=FqffF2wMfl
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235934.png",DE| SKY SPORT TOP EVENT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235934&extension=ts&play_token=xuHpAB4vTj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235927.png",DE| SKY SPORT PREMIER LEAGUE FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235927&extension=ts&play_token=xEDRbw2vA0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235920.png",DE| SKY SPORT PREMIER LEAGUE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235920&extension=ts&play_token=MCpKRr9zaZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235913.png",DE| SKY SPORT MIX FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235913&extension=ts&play_token=kZm28cSLAh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235906.png",DE| SKY SPORT MIX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235906&extension=ts&play_token=k1BcxbXFcn
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235899.png",DE| SKY SPORT F1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235899&extension=ts&play_token=tX724cZ1eo
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235892.png",DE| SKY SPORT F1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235892&extension=ts&play_token=UHEEkhSvfE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235885.png",DE| SKY SPORT GOLF FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235885&extension=ts&play_token=biiVV7DnO4
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235878.png",DE| SKY SPORT GOLF HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235878&extension=ts&play_token=b4ghkG90PZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235871.png",DE| SKY SPORT TENNIS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235871&extension=ts&play_token=lDRuNvr2qH
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235864.png",DE| SKY SPORT TENNIS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235864&extension=ts&play_token=j7HnjOhFZK
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235843.png",DE| SKY SPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235843&extension=ts&play_token=qsZ0DgThlF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235836.png",DE| SKY SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235836&extension=ts&play_token=01xdEpkuQJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235829.png",DE| SKY SPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235829&extension=ts&play_token=CXMujl1Qff
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235822.png",DE| SKY SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235822&extension=ts&play_token=n6YasDlYuJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235815.png",DE| SKY SPORT 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235815&extension=ts&play_token=vmFT8tdKw8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235808.png",DE| SKY SPORT 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235808&extension=ts&play_token=9kTMl2xFim
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235801.png",DE| SKY SPORT 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235801&extension=ts&play_token=0qjjL91ukg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235794.png",DE| SKY SPORT 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235794&extension=ts&play_token=2vF6hw6S8B
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235787.png",DE| SKY SPORT 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235787&extension=ts&play_token=TZZg7Z76Di
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235780.png",DE| SKY SPORT 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235780&extension=ts&play_token=zYmz3J1Sma
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235773.png",DE| SKY SPORT 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235773&extension=ts&play_token=BADNPIFRfr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235766.png",DE| SKY SPORT 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235766&extension=ts&play_token=haPwq6XTDl
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235759.png",DE| SKY SPORT 7 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235759&extension=ts&play_token=PvUy6qTi9A
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235752.png",DE| SKY SPORT 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235752&extension=ts&play_token=LSOy3QAsu8
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235745.png",DE| SKY SPORT 8 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235745&extension=ts&play_token=kncB3LBcH6
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235738.png",DE| SKY SPORT 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235738&extension=ts&play_token=ubLlWcNhkO
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235731.png",DE| SKY SPORT 9 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235731&extension=ts&play_token=H4WLdqDB7d
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235724.png",DE| SKY SPORT 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235724&extension=ts&play_token=nByu8wQcfz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235717.png",DE| SKY SPORT 10 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235717&extension=ts&play_token=xhpOL4GTIt
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235710.png",DE| SKY SPORT 10 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235710&extension=ts&play_token=YYXIL9J6fi
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323973.png",DE| SKY SPORT AUSTRIA 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323973&extension=ts&play_token=FCkk09u9u2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323972.png",DE| SKY SPORT AUSTRIA 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323972&extension=ts&play_token=MM3DwxOaEc
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323971.png",DE| SKY SPORT AUSTRIA 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323971&extension=ts&play_token=T102thtLDX
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323970.png",DE| SKY SPORT AUSTRIA 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323970&extension=ts&play_token=tKQ9k4RkpG
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323969.png",DE| SKY SPORT AUSTRIA 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323969&extension=ts&play_token=L73i1X3N5h
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323968.png",DE| SKY SPORT AUSTRIA 6
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323968&extension=ts&play_token=PzOOjuCU3O
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1323967.png",DE| SKY SPORT AUSTRIA 7
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1323967&extension=ts&play_token=tpLVIXneup
+#EXTINF:-1 tvg-logo="",##### SKY SPORT BUNDESLIGA #####
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235703&extension=ts&play_token=xWdFhOd1nA
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235696.png",DE| SKY SPORT BUNDESLIGA FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235696&extension=ts&play_token=6lQi4SXYvl
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235689.png",DE| SKY SPORT BUNDESLIGA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235689&extension=ts&play_token=daYsLrqJRw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235682.png",DE| SKY SPORT BUNDESLIGA 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235682&extension=ts&play_token=25iUcyKWNU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235675.png",DE| SKY SPORT BUNDESLIGA 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235675&extension=ts&play_token=9vI6cQsoKe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235668.png",DE| SKY SPORT BUNDESLIGA 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235668&extension=ts&play_token=MUhV3mVMwL
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235661.png",DE| SKY SPORT BUNDESLIGA 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235661&extension=ts&play_token=4rinFsc6Tk
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235654.png",DE| SKY SPORT BUNDESLIGA 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235654&extension=ts&play_token=l2xPD9nY2y
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235647.png",DE| SKY SPORT BUNDESLIGA 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235647&extension=ts&play_token=qCu2QWO20k
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235640.png",DE| SKY SPORT BUNDESLIGA 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235640&extension=ts&play_token=Bugc6YSdIB
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235633.png",DE| SKY SPORT BUNDESLIGA 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235633&extension=ts&play_token=fqZoVjdvSl
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235626.png",DE| SKY SPORT BUNDESLIGA 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235626&extension=ts&play_token=P7qGAli2DF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235619.png",DE| SKY SPORT BUNDESLIGA 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235619&extension=ts&play_token=0KWFjsWSbb
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235612.png",DE| SKY SPORT BUNDESLIGA 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235612&extension=ts&play_token=DDb0GsM6HE
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235605.png",DE| SKY SPORT BUNDESLIGA 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235605&extension=ts&play_token=KWQ1rjhueh
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235598.png",DE| SKY SPORT BUNDESLIGA 7 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235598&extension=ts&play_token=OeEL3N008a
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235591.png",DE| SKY SPORT BUNDESLIGA 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235591&extension=ts&play_token=qbqZDBNaxS
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235584.png",DE| SKY SPORT BUNDESLIGA 8 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235584&extension=ts&play_token=QjfiWXtMtj
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235577.png",DE| SKY SPORT BUNDESLIGA 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235577&extension=ts&play_token=zwbVLWhlab
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235570.png",DE| SKY SPORT BUNDESLIGA 9 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235570&extension=ts&play_token=F7yH8ThKZ0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235563.png",DE| SKY SPORT BUNDESLIGA 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235563&extension=ts&play_token=VjDzFW59Bw
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235556.png",DE| SKY SPORT BUNDESLIGA 10 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235556&extension=ts&play_token=2xOWaNV1nf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1235549.png",DE| SKY SPORT BUNDESLIGA 10 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1235549&extension=ts&play_token=wx7W5e7Nw5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/284071.png",AUS| SKY SPORT AUSTRIA 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=284071&extension=ts&play_token=1sqbeN39mg
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/284075.png",AUS| SKY SPORT AUSTRIA 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=284075&extension=ts&play_token=A6yCVbY7qm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/284074.png",AUS| SKY SPORT AUSTRIA 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=284074&extension=ts&play_token=JTgjRPBgvs
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/284070.png",AUS| SKY SPORT AUSTRIA 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=284070&extension=ts&play_token=SAlE5karNW
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/322366.png",AUS| SKY SPORT AUSTRIA 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=322366&extension=ts&play_token=4A74s8SOqe
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/284073.png",AUS| SKY SPORT AUSTRIA 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=284073&extension=ts&play_token=BbgGO3z4OD
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/284069.png",AUS| SKY SPORT AUSTRIA 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=284069&extension=ts&play_token=Sp60nrE87Q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1913017.png",AT| SKY SPORT AUSTRIA
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1913017&extension=ts&play_token=mn1Hd2tScY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1913016.png",AT| SKY SPORT AUSTRIA 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1913016&extension=ts&play_token=6Bt3tYO74V
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1913015.png",AT| SKY SPORT AUSTRIA 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1913015&extension=ts&play_token=i4CRD1LhOQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1913014.png",AT| SKY SPORT AUSTRIA 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1913014&extension=ts&play_token=ps6lsCwLz9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1913013.png",AT| SKY SPORT AUSTRIA 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1913013&extension=ts&play_token=bIpFnWawXB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1913012.png",AT| SKY SPORT AUSTRIA 6
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1913012&extension=ts&play_token=NwB4mvmG4l
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1913011.png",AT| SKY SPORT AUSTRIA 7
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1913011&extension=ts&play_token=n6FLNg1MS9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1913010.png",AT| SKY SPORT AUSTRIA 8
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1913010&extension=ts&play_token=JuK7H7CtgU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png",##### SKY SPORTS HD #####
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=230682&extension=ts&play_token=uENaVeKJiy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPLUS.png",UK| SKY SPORTS + HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83455&extension=ts&play_token=ur5cbrUgwL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png",UK|SKY SPORTS ACTION HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83456&extension=ts&play_token=tjItmVQboQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png",UK| SKY SPORTS CRICKET HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83454&extension=ts&play_token=RNlDFvA80f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSF1.png",UK| SKY SPORTS F1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83453&extension=ts&play_token=vICWsOcogS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSF1.png",UK| SKY SPORTS F1 UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1641637&extension=ts&play_token=GsaALU46ff
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png",UK| SKY SPORTS FOOTBALL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83452&extension=ts&play_token=mGSO4gJP84
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png",UK| SKY SPORTS GOLF HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83451&extension=ts&play_token=5GgDDyjrar
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png",UK| SKY SPORTS MAIN EVENT UHD/4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1641636&extension=ts&play_token=OHul6BstCs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png",UK| SKY SPORTS MAIN EVENTS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83450&extension=ts&play_token=tsMhI78P8N
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png",UK| SKY SPORTS MAIN EVENTS HD(BK)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1448189&extension=ts&play_token=cAQ4MxysmW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png",UK| SKY SPORTS MIX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83449&extension=ts&play_token=MmDimdvHU1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png",UK| SKY SPORTS NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83448&extension=ts&play_token=mlcWCxiQUC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPL.png",UK| SKY SPORTS PL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83447&extension=ts&play_token=roXIMja769
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png",UK| SKY SPORTS RACING HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=83446&extension=ts&play_token=ifPwi5kXwY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",UK| SKY SPORTS TENNIS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1454231&extension=ts&play_token=SVcFbe7EhN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png",##### SKY SPORTS FHD #####
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=230681&extension=ts&play_token=GkRoJnJopf
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30500.png",UK| SKY SPORTS + FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30500&extension=ts&play_token=Lq3j979Eca
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30501.png",UK| SKY SPORTS ACTION FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30501&extension=ts&play_token=c6G6yOtpbN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30502.png",UK| SKY SPORTS CRICKET FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30502&extension=ts&play_token=3qrrkqvkwU
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30499.png",UK| SKY SPORTS F1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30499&extension=ts&play_token=yL1pHX8Ktz
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30498.png",UK| SKY SPORTS FOOTBALL FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30498&extension=ts&play_token=1tLqGaka3f
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30497.png",UK| SKY SPORTS GOLF FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30497&extension=ts&play_token=ZDRSXvEdKa
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30496.png",UK| SKY SPORTS MAIN EVENT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30496&extension=ts&play_token=UTAki9e9Jr
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30495.png",UK| SKY SPORTS MIX FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30495&extension=ts&play_token=ExLDvLgzlY
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30494.png",UK| SKY SPORTS NEWS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30494&extension=ts&play_token=5uKQshZj0m
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30493.png",UK| SKY SPORTS PL FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=30493&extension=ts&play_token=REAOzl808Q
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/77373.png",UK| SKY SPORTS RACING FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=77373&extension=ts&play_token=GZuFpUAR1f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",UK| SKY SPORTS TENNIS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1454232&extension=ts&play_token=PUh8SGhYg2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png",##### SKY SPORTS SD #####
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=230683&extension=ts&play_token=hAo2eCbMBJ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79481.png",UK| SKY SPORTS +
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79481&extension=ts&play_token=zI5uQ2uiZu
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79482.png",UK| SKY SPORTS ACTION
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79482&extension=ts&play_token=CUPbbT7p3l
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79480.png",UK| SKY SPORTS CRICKET
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79480&extension=ts&play_token=8M7ezEvfP3
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79479.png",UK| SKY SPORTS F1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79479&extension=ts&play_token=jod84rCP23
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79478.png",UK| SKY SPORTS FOOTBALL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79478&extension=ts&play_token=mwajL5wpT7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79477.png",UK| SKY SPORTS GOLF
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79477&extension=ts&play_token=IOwntVdBwZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79476.png",UK| SKY SPORTS MAIN EVENT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79476&extension=ts&play_token=kDh9UWmYHF
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79475.png",UK| SKY SPORTS MIX
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79475&extension=ts&play_token=baTfkNWUn5
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79474.png",UK| SKY SPORTS NEWS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79474&extension=ts&play_token=lGBZSslfN7
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79473.png",UK| SKY SPORTS PREMIER LEAGUE FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79473&extension=ts&play_token=hdJIUgFrxm
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79472.png",UK| SKY SPORTS RACING
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=79472&extension=ts&play_token=T1N8a8aIAk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPLUS.png",UK| SKY SPORTS + FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458676&extension=ts&play_token=jUxWAohAzq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png",UK| SKY SPORTS ACTION HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458664&extension=ts&play_token=gXkknepIov
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png",UK| SKY SPORTS ACTION HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458677&extension=ts&play_token=OjBarR5sxT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png",UK| SKY SPORTS CRICKET HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458675&extension=ts&play_token=jDxRZ7AiW7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png",UK| SKY SPORTS CRICKET HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458662&extension=ts&play_token=SbsoRMmys1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png",UK| SKY SPORTS FOOTBALL HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458674&extension=ts&play_token=HTc73ZDT5p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png",UK| SKY SPORTS FOOTBALL HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458660&extension=ts&play_token=iJl0uAn64O
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png",UK| SKY SPORTS GOLF HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458673&extension=ts&play_token=CvvgMFKw0o
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png",UK| SKY SPORTS GOLF HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458659&extension=ts&play_token=nqsLuohLtc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png",UK| SKY SPORTS MAIN EVENTS HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458672&extension=ts&play_token=MrtqUKrrOg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png",UK| SKY SPORTS MAIN EVENTS HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458658&extension=ts&play_token=pDkY3Gw6pg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png",UK| SKY SPORTS MIX HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458671&extension=ts&play_token=zkOpRhd3pq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png",UK| SKY SPORTS MIX HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458657&extension=ts&play_token=rsAV8rFXBl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png",UK| SKY SPORTS NEWS HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458681&extension=ts&play_token=kaAPOyje3c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png",UK| SKY SPORTS NEWS HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458670&extension=ts&play_token=PSUAJEzgOj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png",UK| SKY SPORTS PREMIER LEAGUE HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458669&extension=ts&play_token=eTPvzf1eGz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png",UK| SKY SPORTS PREMIER LEAGUE HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458656&extension=ts&play_token=p3D82T47YY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png",UK| SKY SPORTS RACING HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458668&extension=ts&play_token=h9FefkJYpB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png",UK| SKY SPORTS RACING HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458655&extension=ts&play_token=X9PK8pi290
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",UK| SKY SPORTS TENNIS HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458814&extension=ts&play_token=WcRkFkHKiR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",UK| SKY SPORTS TENNIS HEVC FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458813&extension=ts&play_token=l0DjURITrr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSARENA.png",UK| SKY SPORTS ARENA HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458663&extension=ts&play_token=z8DklJHRsz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSDARTS.png",UK| SKY SPORTS DARTS HEVC HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1458661&extension=ts&play_token=njt3dvW2EP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612600&extension=ts&play_token=CviDqd8Dc5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612599&extension=ts&play_token=8bOjaKXtGj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612598&extension=ts&play_token=UM6XWC103v
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612597&extension=ts&play_token=R9BwFskSkq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612596&extension=ts&play_token=RQJPZEl3Vn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 6
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612595&extension=ts&play_token=IHNGZSFZD0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 7
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612594&extension=ts&play_token=KiTh6NuTIs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 8
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612593&extension=ts&play_token=BeehLy36j5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 9
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612592&extension=ts&play_token=pv60SfkQsN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 10
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612591&extension=ts&play_token=OjHCGB48yc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 11
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612590&extension=ts&play_token=39ye0SEtsm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 12
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612589&extension=ts&play_token=QHls4ufPjC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 13
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612588&extension=ts&play_token=UkQtE9ZKQG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 14
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612587&extension=ts&play_token=BcjIpppSV8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 15
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612586&extension=ts&play_token=GJnxFXbvyx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 16
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612585&extension=ts&play_token=R6XdSArNQb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 17
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612584&extension=ts&play_token=qYYvg9VuLz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 18
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612583&extension=ts&play_token=zTvBFtR3c9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 19
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612582&extension=ts&play_token=t3a9WaizCn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 20
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612581&extension=ts&play_token=b58q8aRMHg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 21
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612580&extension=ts&play_token=xiTtHEzO7v
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 22
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612579&extension=ts&play_token=ElAHFFeanO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 23
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612578&extension=ts&play_token=h2GFCFZLOf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 24
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612577&extension=ts&play_token=Wa3r5XUO0w
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 25
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612576&extension=ts&play_token=k1zwMbIbGa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 26
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612575&extension=ts&play_token=we0FEoBnNr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 27
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612574&extension=ts&play_token=mFxuGttISR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 28
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612573&extension=ts&play_token=jbroZnAths
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 29
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612572&extension=ts&play_token=0atFXfbt5M
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 30
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612571&extension=ts&play_token=Fuu3t48ptX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 31
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612570&extension=ts&play_token=FsGXWwRyvg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 32
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612569&extension=ts&play_token=vojiNNQvor
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 33
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612568&extension=ts&play_token=tV9cCk9DO4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 34
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612567&extension=ts&play_token=aX2veaiPkA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 35
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612566&extension=ts&play_token=NEc2jCqnTJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 36
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612565&extension=ts&play_token=7PoeUqIhXz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 37
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612564&extension=ts&play_token=XuK40uFmeM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 38
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612563&extension=ts&play_token=gQMzLo3q1I
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 39
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612562&extension=ts&play_token=vm1taYtiRu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png",Sky Sport+ 40
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1612561&extension=ts&play_token=vwHmQqxhsJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",UK| SKY SPORTS BOX OFFICE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=997056&extension=ts&play_token=ryv1XsvTkt
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014241.png",UK| SKY SPORTS RED BUTTON 01
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014241&extension=ts&play_token=j4vuiU908H
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014242.png",UK| SKY SPORTS RED BUTTON 02
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014242&extension=ts&play_token=6YKv17HfUX
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014243.png",UK| SKY SPORTS RED BUTTON 03
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014243&extension=ts&play_token=9ZeMUjRAwd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014244.png",UK| SKY SPORTS RED BUTTON 04
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014244&extension=ts&play_token=bvsFma54Jl
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014245.png",UK| SKY SPORTS RED BUTTON 05
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014245&extension=ts&play_token=LiBuyEziVS
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014246.png",UK| SKY SPORTS RED BUTTON 06
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014246&extension=ts&play_token=OCLdIw1moj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014247.png",UK| SKY SPORTS RED BUTTON 07
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014247&extension=ts&play_token=IDcfOeWmIi
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014248.png",UK| SKY SPORTS RED BUTTON 08
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014248&extension=ts&play_token=VSnL2T2ZVs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png",UK| SKY SPORTS RED BUTTON 09
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014249&extension=ts&play_token=NA3IjRFNzs
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014250.png",UK| SKY SPORTS RED BUTTON 10
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014250&extension=ts&play_token=Zqvpo2ngpz
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014251.png",UK| SKY SPORTS RED BUTTON 11
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014251&extension=ts&play_token=zThziqJHqB
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014252.png",UK| SKY SPORTS RED BUTTON 12
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014252&extension=ts&play_token=xhD9sQpUgv
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014253.png",UK| SKY SPORTS RED BUTTON 13
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014253&extension=ts&play_token=T35EzCEqtw
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014254.png",UK| SKY SPORTS RED BUTTON 14
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014254&extension=ts&play_token=apoxwtcTUj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014255.png",UK| SKY SPORTS RED BUTTON 15
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014255&extension=ts&play_token=X5q8bOkbwM
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014256.png",UK| SKY SPORTS RED BUTTON 16
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014256&extension=ts&play_token=BX3w8FKQBz
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014257.png",UK| SKY SPORTS RED BUTTON 17
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014257&extension=ts&play_token=Sc8dlzOhlB
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014258.png",UK| SKY SPORTS RED BUTTON 18
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014258&extension=ts&play_token=YwNYrqHTH6
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014259.png",UK| SKY SPORTS RED BUTTON 19
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1014259&extension=ts&play_token=Tae1Zo9s5w
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388607.png",UK| SKY SPORTS F1 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1388607&extension=ts&play_token=vyp7yvYXpc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388604.png",UK| SKY SPORTS F1 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1388604&extension=ts&play_token=VocK3gx0Z4
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388605.png",UK| SKY SPORTS F1 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1388605&extension=ts&play_token=5mO9PvClAx
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388603.png",UK| SKY SPORTS F1 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1388603&extension=ts&play_token=rVi7fO71Ov
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388608.png",UK| SKY SPORTS F1 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1388608&extension=ts&play_token=uyrRoFXJNX
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388606.png",UK| SKY SPORTS F1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1388606&extension=ts&play_token=gYMJOLs1Kx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905835.png",UK-NOWTV| SKY SPORTS+ FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905835&extension=ts&play_token=KbbuULCkct
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905833.png",UK-NOWTV| SKY SPORTS+ HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905833&extension=ts&play_token=yWpAJQ9T5e
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905834.png",UK-NOWTV| SKY SPORTS+ HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905834&extension=ts&play_token=t0WMZreqXP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905869.png",UK-NOWTV| SKY SPORTS 1 (UHD/4K)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905869&extension=ts&play_token=51vP54bGvr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905868.png",UK-NOWTV| SKY SPORTS 2 (UHD/4K)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905868&extension=ts&play_token=ffJUdq9F9U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905867.png",UK-NOWTV| SKY SPORTS ACTION FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905867&extension=ts&play_token=B4GthARUBX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905865.png",UK-NOWTV| SKY SPORTS ACTION HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905865&extension=ts&play_token=dV1EvPV5HI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905866.png",UK-NOWTV| SKY SPORTS ACTION HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905866&extension=ts&play_token=9SrNLCkKyn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905864.png",UK-NOWTV| SKY SPORTS CRICKET FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905864&extension=ts&play_token=4pex7p0zdH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905862.png",UK-NOWTV| SKY SPORTS CRICKET HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905862&extension=ts&play_token=JVOB13nWkz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905863.png",UK-NOWTV| SKY SPORTS CRICKET HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905863&extension=ts&play_token=0FUsBjtFFR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905859.png",UK-NOWTV| SKY SPORTS F1 (UHD/4K)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905859&extension=ts&play_token=esi8pO7dWx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905860.png",UK-NOWTV| SKY SPORTS F1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905860&extension=ts&play_token=A4rq9YFdES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905861.png",UK-NOWTV| SKY SPORTS F1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905861&extension=ts&play_token=0MiNZZGQQt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905858.png",UK-NOWTV| SKY SPORTS FOOTBALL FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905858&extension=ts&play_token=E4vY03McLE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905856.png",UK-NOWTV| SKY SPORTS FOOTBALL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905856&extension=ts&play_token=8A8LWkAxI2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905857.png",UK-NOWTV| SKY SPORTS FOOTBALL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905857&extension=ts&play_token=KIv3TLUvNq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905854.png",UK-NOWTV| SKY SPORTS GOLF HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905854&extension=ts&play_token=fnWN2oDTUt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905855.png",UK-NOWTV| SKY SPORTS GOLF HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905855&extension=ts&play_token=E6rBMu6cfr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905853.png",UK-NOWTV| SKY SPORTS MAIN EVENT FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905853&extension=ts&play_token=v1a6ChvzQe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905852.png",UK-NOWTV| SKY SPORTS MAIN EVENT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905852&extension=ts&play_token=6alBfiWVEL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905851.png",UK-NOWTV| SKY SPORTS MAIN EVENT SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905851&extension=ts&play_token=quwTWcAdZg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905850.png",UK-NOWTV| SKY SPORTS MIX FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905850&extension=ts&play_token=nrroMO5f8v
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905848.png",UK-NOWTV| SKY SPORTS MIX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905848&extension=ts&play_token=2cUThqNVDb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905849.png",UK-NOWTV| SKY SPORTS MIX HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905849&extension=ts&play_token=NYvYfZxO80
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905847.png",UK-NOWTV| SKY SPORTS NEWS HQ FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905847&extension=ts&play_token=WkKLXWpSdd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905845.png",UK-NOWTV| SKY SPORTS NEWS HQ HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905845&extension=ts&play_token=si4O1cTBSM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905846.png",UK-NOWTV| SKY SPORTS NEWS HQ HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905846&extension=ts&play_token=QbAD71E9Qy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905844.png",UK-NOWTV| SKY SPORTS PREMIER LEAGUE FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905844&extension=ts&play_token=R57wZ7hnhk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905842.png",UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905842&extension=ts&play_token=ugzvu1Saae
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905843.png",UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905843&extension=ts&play_token=laSV9iRuif
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905841.png",UK-NOWTV| SKY SPORTS RACING FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905841&extension=ts&play_token=YYg5JNGvrC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905839.png",UK-NOWTV| SKY SPORTS RACING HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905839&extension=ts&play_token=ArNOwQRaHe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905840.png",UK-NOWTV| SKY SPORTS RACING HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905840&extension=ts&play_token=yefsARDcF7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905838.png",UK-NOWTV| SKY SPORTS TENNIS FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905838&extension=ts&play_token=5LlCoq6OHk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905836.png",UK-NOWTV| SKY SPORTS TENNIS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905836&extension=ts&play_token=KhhX7HhDIN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905837.png",UK-NOWTV| SKY SPORTS TENNIS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1905837&extension=ts&play_token=oO1CJtY9Qc
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636918.png",NZ| SKY SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636918&extension=ts&play_token=XeH3LKtFI7
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636919.png",NZ| SKY SPORT 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636919&extension=ts&play_token=n0BuYNLnu3
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636920.png",NZ| SKY SPORT 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636920&extension=ts&play_token=dX7H9WYILd
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636921.png",NZ| SKY SPORT 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636921&extension=ts&play_token=VPqOowQuQn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636922.png",NZ| SKY SPORT 5 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636922&extension=ts&play_token=VJSPOdIO97
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636923.png",NZ| SKY SPORT 6 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636923&extension=ts&play_token=q11VWKC3ae
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636924.png",NZ| SKY SPORT 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636924&extension=ts&play_token=Sz1ZH20BMM
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636925.png",NZ| SKY SPORT 8 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636925&extension=ts&play_token=OwRA0TisUO
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/636926.png",NZ| SKY SPORT 9 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636926&extension=ts&play_token=HwhuxcJJbz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/skysport10.png",NZ| SKY SPORT 10 SELECT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=636927&extension=ts&play_token=Ay79lP5QWh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2024778&extension=ts&play_token=P2VaZMkICa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 2 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2024777&extension=ts&play_token=2y7Jz5PaRL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 3 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2024776&extension=ts&play_token=TAZi34p9HM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 4 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2024775&extension=ts&play_token=9gVyupEFvc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 5 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2024774&extension=ts&play_token=ofmBeGNOkd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 6 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2024773&extension=ts&play_token=hIrdtBlt7G
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 7 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2024772&extension=ts&play_token=nmag7Rxkb5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 8 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2024771&extension=ts&play_token=vwdAqqow4L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT 9 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2024770&extension=ts&play_token=lqAoOmxSHi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-SPORT.png",NZ| SKY SPORT POP UP 1 FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2024769&extension=ts&play_token=N3MAzXreyH
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1424311.png",NZ| SKY SPORTS NZ PL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424311&extension=ts&play_token=SpfBomsuNV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 9
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424310&extension=ts&play_token=ymfMjguNFK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ SELECT
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424309&extension=ts&play_token=9IpPtLtjPK
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1424308.png",NZ| SKY SPORTS NZ POPUP 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424308&extension=ts&play_token=rGanghoh9h
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424318&extension=ts&play_token=to12b91hJm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424317&extension=ts&play_token=cPKy6ayiW5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424316&extension=ts&play_token=W2fBqtLIc9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424315&extension=ts&play_token=NCbmulzzJ3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424314&extension=ts&play_token=xohJZxvCMl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 6
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424313&extension=ts&play_token=G98hEkHEdl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png",NZ| SKY SPORTS NZ 7
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1424312&extension=ts&play_token=Gxv5tiMJnY
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691305.png",IT| SKY SPORT ACTION UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691305&extension=ts&play_token=9zc2gv6qlu
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691304.png",IT| SKY SPORT ACTION 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691304&extension=ts&play_token=KqDSn4h4bO
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691283.png",IT| SKY SPORT 24 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691283&extension=ts&play_token=wcG1rhByNH
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691282.png",IT| SKY SPORT 24 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691282&extension=ts&play_token=zNONJU2126
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png",IT| SKY SPORT NBA UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691281&extension=ts&play_token=eGRpc5pew2
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png",IT| SKY SPORT NBA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691280&extension=ts&play_token=NrGN9jPDP5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691279.png",IT| SKY SPORT UNO UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691279&extension=ts&play_token=iQzjMtYq5y
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691278.png",IT| SKY SPORT UNO 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691278&extension=ts&play_token=RmCly0WAFI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691277.png",IT| SKY SPORT FOOTBALL UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691277&extension=ts&play_token=mdSx9QEcuD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691276.png",IT| SKY SPORT FOOTBALL 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691276&extension=ts&play_token=SW5VJFrjoU
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691275.png",IT| SKY SPORT ARENA UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691275&extension=ts&play_token=isuhJDxSP7
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691274.png",IT| SKY SPORT ARENA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691274&extension=ts&play_token=Mt1A6jFnJz
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691273.png",IT| SKY SPORT COLLECTION UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691273&extension=ts&play_token=HT1QQkOEjg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691272.png",IT| SKY SPORT COLLECTION 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691272&extension=ts&play_token=G5yd3ZOX6n
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691271.png",IT| SKY SPORT F1 UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691271&extension=ts&play_token=em57FKC8LX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691270.png",IT| SKY SPORT F1 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691270&extension=ts&play_token=PvKJNNibeI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691269.png",IT| SKY SPORT MOTOGP UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691269&extension=ts&play_token=M8fePvEBIK
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691268.png",IT| SKY SPORT MOTOGP 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691268&extension=ts&play_token=VchcxBkyJt
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691261.png",IT| SKY SPORT CALCIO UHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691261&extension=ts&play_token=3bspss3D1g
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691260.png",IT| SKY SPORT CALCIO 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691260&extension=ts&play_token=U1WXXd1nqW
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691544.png",IT| SKY SPORT ACTION HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691544&extension=ts&play_token=9qWgjL7BwE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691537.png",IT| SKY SPORT MOTO GP HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691537&extension=ts&play_token=lDDudrBkzR
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691536.png",IT| SKY SPORT F1 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691536&extension=ts&play_token=2QdWrg3zaU
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691535.png",IT| SKY SPORT TENNIS HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691535&extension=ts&play_token=B74MyYWtNE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691534.png",IT| SKY SPORT ARENA HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691534&extension=ts&play_token=bAroar9tDF
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691532.png",IT| SKY SPORT UNO HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691532&extension=ts&play_token=qxYivoH9Uj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png",IT| SKY SPORT NBA HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691531&extension=ts&play_token=4ZN2dAble4
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691530.png",IT| SKY SPORT 24 HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691530&extension=ts&play_token=nymw5KQ31T
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691523.png",IT| SKY SPORT CALCIO HEVC
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=691523&extension=ts&play_token=zYlL4UlSGT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ligue1.png",IT| SKY SPORT BAR PRIMEVIDEO FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=699225&extension=ts&play_token=82jbJa9QUM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ligue1.png",IT| SKY SPORT BAR PRIMEVIDEO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=699224&extension=ts&play_token=H0daJZlutA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ligue1.png",IT| SKY SPORT BAR PRIMEVIDEO SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=699223&extension=ts&play_token=7jFA4V4hGf
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692442.png",IT| SKY SPORT ACTION 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692442&extension=ts&play_token=SHqHhuiNYn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692441.png",IT| SKY SPORT ACTION HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692441&extension=ts&play_token=9Wb1EINwoI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692440.png",IT| SKY SPORT ACTION SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692440&extension=ts&play_token=NBR8dSokVW
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692439.png",IT| SKY SPORT 24 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692439&extension=ts&play_token=SEj4NhGPvk
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692438.png",IT| SKY SPORT 24 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692438&extension=ts&play_token=gFVNIgB7Ka
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692437.png",IT| SKY SPORT 24 SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692437&extension=ts&play_token=l1WReSSKNO
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692436.png",IT| SKY SPORT ARENA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692436&extension=ts&play_token=axALK1r2Ju
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692435.png",IT| SKY SPORT ARENA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692435&extension=ts&play_token=zqkqSVxXQl
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692434.png",IT| SKY SPORT ARENA SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692434&extension=ts&play_token=SeB8w1KGnW
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692433.png",IT| SKY SPORT TENNIS 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692433&extension=ts&play_token=lRHttEHKYS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692432.png",IT| SKY SPORT TENNIS SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692432&extension=ts&play_token=sLjrlhn3va
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692431.png",IT| SKY SPORT TENNIS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692431&extension=ts&play_token=5uKF1llEFV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692429.png",IT| SKY SPORT F1 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692429&extension=ts&play_token=HMyFhPPVlS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692428.png",IT| SKY SPORT F1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692428&extension=ts&play_token=iN9zPqW0HC
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692427.png",IT| SKY SPORT F1 SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692427&extension=ts&play_token=IlXHZtXIB5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692426.png",IT| SKY SPORT FOOTBALL 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692426&extension=ts&play_token=sWpXVSvVLa
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692425.png",IT| SKY SPORT FOOTBALL HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692425&extension=ts&play_token=j1ypQmbiyr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692424.png",IT| SKY SPORT FOOTBALL SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692424&extension=ts&play_token=xz5TgwWHCc
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692423.png",IT| SKY SPORT MOTOGP 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692423&extension=ts&play_token=FqY8j7MBKQ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692422.png",IT| SKY SPORT MOTOGP HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692422&extension=ts&play_token=7jubsyJy6e
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692421.png",IT| SKY SPORT MOTOGP SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692421&extension=ts&play_token=gBlGFrtU0Q
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png",IT| SKY SPORT NBA 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692420&extension=ts&play_token=Bix5pEYxtY
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png",IT| SKY SPORT NBA HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692419&extension=ts&play_token=fL3JrxMDtU
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/nbatv.png",IT| SKY SPORT NBA SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692418&extension=ts&play_token=jwyUZUwy13
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/898099.png",IT| SKY SPORT SERIE A
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=898099&extension=ts&play_token=6zKcqGTxse
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692417.png",IT| SKY SPORT CALCIO 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692417&extension=ts&play_token=45KeBR69DU
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692416.png",IT| SKY SPORT CALCIO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692416&extension=ts&play_token=r8q2vwWqtW
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692415.png",IT| SKY SPORT CALCIO SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692415&extension=ts&play_token=XITiaCvUwl
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692395.png",IT| SKY SPORT SOLO CALCIO
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692395&extension=ts&play_token=jYH3ULHhfA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/skysport.png",IT| SKY SPORT SOLO MOTORI
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692394&extension=ts&play_token=MFHvZZMzxq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692393.png",IT| SKY SPORT UNO 4K
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692393&extension=ts&play_token=rxpftnQLYr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692392.png",IT| SKY SPORT UNO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692392&extension=ts&play_token=zUyhzXc3ta
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692391.png",IT| SKY SPORT UNO SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692391&extension=ts&play_token=4vKk4WNEHv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692390.png",IT| SKY SPORT ITALIA
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692390&extension=ts&play_token=qqtHnUTc5z
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692389.png",IT| SKY SPORT HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692389&extension=ts&play_token=FnAPGhgRlj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692388.png",IT| SKY SPORT LIVE 24
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692388&extension=ts&play_token=ncQ1bxYKal
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692385.png",IT| SKY SPORTPLUS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692385&extension=ts&play_token=i57qXXd5Q7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/skysportunohd.png",IT| SKY SPORT BAR UNO FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=699231&extension=ts&play_token=dw5xTuIEGT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/skysportunohd.png",IT| SKY SPORT BAR UNO HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=699230&extension=ts&play_token=rMajiTPRHk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/skysportunohd.png",IT| SKY SPORT BAR UNO SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=699229&extension=ts&play_token=8fm8sK43Wr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/skysport2hd.png",IT| SKY SPORT BAR DUE FHD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=699228&extension=ts&play_token=ZCT49TDpoa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/skysport2hd.png",IT| SKY SPORT BAR DUE HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=699227&extension=ts&play_token=Hk3lWRH8nG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/skysport2hd.png",IT| SKY SPORT BAR DUE SD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=699226&extension=ts&play_token=ppMNrF87Kh
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692323.png",IT| SKY SPORTOUTDOOR.TV
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=692323&extension=ts&play_token=X6QHvBP3Tj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870521&extension=ts&play_token=MhAYpInYTG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 16
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870520&extension=ts&play_token=nFiEwgH563
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 21
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870519&extension=ts&play_token=A919Dp2REE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 24
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870518&extension=ts&play_token=QWkLyCDhPG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 80
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870949&extension=ts&play_token=BzZDiVSe2d
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 81
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870948&extension=ts&play_token=pT1YeG60el
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 82
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870947&extension=ts&play_token=ctC0D5pCxU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 83
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870946&extension=ts&play_token=EwOpeQRCXi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 84
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870944&extension=ts&play_token=zHrkDCvjcR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 85
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870239&extension=ts&play_token=RCt8j1BDE4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 86
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870238&extension=ts&play_token=DQcsaIY1yK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png",MXC| SKY SPORTS 87
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1870237&extension=ts&play_token=OyCrmB1m5M
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104668.png",UK| SKY SPORTS CRICKET HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1104668&extension=ts&play_token=5pP1vfzCrn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104679.png",NZ| SKY SPORT 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1104679&extension=ts&play_token=JksZnom6qs
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1127566.png",NZ| SKY SPORT 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1127566&extension=ts&play_token=ekPY8eqf2P
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104680.png",NZ| SKY SPORT 4 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1104680&extension=ts&play_token=qhWUmHiF2m
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/899880.png",HR| SKY SPORTS RACING HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=899880&extension=ts&play_token=O04ogI9NYO

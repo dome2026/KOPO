@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902358&extension=ts&play_token=GcuL6q23ws
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902357&extension=ts&play_token=QaK0bIYGmJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902356&extension=ts&play_token=IE8AcVChTf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902355&extension=ts&play_token=bSdhAsmW9x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902354&extension=ts&play_token=YM2a8WrqIl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 6
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902353&extension=ts&play_token=nCinY08Ql2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 7
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902352&extension=ts&play_token=xMeQETv5Vw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 8
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902351&extension=ts&play_token=8ZCvtPUabb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 9
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902350&extension=ts&play_token=LFCReXTmX7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 10
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902349&extension=ts&play_token=BQ4KLzMooA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 11
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902348&extension=ts&play_token=DfoH0oxfoA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 12
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902347&extension=ts&play_token=7QzXqBsVST
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 13
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902346&extension=ts&play_token=I655SRcy8P
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 14
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902345&extension=ts&play_token=XzD5mzuYeJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 15
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902344&extension=ts&play_token=Zcafmynbpi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 16
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902343&extension=ts&play_token=fzcUBRc02F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 17
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902342&extension=ts&play_token=lfCDIkIKa0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 18
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902341&extension=ts&play_token=aEfg9gwvoJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 19
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902340&extension=ts&play_token=2r94NewuUb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 20
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1902339&extension=ts&play_token=cmLvh7MAn6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 21
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106845&extension=ts&play_token=fKQ6Ri1ZSV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 22
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106844&extension=ts&play_token=8UMDT2mXgj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 23
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106843&extension=ts&play_token=HO40pwr7l4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 24
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106842&extension=ts&play_token=lZQY2tnCEZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 25
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106841&extension=ts&play_token=7dxee3J5pS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 26
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106840&extension=ts&play_token=XcBEUQaCOr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 27
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106839&extension=ts&play_token=0pyLhbnxs5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 28
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106838&extension=ts&play_token=G6vujcnF9x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 29
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106837&extension=ts&play_token=hc4D3QQg8x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 30
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106836&extension=ts&play_token=5SJkqyrKBS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 31
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106835&extension=ts&play_token=wfzzqXDH8e
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Event.png",MonoMax | Event 32
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=2106834&extension=ts&play_token=vXMlZdYsdp
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/164616.png",TH| MONO+
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=164616&extension=ts&play_token=1fDjtOhJI0
