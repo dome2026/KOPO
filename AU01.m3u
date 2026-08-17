@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",AU| KAYO - ESPN 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1520168&extension=ts&play_token=H0RwVFjEJs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",AU| KAYO - ESPN 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1520167&extension=ts&play_token=LfCam2SKux
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KAYO.png",AU| KAYO - FOX SPORTS NEWS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1520172&extension=ts&play_token=J0o8wZOdMD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KAYO.png",AU| KAYO - FOX SPORTS 501 CRICKET
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1520176&extension=ts&play_token=veVoh9fWyB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KAYO.png",AU| KAYO - FOX SPORTS 502 LEAUGE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1520171&extension=ts&play_token=FmzG1ya92V
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KAYO.png",AU| KAYO - FOX SPORTS 503
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1520175&extension=ts&play_token=2drBoB30bf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KAYO.png",AU| KAYO - FOX SPORTS 504 FOTTY
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1520170&extension=ts&play_token=3nupaTqAdI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KAYO.png",AU| KAYO - FOX SPORTS 505
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1520174&extension=ts&play_token=R7vpemzavj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KAYO.png",AU| KAYO - FOX SPORTS 506
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1520169&extension=ts&play_token=qVCEYy70eK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KAYO.png",AU| KAYO - FOX SPORTS 507
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1520173&extension=ts&play_token=OaEl8Zl2ze
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/TEN.png",AU| TEN
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646949&extension=ts&play_token=4AMrmrYIl9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/FOXCRICKET.png",AU| FOX CRICKET HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646948&extension=ts&play_token=0vL55nTyZm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/ABC.png",AU| ABC BRISBANE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156898&extension=ts&play_token=8yQdZa4cUu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/ABC.png",AU| ABC COMEDY MELBOURNE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156881&extension=ts&play_token=LOK3tIbIhD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/ABC.png",AU| ABC KIDS NATIONAL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156901&extension=ts&play_token=gECHLq318V
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/ABC.png",AU| ABC KIDS PERTH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156864&extension=ts&play_token=1bFBHEG7iP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/ABC.png",AU| ABC MELBOURNE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156880&extension=ts&play_token=K3Y425Aq3c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/ABC.png",AU| ABC ME MELBOURNE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156882&extension=ts&play_token=nwzBH0S6mR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/ABC.png",AU| ABC ME NATIONAL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156902&extension=ts&play_token=OKKYBvhV2D
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/ABCNEWSSYDNEY.png",AU| ABC NEWS SYDNEY
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1130813&extension=ts&play_token=aQnOEp9lCX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/ABC.png",AU| ABC PERTH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156862&extension=ts&play_token=GI2k6mqFHg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/ABC.png",AU| ABC SYDNEY
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156899&extension=ts&play_token=8YEUJcv2xq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/CHANNEL7.png",AU| CHANNEL 7 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=738209&extension=ts&play_token=EbR0YW20l3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/CHANNEL7TWOSYDNEY.png",AU| CHANNEL 7TWO SYDNEY
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=738208&extension=ts&play_token=bb7dL8g1Tj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/CHANNEL9GEM.png",AU| CHANNEL 9 GEM
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1789687&extension=ts&play_token=Mc2GWTEmQP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/CHANNEL9SYDNEY.png",AU| CHANNEL 9 PERTH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156865&extension=ts&play_token=YKRGtLagGP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/CHANNEL9SYDNEY.png",AU| CHANNEL 9 SYDNEY
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156905&extension=ts&play_token=4hjkVT8Mfp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/CHANNEL10PERTH.png",AU| CHANNEL 10 PERTH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1789688&extension=ts&play_token=h3AuJl479r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/10BOLD.png",AU| 10 BOLD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=579227&extension=ts&play_token=IJo8WCFTzx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RACING.png",AU| RACING
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156848&extension=ts&play_token=H82OtgsMJ6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RACINGCOMNATIONAL.png",AU| RACING.COM MELBOURNE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156896&extension=ts&play_token=uUOuV09RK9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RACINGCOMNATIONAL.png",AU| RACING.COM NATIONAL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156926&extension=ts&play_token=4GRDrE4mPu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RACINGCOMNATIONAL.png",AU| RACING.COM PERTH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156876&extension=ts&play_token=CLTnJQoBJo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/REDBULL.png",AU| REDBULL TV (NZ)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156930&extension=ts&play_token=tLXnv7KTv0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/REDBULL.png",AU| REDBULL TV MELBOURNE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156897&extension=ts&play_token=1rLxEQyH4e
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/REDBULL.png",AU| REDBULL TV NATIONAL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156927&extension=ts&play_token=hno3iKUmPh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/REDBULL.png",AU| REDBULL TV PERTH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156878&extension=ts&play_token=JIlCWD1dHL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBS.png",AU| SBS BRISBANE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156918&extension=ts&play_token=QeKbTppMqP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBS.png",AU| SBS FOOD MELBOURNE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156893&extension=ts&play_token=SNIpIWREcv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBSFOODNATIONAL.png",AU| SBS FOOD NATIONAL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156920&extension=ts&play_token=Gm6g24jxeY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBS.png",AU| SBS FOOD PERTH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156875&extension=ts&play_token=N5iWA75dao
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBS.png",AU| SBS MELBOURNE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156894&extension=ts&play_token=zoOUvL3ba8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBS.png",AU| SBS PERTH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156872&extension=ts&play_token=qHW2sqXxMR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBS.png",AU| SBS SYDNEY
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156919&extension=ts&play_token=9YpKpQtA06
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBS.png",AU| SBS VICELAND MELBOURNE
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156895&extension=ts&play_token=ePHQG8k6Fd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBSVICELANDNATIONAL.png",AU| SBS VICELAND NATIONAL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156922&extension=ts&play_token=z0OzjJmgPi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBS.png",AU| SBS VICELAND PERTH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156874&extension=ts&play_token=XFpbH8Eprz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBSWORLDMOVIESNATIONAL.png",AU| SBS WORLD MOVIES NATIONAL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156923&extension=ts&play_token=dxLgOrwSMX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SBS.png",AU| SBS WORLD MOVIES PERTH
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156873&extension=ts&play_token=6BA7RYlK6C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/TEREO.png",AU| TE REO (NZ)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156931&extension=ts&play_token=S6p0PokZOo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/TVSNSHOPPING.png",AU| TVSN SHOPPING (NZ)
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=156932&extension=ts&play_token=JjH3TirOFd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/BEINSPORTS1.png",AU| BEIN SPORTS 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646977&extension=ts&play_token=Gl92UrvDV8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/BEINSPORTS2.png",AU| BEIN SPORTS 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646976&extension=ts&play_token=faj1TmJXtZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/BEINSPORTS3.png",AU| BEIN SPORTS 3 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646975&extension=ts&play_token=17gn53DQUd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",AU| ESPN 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646974&extension=ts&play_token=xUU4w5llWs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",AU| ESPN 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646973&extension=ts&play_token=iPzNRahe3g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/FOXSPORTSNEWS.png",AU| FOX SPORTS NEWS
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646972&extension=ts&play_token=UavjgllhXG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/FOXSPORTS.png",AU| FOX SPORTS 501 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646971&extension=ts&play_token=rvhQUFqoln
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/FOXSPORTS.png",AU| FOX SPORTS 502 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646970&extension=ts&play_token=7xPK0B5LJN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/FOXSPORTS.png",AU| FOX SPORTS 503 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646969&extension=ts&play_token=NPaIlZcCmn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/FOXSPORTS.png",AU| FOX SPORTS 504 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646968&extension=ts&play_token=U4zUDnsCvU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/FOXSPORTS.png",AU| FOX SPORTS 505 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646967&extension=ts&play_token=BEzjHQI8e7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/FOXSPORTS.png",AU| FOX SPORTS 506 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646966&extension=ts&play_token=qUtak1uVAj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/FOXSPORTS.png",AU| FOX SPORTS 507 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646965&extension=ts&play_token=4RyyeTgvPW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWS.png",AU| SKY NEWS HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=744203&extension=ts&play_token=FbyDhmTUIQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWSEXTRA.png",AU| SKY NEWS EXTRA 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646959&extension=ts&play_token=FA7bxZXZrh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWSEXTRA.png",AU| SKY NEWS EXTRA 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646958&extension=ts&play_token=LS9IVYYMb2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWSELECTIONCHANNEL.png",AU| SKY NEWS ELECTION CHANNEL
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1812074&extension=ts&play_token=DXUmmAxYp6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWSWEATHER.png",AU| SKY NEWS WEATHER
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1812073&extension=ts&play_token=DrFEhaPJyv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWSAUSTRALIA.png",AU| SKY NEWS AUSTRALIA
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1812072&extension=ts&play_token=paisvimWvo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWSEXTRA.png",AU| SKY NEWS EXTRA 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1812071&extension=ts&play_token=zia2MXzeWi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWSEXTRA.png",AU| SKY NEWS EXTRA 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1812070&extension=ts&play_token=iaZyTvQB06
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWSEXTRA.png",AU| SKY NEWS EXTRA 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1812069&extension=ts&play_token=WA6Pa134Un
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWSEXTRA.png",AU| SKY NEWS EXTRA 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1812068&extension=ts&play_token=zJhgmXZ9vj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYNEWSEXTRA.png",AU| SKY NEWS EXTRA 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1812067&extension=ts&play_token=KwHtj1zMig
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYRACING.png",AU| SKY RACING 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646956&extension=ts&play_token=vzX8RX65TP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYRACING.png",AU| SKY RACING 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646955&extension=ts&play_token=jtAU9cG1H8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYRACING.png",AU| SKY RACING 2 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646953&extension=ts&play_token=nocZzOGrws
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/SKYRACING.png",AU| SKY RACING 1 HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=646952&extension=ts&play_token=EYuhHkgsFX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 1
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847886&extension=ts&play_token=xwswFCn9av
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 2
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847887&extension=ts&play_token=W8PtKgZ4QW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 3
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847888&extension=ts&play_token=yPIjMmxDCi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 4
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847889&extension=ts&play_token=t5eesZqvam
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-10.png",AU| STAN EVENT 5
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847890&extension=ts&play_token=rDo3EH6GjF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-10.png",AU| STAN EVENT 6
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847891&extension=ts&play_token=wz4KcPqkvl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-10.png",AU| STAN EVENT 7
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847892&extension=ts&play_token=1XGzanUkqV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-10.png",AU| STAN EVENT 8
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847893&extension=ts&play_token=8AF7uTtMsP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-10.png",AU| STAN EVENT 9
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847894&extension=ts&play_token=AD92U9X25g
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-10.png",AU| STAN EVENT 10
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847895&extension=ts&play_token=s37u8qqgcR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 11
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847896&extension=ts&play_token=9QmlFNAhaP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 12
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847897&extension=ts&play_token=LL2AsMavpj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 13
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847898&extension=ts&play_token=ZR9PLdMf5i
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 14
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847899&extension=ts&play_token=6Tvt3pg5Wt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 15
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847900&extension=ts&play_token=tlvUnhoOJJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 16
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847901&extension=ts&play_token=TYrhHw1TRQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 17
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847902&extension=ts&play_token=ZIO8wMWAfO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 18
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847903&extension=ts&play_token=vQayslriyf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 19
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=847904&extension=ts&play_token=jB10rifes7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 20
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432240&extension=ts&play_token=lNcWxQTxEd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAN-EVENT-1.png",AU| STAN EVENT 21
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1432241&extension=ts&play_token=Hc8x7614Nk
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104678.png",AU| FOX CRICKET HD
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:17&stream=1104678&extension=ts&play_token=uydUff242Y
