@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Live", Volleyball World Live
-#EXTVLCOPT:http-referrer=https://tv.volleyballworld.com/
-#EXTVLCOPT:http-origin=https://tv.volleyballworld.com
-#EXTHTTP:{"Referer":"https://tv.volleyballworld.com/","Origin":"https://tv.volleyballworld.com"}
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/FgzzPjSr/live.isml/.m3u8
+#EXTVLCOPT:http-referrer=https://play.sooplive.com/
+#EXTVLCOPT:http-origin=https://play.sooplive.com
+https://live-tm-kr-cdn-z02.sooplive.com/296595585/playlist.m3u8?data=AAAAAAAAAAAAAAAAXAzDgaIF8BNTes99mCWr2y5dRhqSLFb0W4B4H6uXk-GaB_gExoQHhpzY9Da9VF5viHCOoqgy4vA=
