@@ -3,5 +3,5 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
-#KODIPROP:inputstream.adaptive.license_key=https://playready-license.vudrm.tech/rightsmanager.asmx|C81E80708E9874C5753D9576E58E57D2|R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=C81E80708E9874C5753D9576E58E57D2:9A04F07998404286AB92E65BE0885F95
 https://videos-cloudfront-studiodrm.jwpsrv.com/6a9e5782_7ccaf5ffd88f15f3e1ce3bbf12b542c3e434175c/sites/fM9jRrkn/media/s99yVW2b/versions/hWBPnAvT/manifest-34589431,34589432,34589433,34589435,34589436,34589437,34589438.ism/.mpd
