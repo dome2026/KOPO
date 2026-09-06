@@ -4,5 +4,5 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d96ea09128195890bf1742bc8bdd9c50:5249b260f5146d3f36d0de05df32d2dc
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/
 https://dcnvoddazn-a.akamaized.net/DM/video/gbjjcwfbebab1c2d50snuilfu/1/web/dash/stream.mpd?dazn-token=st%3D1788704306~exp%3D1788790706~acl%3D%2F*~id%3D73ff4465f504~data%3Dproto%3Ddash%23country%3Dth%23asn%3D45758%23path%3D1s%2C3d%23hashp%3Dacae885f8cfeb9d92d82cae4e179632781fb08fc7d69e90bc184fcb4ad9d1905%23hashua%3D2e91c7de4f0f00b7f98eb6f1f5fd9ce72726e7b922b4415dbc20978a36fb132c~hmac%3D7b2c9cf6cb02646e82b7b88379383ee4e86f49ec8adaf137d6b60fb8658bfd86
