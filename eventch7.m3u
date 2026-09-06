@@ -1,12 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:6
-
-# ---------------------------------------------------------
-# DRM Information
-# KID: C81E8070-8E98-74C5-753D-9576E58E57D2
-# License System: PlayReady (UUID: 9A04F079-9840-4286-AB92-E65BE0885F95)
-# License Server: https://playready-license.vudrm.tech/rightsmanager.asmx
-# ---------------------------------------------------------
-
-#EXTINF:-1 tvg-chno="1" tvg-name="Protected Stream" group-title="DRM Streams",Protected MPD Stream
+#EXTINF:-1 tvg-logo="" ,Protected MPD Stream (PlayReady)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
+#KODIPROP:inputstream.adaptive.license_key=https://playready-license.vudrm.tech/rightsmanager.asmx|C81E80708E9874C5753D9576E58E57D2|R{SSM}|
 https://videos-cloudfront-studiodrm.jwpsrv.com/6a9e5782_7ccaf5ffd88f15f3e1ce3bbf12b542c3e434175c/sites/fM9jRrkn/media/s99yVW2b/versions/hWBPnAvT/manifest-34589431,34589432,34589433,34589435,34589436,34589437,34589438.ism/.mpd
