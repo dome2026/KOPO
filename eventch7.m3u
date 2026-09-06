@@ -1,21 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" ,Protected MPD Stream (Widevine)
+#EXTINF:-1 tvg-logo="" ,KS Burreli vs. KS Kastrioti
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c81e80708e9874c5753d9576e58e57d2:f59e48b68a6aeeea67a6d23fb5e92418
-https://videos-cloudfront-studiodrm.jwpsrv.com/6a9e5782_7ccaf5ffd88f15f3e1ce3bbf12b542c3e434175c/sites/fM9jRrkn/media/s99yVW2b/versions/hWBPnAvT/manifest-34589431,34589432,34589433,34589435,34589436,34589437,34589438.ism/.mpd
-
-#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/aRwxDjY2-1920.jpg" ,Chinese Taipei v Iran | Pool Phase | AVC Women's Continentals 2026 - Replay
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf8f6964cca33c0be4258e4c375dccda:0ec3076f2b73a9ba46f12fdf38cf7cf2
-https://videos-cloudfront-studiodrm.jwpsrv.com/6a9e649c_8ff8b0ffb73f1d5ef053293d12901d91021e1710/sites/fM9jRrkn/media/FgzzPjSr/versions/2BsIGPyr/manifest-34589431,34589432,34589433,34589435,34589436,34589437,34589438.ism/.mpd
-
-#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/sRZfMIlK-1920.jpg" ,🔴 Live - Japan v Bahrain | Pool Phase | AVC Men's Continentals 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0544ba7d5bb6cfae2499b7511f57df4:a6e87e68404149107203dc28e1bb3a93
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/V22JhO9u/live.isml/.mpd
+#KODIPROP:inputstream.adaptive.license_key=0eb97aea61785453a5a8442a241735dd:2f47301065e2c4036673dd8363d6beef
+https://dca-ac-live.cdn.indazn.com/1sg7h0ay05hfo129uo733s8gt0/web/stream.mpd?channel=9999&outlet=dazn-row&plang=en&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXNnN2gwYXkwNWhmbzEyOXVvNzMzczhndDAiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyI0NTc1OCJdLCJzc2lkIjoiNzNmZjQ0NjVmNTA0IiwiaW50c2lnIjoieXVOZU5vM29wdXNad0NFYzNSSnB6SHk2V1NXQ2M1S3ZXYm9oS2JhWjFLRSIsImlhdCI6MTc4ODcwMzk3MywiZXhwIjoxNzg4NzkwMzczfQ.4jysCzGfdz3ejGN-ypCjfmrsgAHu_jv5dAQsF40n4dg
