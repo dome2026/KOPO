@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" ,KS Burreli vs. KS Kastrioti
+#EXTINF:-1 tvg-logo="" ,Final | Argentina vs. France
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eb97aea61785453a5a8442a241735dd:2f47301065e2c4036673dd8363d6beef
-https://dca-ac-live.cdn.indazn.com/1sg7h0ay05hfo129uo733s8gt0/web/stream.mpd?channel=9999&outlet=dazn-row&plang=en&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXNnN2gwYXkwNWhmbzEyOXVvNzMzczhndDAiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyI0NTc1OCJdLCJzc2lkIjoiNzNmZjQ0NjVmNTA0IiwiaW50c2lnIjoieXVOZU5vM29wdXNad0NFYzNSSnB6SHk2V1NXQ2M1S3ZXYm9oS2JhWjFLRSIsImlhdCI6MTc4ODcwMzk3MywiZXhwIjoxNzg4NzkwMzczfQ.4jysCzGfdz3ejGN-ypCjfmrsgAHu_jv5dAQsF40n4dg
+#KODIPROP:inputstream.adaptive.license_key=d96ea09128195890bf1742bc8bdd9c50:5249b260f5146d3f36d0de05df32d2dc
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com
+https://dcnvoddazn-a.akamaized.net/DM/video/gbjjcwfbebab1c2d50snuilfu/1/web/dash/stream.mpd?dazn-token=st%3D1788704306~exp%3D1788790706~acl%3D%2F*~id%3D73ff4465f504~data%3Dproto%3Ddash%23country%3Dth%23asn%3D45758%23path%3D1s%2C3d%23hashp%3Dacae885f8cfeb9d92d82cae4e179632781fb08fc7d69e90bc184fcb4ad9d1905%23hashua%3D2e91c7de4f0f00b7f98eb6f1f5fd9ce72726e7b922b4415dbc20978a36fb132c~hmac%3D7b2c9cf6cb02646e82b7b88379383ee4e86f49ec8adaf137d6b60fb8658bfd86
