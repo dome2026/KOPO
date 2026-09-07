@@ -13,17 +13,47 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8Bq6YnMH/live.is
 #KODIPROP:inputstream.adaptive.license_key=
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/P1yxudOO/live.isml/.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vMk8Mm2E/poster.jpg?width=1920" ,08:00 - India v New Zealand | Pool Phase | AVC Men's Continentals 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vMk8Mm2E/live.isml/.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vpoKHSbW/poster.jpg?width=1920" ,11:30 - Qatar v Korea | Pool Phase | AVC Men's Continentals 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vpoKHSbW/live.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9KCFcelI/poster.jpg?width=1920" ,17:30 - Japan v Australia | Pool Phase | AVC Men's Continentals 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/9KCFcelI/live.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MPZUFrJo/poster.jpg?width=1920" ,08:00 - Bahrain v Oman | Pool Phase | AVC Men's Continentals 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MPZUFrJo/live.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HYzu7tZd/poster.jpg?width=1920" ,11:30 - Chinese Taipei v Thailand | Pool Phase | AVC Men's Continentals 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/HYzu7tZd/live.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1Fawqblc/poster.jpg?width=1920" ,15:00 - Iran v China | Pool Phase | AVC Men's Continentals 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1Fawqblc/live.isml/.mpd
 
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
