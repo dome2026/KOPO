@@ -55,6 +55,13 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/HYzu7tZd/live.is
 #KODIPROP:inputstream.adaptive.license_key=
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1Fawqblc/live.isml/.mpd
 
+#EXTINF:-1 tvg-logo="" ,NFL Football
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d91b5dc41ef85a25883ca47efb3c6641:5fa7e0ff1e379a83e44005917e3af5f2
+https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-205/stream.mpd?p=web&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODg4NDg1MDEsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiZWFmYjU3ZmQzY2VkN2M5OTJiYjNlYWU4NTRmOGJkMjdkYWMyZjU4MSIsInNzaWQiOiI3M2ZmNDQ2NWY1MDQiLCJwcm90byI6ImRhc2giLCJnZW8iOiJ0aCIsImFzbiI6WyI0NTc1OCJdLCJ1YSI6IjQ1MDQ3NzNiZDVjZjg2ZWVhZWFjOTNkMTc4Nzg3ZmEzZjVkMzg2MGMiLCJpYXQiOjE3ODg3NjIxMDF9.S64iQY-QHOoR1R911PasQ_Qei_ptakAMcFwP7pe8vs0
+
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
