@@ -11,7 +11,7 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8Bq6YnMH/live.is
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/P1yxudOO/live.isml/.m3u8
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/P1yxudOO/live.isml/.mpd
 
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
