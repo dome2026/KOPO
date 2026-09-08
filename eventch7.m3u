@@ -1,16 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P1yxudOO/poster.jpg?width=1920" ,🔴Live - Thailand v Korea | Pool Phase | AVC Men's Continentals 2026
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vMk8Mm2E/poster.jpg?width=1920" ,🔴Live - India v New Zealand | Pool Phase | AVC Men's Continentals 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a34bd731b5d119430fd01f2dad02b213:40bdeabb9ac6887ff6d8f9a06a51cd98
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/P1yxudOO/live.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vMk8Mm2E/poster.jpg?width=1920" ,08:00 - India v New Zealand | Pool Phase | AVC Men's Continentals 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key
+#KODIPROP:inputstream.adaptive.license_key=6196a26e198e4cf9a0158d971036ca08:d5f3ca6c25326e5d26fb09c554ee93b2
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vMk8Mm2E/live.isml/.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vpoKHSbW/poster.jpg?width=1920" ,11:30 - Qatar v Korea | Pool Phase | AVC Men's Continentals 2026
