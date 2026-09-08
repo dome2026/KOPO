@@ -34,20 +34,12 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/HYzu7tZd/live.is
 #KODIPROP:inputstream.adaptive.license_key=
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1Fawqblc/live.isml/.mpd
 
-#EXTINF:-1 tvg-logo="" ,perfect crown
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4136876107047b96188b1295b9d9af9d:29d6c50a72ad4c7ccd48bdcb3b12bcc8
-https://hses9-sea.apps.disneyplus.com/videos/hotstarint/1271531261/1271531268/v3/1776338924432/52c00cab79ea700623db005b11805403/master-2a0b7863e2-1776405680123.mpd?hdnea=exp=1788837123~acl=%2fvideos%2fhotstarint%2f1271531261%2f1271531268%2fv3%2f1776338924432%2f52c00cab79ea700623db005b11805403%2a~data=ip%3dJ5g8u0Fi1agTye0y5EoKFL-userid%3dIG3LmlfJgVTcAjainBt2D9vjXI5JM8mmPrwroBcEQRUx-did%3dxClUyyxcb2fsH4keLIdRLgZKLWyP5Jy9cYSQaxUvhiwf-cc%3dth-bl%3djhs-sp%3dHotstarMobile-ctype%3depisode-de%3d2-pl%3dweb-ap%3d26.08.27.0-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=9635f42307c4f778b9cc6246259d79a9f00b5e6ebe9246dc0e58e066251256fe
-
 #EXTINF:-1 tvg-logo="" ,The Devil Wears Prada 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db88c40d495b5934eb788175901af0d2:c07e8fa39c4a47c6be1edcd02bb9fb75
-https://hses9-sea.apps.disneyplus.com/videos/hotstarint/1271506598/v3/1784617727099/52c00cab79ea700623db005b11805403/master-2a0b7863e2-1785037295638.mpd?hdnea=exp=1788837479~acl=%2fvideos%2fhotstarint%2f1271506598%2fv3%2f1784617727099%2f52c00cab79ea700623db005b11805403%2a~data=ip%3dJ5g8u0Fi1agTye0y5EoKFL-userid%3dIG3LmlfJgVTcAjainBt2D9vjXI5JM8mmPrwroBcEQRUx-did%3dxClUyyxcb2fsH4keLIdRLgZKLWyP5Jy9cYSQaxUvhiwf-cc%3dth-bl%3djhs-sp%3dHotstarMobile-ctype%3dmovie-de%3d2-pl%3dweb-ap%3d26.08.27.0-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=ca40a234c7deeee24022ae0365fdd70a0b0682c5cec579d98781e53f9a568e83
-
+https://hses9-sea.apps.disneyplus.com/videos/hotstarint/1271506598/v3/1784617727099/52c00cab79ea700623db005b11805403/master-2a0b7863e2-1785037295638.mpd?hdnea=exp=1788838145~acl=%2fvideos%2fhotstarint%2f1271506598%2fv3%2f1784617727099%2f52c00cab79ea700623db005b11805403%2a~data=ip%3dJ5g8u0Fi1agTye0y5EoKFL-userid%3dIG3LmlfJgVTcAjainBt2D9vjXI5JM8mmPrwroBcEQRUx-did%3dxClUyyxcb2fsH4keLIdRLgZKLWyP5Jy9cYSQaxUvhiwf-cc%3dth-bl%3djhs-sp%3dHotstarMobile-ctype%3dmovie-de%3d2-pl%3dweb-ap%3d26.08.27.0-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=acb1c9c38af873ed40e5860791f615607dc361f12e5ff137383948c043ac0655
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
