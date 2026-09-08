@@ -4,6 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98d0cf8d9fb555b9867ae8e1c848fe29:4c292b18e5264e03bbc99597f02c4303
+#KODIPROP:inputstream.adaptive.license_key=abbded90d09656ce91e3d988dc550376:cf4e8d8ff704d9c9107a90106983535f
 https://cdn176.stm.trueid.net/p204drm/vc01_multi_w_auto_wv_tvn.smil/manifest.mpd?appid=tvn&type=live&visitor=web&drm=wv3&uid=205068834&did=Y2hyb21lLTE3ODg3ODg5OTQ2MzE&sid=02039447f4&rt=1788855048&ds=25200&prd=V3lKT1QxZGZRa0ZUU1VOZlJsSkZSU0pkfDE&tk=BCA264zGFbDfmWeXuGY-QcuBqIq3RYBDMD3lkBlQ0Jg
 
 #EXTINF:-1 tvg-logo="" ,
