@@ -1,58 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vpoKHSbW/poster.jpg?width=1920" ,11:30 - Qatar v Korea | Pool Phase | AVC Men's Continentals 2026
+#EXTINF:-1 tvg-logo="" ,ฟุตซอล 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vpoKHSbW/live.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9KCFcelI/poster.jpg?width=1920" ,17:30 - Japan v Australia | Pool Phase | AVC Men's Continentals 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/9KCFcelI/live.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MPZUFrJo/poster.jpg?width=1920" ,08:00 - Bahrain v Oman | Pool Phase | AVC Men's Continentals 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MPZUFrJo/live.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HYzu7tZd/poster.jpg?width=1920" ,11:30 - Chinese Taipei v Thailand | Pool Phase | AVC Men's Continentals 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/HYzu7tZd/live.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1Fawqblc/poster.jpg?width=1920" ,15:00 - Iran v China | Pool Phase | AVC Men's Continentals 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1Fawqblc/live.isml/.mpd
-
-#EXTINF:-1 tvg-logo="" ,The Devil Wears Prada 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=db88c40d495b5934eb788175901af0d2:c07e8fa39c4a47c6be1edcd02bb9fb75
-https://hses9-sea.apps.disneyplus.com/videos/hotstarint/1271506598/v3/1784617727099/52c00cab79ea700623db005b11805403/master-2a0b7863e2-1785037295638.mpd?hdnea=exp=1788838145~acl=%2fvideos%2fhotstarint%2f1271506598%2fv3%2f1784617727099%2f52c00cab79ea700623db005b11805403%2a~data=ip%3dJ5g8u0Fi1agTye0y5EoKFL-userid%3dIG3LmlfJgVTcAjainBt2D9vjXI5JM8mmPrwroBcEQRUx-did%3dxClUyyxcb2fsH4keLIdRLgZKLWyP5Jy9cYSQaxUvhiwf-cc%3dth-bl%3djhs-sp%3dHotstarMobile-ctype%3dmovie-de%3d2-pl%3dweb-ap%3d26.08.27.0-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=acb1c9c38af873ed40e5860791f615607dc361f12e5ff137383948c043ac0655
-
-#EXTINF:-1 tvg-logo="" ,S1E1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=01013d100fd66ac62635231e67136dcf:d0b9a1a9be6070cd265a210cbf9566b2
-https://cf.asia.prd.media.max.com/05bbb036-46e5-4c30-aa56-887028dc1a88/ada6d3_fallback.mpd?CMCD=cid%3D%22gluon_engine_cid%22%2Cot%3Dm%2Csf%3Dd%2Csid%3D%22gluon_engine_sid%22
-
-#EXTINF:-1 tvg-logo="" ,
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=98d0cf8d9fb555b9867ae8e1c848fe29:4c292b18e5264e03bbc99597f02c4303
+https://cdn176.stm.trueid.net/p204drm/vc01_multi_w_auto_wv_tvn.smil/manifest.mpd?appid=tvn&type=live&visitor=web&drm=wv3&uid=205068834&did=Y2hyb21lLTE3ODg3ODg5OTQ2MzE&sid=02039447f4&rt=1788855048&ds=25200&prd=V3lKT1QxZGZRa0ZUU1VOZlJsSkZSU0pkfDE&tk=BCA264zGFbDfmWeXuGY-QcuBqIq3RYBDMD3lkBlQ0Jg
 
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
