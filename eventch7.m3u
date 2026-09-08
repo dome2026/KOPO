@@ -40,11 +40,13 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1Fawqblc/live.is
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db88c40d495b5934eb788175901af0d2:c07e8fa39c4a47c6be1edcd02bb9fb75
 https://hses9-sea.apps.disneyplus.com/videos/hotstarint/1271506598/v3/1784617727099/52c00cab79ea700623db005b11805403/master-2a0b7863e2-1785037295638.mpd?hdnea=exp=1788838145~acl=%2fvideos%2fhotstarint%2f1271506598%2fv3%2f1784617727099%2f52c00cab79ea700623db005b11805403%2a~data=ip%3dJ5g8u0Fi1agTye0y5EoKFL-userid%3dIG3LmlfJgVTcAjainBt2D9vjXI5JM8mmPrwroBcEQRUx-did%3dxClUyyxcb2fsH4keLIdRLgZKLWyP5Jy9cYSQaxUvhiwf-cc%3dth-bl%3djhs-sp%3dHotstarMobile-ctype%3dmovie-de%3d2-pl%3dweb-ap%3d26.08.27.0-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=acb1c9c38af873ed40e5860791f615607dc361f12e5ff137383948c043ac0655
-#EXTINF:-1 tvg-logo="" ,
+
+#EXTINF:-1 tvg-logo="" ,S1E1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0100ad07fe7b8734fd59ad1ed19daad5:075235fd11e32f39ae33afbcb9873c2f
+https://cf.asia.prd.media.max.com/05bbb036-46e5-4c30-aa56-887028dc1a88/ada6d3_fallback.mpd?CMCD=cid%3D%22gluon_engine_cid%22%2Cot%3Dm%2Csf%3Dd%2Csid%3D%22gluon_engine_sid%22
 
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
