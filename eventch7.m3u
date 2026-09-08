@@ -4,7 +4,9 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfe9f02e09975750949bf61c78dc2aef:188e542fd5be67c37144f4c7927e97a4
+#EXTVLCOPT:http-referrer=https://now.truevisions.co.th/
 https://cn2-cdn254.stm.trueid.net/svod/th_gn/wv/ASS202510302113/index.mpd?appid=tvn&type=svod&visitor=web&drm=wv3&uid=205068834&did=Y2hyb21lLTE3ODg3ODg5OTQ2MzE&sid=9db4875a25&rt=1788855945&maxrate=20000000&mxr=20000000&ds=86400&duration=86400&tk=tWsMsC0cWVg51WHNkdaN13-eEwVYrItnbTZNRSJ5XeE
+
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
