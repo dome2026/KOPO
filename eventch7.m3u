@@ -1,11 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" ,ฟุตซอล 1
+#EXTINF:-1 tvg-logo="" ,เนื้อคู่ E1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=98d0cf8d9fb555b9867ae8e1c848fe29:4c292b18e5264e03bbc99597f02c4303
-https://cdn083.stm.trueid.net/p204drm/vc01_multi_w_auto_wv_tvn.smil/manifest_w1260549941_qYXBwaWQ9dHZuJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0yMDUwNjg4MzQmZGlkPVkyaHliMjFsTFRFM09EZzNPRGc1T1RRMk16RSZzaWQ9ZWE1MDg1OTAzYyZydD0xNzg4ODU1NTk2JmRzPTI1MjAwJnByZD1WM2xLVDFReFpHWlJhMFpVVTFWT1psSnNTa1pTVTBwa2ZERSZ0az1YbFQzRWd3amhBUFFmRE1xZFhiYjJFZHl3TURnNDAyV251UnFYVmNLN3ZR.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=cfe9f02e09975750949bf61c78dc2aef:188e542fd5be67c37144f4c7927e97a4
+https://cn2-cdn254.stm.trueid.net/svod/th_gn/wv/ASS202510302113/index.mpd?appid=tvn&type=svod&visitor=web&drm=wv3&uid=205068834&did=Y2hyb21lLTE3ODg3ODg5OTQ2MzE&sid=9db4875a25&rt=1788855945&maxrate=20000000&mxr=20000000&ds=86400&duration=86400&tk=tWsMsC0cWVg51WHNkdaN13-eEwVYrItnbTZNRSJ5XeE
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
