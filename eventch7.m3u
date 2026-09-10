@@ -14,7 +14,7 @@ https://manifest.streaks.jp/v6/haruko-sportsbull/9af63ad3958546d9b84b0cfd93b0622
 #EXTVLCOPT:http-referrer=
 https://manifest.streaks.jp/v6/haruko-sportsbull/ed0fbdfcb80a44ec896e53c3bd5e28db/e16885d011c5440a99723e029943dda2/dash/main/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcCI6IjA4NDdmODg5ZWEyODQyZmQ4YTZjMGY1MzMzN2JmM2Y5IiwiZGMiOiJlOTFmNmUyNDcwNmU0MWI1OTQ1NzRhODViODE3NjgzZCIsImVkZ2UiOiJjY2Y1ZjUzM2EyMDU0ODY2YTU0MDNlNDA2NDUxNjYzMCIsImNvZGVjcyI6ImF1dG8iLCJleHAiOjE3ODkxOTI4MDAsInZwOSI6MSwicHB3IjoiNGUyIn0.f2-eAqhPBodwmMAOvXUR7idGHOv59moY80P9tbBrCw4
 
-#EXTINF:-1 tvg-logo="" ,Kinrankai vs Narin มกราคม 11th, 2026
+#EXTINF:-1 tvg-logo="" ,Kinrankai vs Narin มกราคม 11th 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -28,7 +28,7 @@ https://manifest.streaks.jp/v6/haruko-sportsbull/d9b2381d1d2c4283ad88e7fc3d7d23b
 #KODIPROP:inputstream.adaptive.license_key=a8ae81c63dae3403825f3fd944a61ac1:2adeaaffb2f846df42212402d243e0f6
 https://manifest.streaks.jp/v6/haruko-sportsbull/7c2e7ce65d3f478398f0712148a2cd31/7112c229da6d4890b3ac8ff626e57e50/dash/main/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcCI6IjA4NDdmODg5ZWEyODQyZmQ4YTZjMGY1MzMzN2JmM2Y5IiwiZGMiOiJlOTFmNmUyNDcwNmU0MWI1OTQ1NzRhODViODE3NjgzZCIsImVkZ2UiOiJjY2Y1ZjUzM2EyMDU0ODY2YTU0MDNlNDA2NDUxNjYzMCIsImNvZGVjcyI6ImF1dG8iLCJleHAiOjE3ODkyMDcyMDAsInZwOSI6MSwicHB3IjoiNGUyIn0.Ndw_Y9cKgobMSkNHBCLmRtpUOU3G42kmAC4nm-5FVmg
 
-#EXTINF:-1 tvg-logo="" ,รอบรองชนะเลิศชาย Omonogawa vs Higashiyama มกราคม 10, 2026
+#EXTINF:-1 tvg-logo="" ,รอบรองชนะเลิศชาย Omonogawa vs Higashiyama มกราคม 10 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -53,7 +53,9 @@ https://manifest.streaks.jp/v6/haruko-sportsbull/40105c250c4f4d44a105c156f760b07
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0d0ad67c06cc3172a93d453ecb838b06:49d25922357db2d80e896f95e70156bc
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/AG001/DDF/AG001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11
 
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
