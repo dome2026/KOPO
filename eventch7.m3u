@@ -15,11 +15,12 @@ https://manifest.streaks.jp/v6/haruko-sportsbull/ed0fbdfcb80a44ec896e53c3bd5e28d
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
 https://mp3.ovp.ais.th:7111/live/eds/AG001/DDF/AG001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,รอบชิงชนะเลิศ ฮิกาชิยามะ พบ เซฟู 11 มกราคม 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0d0ad67c06cc3172a93d453ecb838b06:49d25922357db2d80e896f95e70156bc
+https://manifest.streaks.jp/v6/haruko-sportsbull/9af63ad3958546d9b84b0cfd93b06225/7333fe2d16e14ecd90711a6acb0de80c/dash/main/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcCI6IjA4NDdmODg5ZWEyODQyZmQ4YTZjMGY1MzMzN2JmM2Y5IiwiZGMiOiJlOTFmNmUyNDcwNmU0MWI1OTQ1NzRhODViODE3NjgzZCIsImVkZ2UiOiJjY2Y1ZjUzM2EyMDU0ODY2YTU0MDNlNDA2NDUxNjYzMCIsImNvZGVjcyI6ImF1dG8iLCJleHAiOjE3ODkxOTI4MDAsInZwOSI6MSwicHB3IjoiNGUyIn0.f2-eAqhPBodwmMAOvXUR7idGHOv59moY80P9tbBrCw4
 
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
