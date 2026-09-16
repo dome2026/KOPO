@@ -87,208 +87,250 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
 https://otte.cache.aiv-cdn.net/iad-nitro/live/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Rete4" group-title="Italia",Rete4
+#EXTINF:-1 tvg-id="" tvg-name="Rete4 (VPN IT)" group-title="Italia",Rete4 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf382806cf76499ab47216a572c2ff0f:4fbed7c21b2a2e44f1e537a83195a155
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(rete4)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Canale 5" group-title="Italia",Canale 5
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5 (VPN IT)" group-title="Italia",Canale 5 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e19ef61b14c54485ae2c6ac4f12ea10c:2bc5e476d296401ee66bd8a647267c44
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(canale5)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Italia 1" group-title="Italia",Italia 1
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1 (VPN IT)" group-title="Italia",Italia 1 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e363d47eb5464863ab2618611a5222a4:a827b96d371c1c9dceb08f3d1e692a2c
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(italia1)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Italia 2" group-title="Italia",Italia 2
+#EXTINF:-1 tvg-id="" tvg-name="Italia 2 (VPN IT)" group-title="Italia",Italia 2 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c1638dd4a7c48f788f5a5291a2f875e:a24447ddf74ea600c1ae301bac794f41
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(italia2)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="LA7" group-title="Italia",LA7
+#EXTINF:-1 tvg-id="" tvg-name="LA7 (VPN IT)" group-title="Italia",LA7 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98d29e2e749c43e8bd343b025f6f0bfd:dc40f0c0208df9830b068169ce426e47
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(la7)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Nove HD" group-title="Italia",Nove HD
+#EXTINF:-1 tvg-id="" tvg-name="Nove HD (VPN IT)" group-title="Italia",Nove HD (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0031f2d547834954984a3129ce089065:f7242c56586eae265cfc96e1efc1c3c6
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(novehd)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Venti" group-title="Italia",Venti
+#EXTINF:-1 tvg-id="" tvg-name="Venti (VPN IT)" group-title="Italia",Venti (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=205d2bdbc121423db2592e8a8e9b9e7e:c7991893abae250844ab64b4e00ba843
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(venti)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Iris" group-title="Italia",Iris
+#EXTINF:-1 tvg-id="" tvg-name="Iris (VPN IT)" group-title="Italia",Iris (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=38cf3f1b366a410d8f56568fc83afaef:bfea0a86006e147bfdcce18db43e73df
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(iris)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Twenty Seven" group-title="Italia",Twenty Seven
+#EXTINF:-1 tvg-id="" tvg-name="Twenty Seven (VPN IT)" group-title="Italia",Twenty Seven (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9d509d5728a427f8e2e3ed088be3c83:494c58c50cecda98351b0219416ce314
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(twentyseven)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="LA7D HD" group-title="Italia",LA7D HD
+#EXTINF:-1 tvg-id="" tvg-name="LA7D HD (VPN IT)" group-title="Italia",LA7D HD (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=225b1008bc354eda8df4ac60470e70c7:54f6a3ba748cf8a470d1effafe620cfe
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(la7dhd)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="LA5" group-title="Italia",LA5
+#EXTINF:-1 tvg-id="" tvg-name="LA5 (VPN IT)" group-title="Italia",LA5 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=29370a628aab4843a5525b4339a35150:777f6537ab2939416ef0564d91167d5e
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(la5)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Real Time HD" group-title="Italia",Real Time HD
+#EXTINF:-1 tvg-id="" tvg-name="Real Time HD (VPN IT)" group-title="Italia",Real Time HD (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=caf42465d9234a38ac88266f41ec7166:fbe063fb052090f029e43beb872e3025
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(realtimehd)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" group-title="Italia",Food Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD (VPN IT)" group-title="Italia",Food Network HD (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be51c5f92caf46beb3bb08e87adc9ef7:d2906cbd3693cd47300b5b7620075a80
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(foodnetworkhd)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine 34" group-title="Italia",Cine 34
+#EXTINF:-1 tvg-id="" tvg-name="Cine 34 (VPN IT)" group-title="Italia",Cine 34 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ded88a7a7c464b3c9b210bbbe930929e:565fd180623be9c6d8ded92a88b11718
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(cine34)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Focus" group-title="Italia",Focus
+#EXTINF:-1 tvg-id="" tvg-name="Focus (VPN IT)" group-title="Italia",Focus (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1afea4be7044f15833aa10eb7723dd8:04166dadf70338fe0d81416c9af5bab3
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(focus)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV" group-title="Italia",Warner TV
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV (VPN IT)" group-title="Italia",Warner TV (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9472e480a6e0451e82038792f4b5e065:d731ffd8e16fbd1ed58f78334c9a9582
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(warnertv)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Giallo" group-title="Italia",Giallo
+#EXTINF:-1 tvg-id="" tvg-name="Giallo (VPN IT)" group-title="Italia",Giallo (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=97cbb06a1ff34f2d918af98a31ad8d91:38914e9b063e6d8ec17975c528854e2f
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(giallo)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Top Crime" group-title="Italia",Top Crime
+#EXTINF:-1 tvg-id="" tvg-name="Top Crime (VPN IT)" group-title="Italia",Top Crime (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9085084c21146d6a4fc902b3547a59c:f6a2ac0840d10e08e17d5d2331b4ef48
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(topcrime)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="K2" group-title="Italia",K2
+#EXTINF:-1 tvg-id="" tvg-name="K2 (VPN IT)" group-title="Italia",K2 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a03e33a2fca847af9f3dba42be1fddd0:8f39a9339f889751703b8c99c9f69bb2
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(k2)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Frisbee" group-title="Italia",Frisbee
+#EXTINF:-1 tvg-id="" tvg-name="Frisbee (VPN IT)" group-title="Italia",Frisbee (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5ce25d00a88442eb00991749d3191fc:aa1f60638ab3bb4fde86188666f350c0
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(frisbee)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TG Com 24" group-title="Italia",TG Com 24
+#EXTINF:-1 tvg-id="" tvg-name="TG Com 24 (VPN IT)" group-title="Italia",TG Com 24 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffb0bec10ecf40a6aa133716f9adbf5f:2b7b29ab68a729f256b2c9239999c463
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(tgcom24)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Dmax HD" group-title="Italia",Dmax HD
+#EXTINF:-1 tvg-id="" tvg-name="Dmax HD (VPN IT)" group-title="Italia",Dmax HD (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ed566ba4ab844ff82e286578c524f1d:5282adabb806830cd7360d5b87ec118a
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(dmaxhd)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="MD Sextra" group-title="Italia",MD Sextra
+#EXTINF:-1 tvg-id="" tvg-name="MD Sextra (VPN IT)" group-title="Italia",MD Sextra (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01223373cbc14cef8b63110efb319a42:fd8b47fd6fc322ac2992304b48a14ee5
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(mdsextra)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" group-title="Italia",HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD (VPN IT)" group-title="Italia",HGTV HD (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e188d1cf542b4d1fa22546b07d86df60:07b6823e46630ad0e83f964db8d1ea79
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(hgtvhd)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Motor Trend HD" group-title="Italia",Motor Trend HD
+#EXTINF:-1 tvg-id="" tvg-name="Motor Trend HD (VPN IT)" group-title="Italia",Motor Trend HD (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f533e2ee35459e9be2d0ef1e2b61ab:749bd263e98796fbaf739088862de387
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(motortrendhd)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN International" group-title="News",CNN International
+#EXTINF:-1 tvg-id="" tvg-name="CNN International (VPN IT)" group-title="News",CNN International (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeafc2094eae4e039da025be558a3970:7ed1c9d75b9cb199b36b6b79e18619f0
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(cnni)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" group-title="Sport",Eurosport 1
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 (VPN IT)" group-title="Sport",Eurosport 1 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=610bcda111c74c97b0792b059630a10b:b9817853538459b371f3fb56a267d55c
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" group-title="Sport",Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 (VPN IT)" group-title="Sport",Eurosport 2 (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=700b3619ccfb4c0cbd2bb26832e643cf:b2c7c4b6f3375b8e07c42f95668dadeb
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Euro News" group-title="News",Euro News
+#EXTINF:-1 tvg-id="" tvg-name="Euro News (VPN IT)" group-title="News",Euro News (VPN IT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0fda2cb90f024361bdac55c06f913018:0822e24a65852c97540b9c0b244ea2d2,6fe3e1eff53d4f68845a6ac392777ca3:0dced867dcb793ecf149ea76fb79beeb
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(euronews)/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 1 (VPN SG)" group-title="StarHub TV+",Hub Premier 1 (VPN SG)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://mh-bks400-04.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier1)/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 12 (VPN SG)" group-title="StarHub TV+",Hub Premier 12 (VPN SG)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+https://sh-bks400-10.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier12)/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 3 (VPN SG)" group-title="StarHub TV+",Hub Premier 3 (VPN SG)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+https://mh-bks400-07.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier3)/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 4 (VPN SG)" group-title="StarHub TV+",Hub Premier 4 (VPN SG)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
+https://mh-bks400-04.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier4)/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 5 (VPN SG)" group-title="StarHub TV+",Hub Premier 5 (VPN SG)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
+https://sh-bks400-09.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier5)/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 6 (VPN SG)" group-title="StarHub TV+",Hub Premier 6 (VPN SG)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
+https://sh-bks400-11.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier6)/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" ,
 #EXTVLCOPT:http-referer=
