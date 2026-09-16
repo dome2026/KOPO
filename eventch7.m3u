@@ -501,90 +501,42 @@ https://bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/klk6pzwt4u/out/v1
 #KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,Sportsnet
-#EXTVLCOPT:http-referer=
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e3977c581333101a527776030e5d379:f726e9c49a640e932ec6a92685153772
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" ,Sportnet
-#EXTVLCOPT:http-referer=
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=afe8540f6d4d34529b91a2d30f4f1b77:3ce2343100c5a5c4365bc3e4c33bb473
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-02-prd-r-v2/dash-ch-02-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" ,Sportnet
-#EXTVLCOPT:http-referer=
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b0e105850f83460857d2b93a0311054:035ad3a787a568f6f0993f8683156704
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" ,Sportnet
-#EXTVLCOPT:http-referer=
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2a52d3064c138ce9f5f65a9b40376ef:8331044e3361ad7e09d3a9474edb88d2
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-04-prd-r-v2/dash-ch-04-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" ,Sportnet
-#EXTVLCOPT:http-referer=
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba16fb93934531bf931ae186d73fb2b7:f88ffdfbdd9ab75e8af374c588df6b0b
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-logo="" ,Sportnet
-#EXTVLCOPT:http-referer=
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d770eb2ba9b734d1981671030e1abacd:a472809951c88a96b16d1ff1d449257b
-https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet East" group-title="Sportsnet",Sportsnet East
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet East" group-title="Sportsnet",Sportsnet East (VPN CAN)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b880980108c83068bb8f941995667135:d8a4d58fc53eca1af235fe2b73372115
 https://live-d-01-rogers-cc-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet One (VPN CA)" group-title="Sportsnet",Sportsnet One
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet One (VPN CA)" group-title="Sportsnet",Sportsnet One (VPN CAN)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f935ebc1b9e3481a84ab5e1a80a131a:14395d078816fa2d1e3411fa2e1a43f6
 https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Ontario" group-title="Sportsnet",Sportsnet Ontario
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Ontario" group-title="Sportsnet",Sportsnet Ontario (VPN CAN)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=02b8a7981733388282d046c27a8e3982:8a320cd704309a88c978dc4ece5af5f9
 https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-02-prd-r-v2/dash-ch-02-prd-r-hd/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Pacific (VPN CA)" group-title="Sportsnet",Sportsnet Pacific
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Pacific (VPN CA)" group-title="Sportsnet",Sportsnet Pacific (VPN CAN)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=06647c76022236c8b286b65b4ed7bcb4:a5b623ff1d3ee7d0e1b53740be23c0fb
 https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-04-prd-r-v2/dash-ch-04-prd-r-hd/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet West (VPN CA)" group-title="Sportsnet",Sportsnet West
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet West (VPN CA)" group-title="Sportsnet",Sportsnet West (VPN CAN)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=929c51ffc6483fbeb8684d14ef6ee1ee:8a47ec551510b3dfd1c5f56caab5f822
 https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="" tvg-name="Sportsnet World" group-title="Sportsnet",Sportsnet World
+#EXTINF:-1 tvg-logo="" tvg-name="Sportsnet World" group-title="Sportsnet",Sportsnet World (VPN CAN)
 #EXTVLCOPT:http-referer=
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
