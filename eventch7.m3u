@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" ,
 #EXTVLCOPT:http-referer=https://chzzk.naver.com/video/15192480
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
 https://resources-rmcnmv.pstatic.net/glive/c/read/v2/VOD_ALPHA/glive/AF84418131875F20208094475ECFB0C48D41/hls-aes/1789379924594/47c5a7fd-b01a-11f1-a4ea-a0369ffdb148/media.m3u8
 
 #EXTINF:-1 tvg-logo="" ,
