@@ -346,17 +346,13 @@ https://otte.live.fly.ww.aiv-cdn.net/v1/67371e988d6649afbde43ba1e9747550/cenc.mp
 #KODIPROP:inputstream.adaptive.license_key=ddb94463c46af6037432fc026339c09d:3290efe4c5cf67165e846a0742c22cd9
 https://otte.live.fly.ww.aiv-cdn.net/v1/4a69574b0c0e4db394a55968f3d5b445/cenc.mpd
 
-#EXTINF:-1 tvg-id="SkySportF1.de" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="🥏 𝗦𝗞𝗬 𝗦𝗣𝗢𝗥𝗧",Sky Sport F1 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"iqWO5jFjWuClJOx1RBfkCw","k":"yALjB3o-4MRLhureVUGkaA"},{"kty":"oct","kid":"rbMlQvvtXbGIuw2pnF5_jw","k":"ABj2Pq8e6b7cD7FN9RQS2w"},{"kty":"oct","kid":"znEP4vSsWVCtu9mFT-OTMg","k":"WPQEv3ARHVQut_985LxAbQ"}],"type":"temporary"}
-https://at-live-4.tentcdn.eu/bpk-tv/Sky_Sport_F1_HD/default/index.mpd
-
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Sky Sports LaLiga 24
 #EXTVLCOPT:http-referer=
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=88571639c642228c29b4247c9f7a12e4:d21b30dd319f875ab7f880a9c6a9688d
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTS24HD/default.mpd
 
 #EXTINF:-1 tvg-logo="" ,
 #EXTVLCOPT:http-referer=
