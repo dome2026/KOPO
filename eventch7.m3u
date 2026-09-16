@@ -395,6 +395,13 @@ https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stre
 #KODIPROP:inputstream.adaptive.license_key=
 https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_042/iptv_uhd_v1.mpd
 
+#EXTINF:-1 tvg-id="NBC.Sports.us" tvg-logo="https://static.wikia.nocookie.net/l...ow_logo.svg/revision/latest?cb=20250814101947" group-title="" , NBC SPORTS NOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00459011b26524a673b0ced54cef0a8b:b31ded0e8a4cad5a36b6be06dae76f28
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(nbcsportspeacock)/master.mpd
+
 #EXTINF:-1 tvg-logo="" ,
 #EXTVLCOPT:http-referer=
 #KODIPROP:inputstream=inputstream.adaptive
