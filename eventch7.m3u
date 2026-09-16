@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" ,
-#EXTVLCOPT:http-referer=https://chzzk.naver.com/video/15192480
-https://resources-rmcnmv.pstatic.net/glive/c/read/v2/VOD_ALPHA/glive/AF84418131875F20208094475ECFB0C48D41/hls-aes/1789379924594/47c5a7fd-b01a-11f1-a4ea-a0369ffdb148/media.m3u8
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-KEY:METHOD=AES-128,URI="https://api.chzzk.naver.com/service/v1/encryption/videos/ADECD8447EB132D0C0DDCB39E45E1D741A8B/aes_key"
+#EXT-X-STREAM-INF:BANDWIDTH=170000,RESOLUTION=256x144,FRAME-RATE=30,CODECS="avc1.4dc00c,mp4a.40.2"
+https://resources-rmcnmv.pstatic.net/glive/c/read/v2/VOD_ALPHA/glive/ADECD8447EB132D0C0DDCB39E45E1D741A8B/hls-aes/1789532230542/d1b0fe66-b17a-11f1-abc0-a0369ffbe000/media.m3u8
 
 #EXTINF:-1 tvg-logo="" ,
 #EXTVLCOPT:http-referer=
