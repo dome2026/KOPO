@@ -295,42 +295,42 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(euronews)/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://mh-bks400-04.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier1)/output/manifest.mpd
+https://mh-bks400-04.starhubgo.com/bpk-token/2ac@b00kshvyllj4ehcbp5pcovvepsqwws2jb0mtsxba/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 12 (VPN SG)" group-title="StarHub TV+",Hub Premier 12 (VPN SG)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://sh-bks400-10.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier12)/output/manifest.mpd
+https://sh-bks400-10.starhubgo.com/bpk-token/2ab@iyqtm2ofdosrlzrxcasrkbhzyncg2edxiklvdkba/bpk-tv/HubPremier12/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 3 (VPN SG)" group-title="StarHub TV+",Hub Premier 3 (VPN SG)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-https://mh-bks400-07.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier3)/output/manifest.mpd
+https://mh-bks400-07.starhubgo.com/bpk-token/2ac@jmqx5cbwb44luxwukjnscap5fkcd23xijcbk2xaa/bpk-tv/HubPremier3/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 4 (VPN SG)" group-title="StarHub TV+",Hub Premier 4 (VPN SG)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
-https://mh-bks400-04.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier4)/output/manifest.mpd
+https://mh-bks400-04.starhubgo.com/bpk-token/2ac@ihk3ergrivte0z1zauuruu0jc30rkhjuih2eebca/bpk-tv/HubPremier4/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 5 (VPN SG)" group-title="StarHub TV+",Hub Premier 5 (VPN SG)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
-https://sh-bks400-09.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier5)/output/manifest.mpd
+https://sh-bks400-09.starhubgo.com/bpk-token/2ab@ngwj35k5ygv51lzy1yt1wmt05ntrnk5xno0psjba/bpk-tv/HubPremier5/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 6 (VPN SG)" group-title="StarHub TV+",Hub Premier 6 (VPN SG)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
-https://sh-bks400-11.starhubgo.com/Content/DASH/Live/channel(hub-tv/HubPremier6)/output/manifest.mpd
+https://sh-bks400-11.starhubgo.com/bpk-token/2ab@jfifo5y3avy3tdhanrtsqqk24zkbkr1hjro23jda/bpk-tv/HubPremier6/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 tvg-logo="" ,
 #EXTVLCOPT:http-referer=
