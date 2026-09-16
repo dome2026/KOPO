@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" ,
-#EXTVLCOPT:http-referer=https://chzzk.naver.com/live/8d84c2b9e20f9034388845d9c109c787
+#EXTVLCOPT:http-referer=https://chzzk.naver.com/video/15192480
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cnmssgpu0010/yh6wqpd5q41be8qop1vylrnia5aegti969qt/gjhghjretyerwerxdff2g/hdntl=exp=1789593712~acl=*%2Fyh6wqpd5q41be8qop1vylrnia5aegti969qt%2F*~data=hdntl~hmac=6cd1ae47d94c1d62bd9fbd57250f240c601ed7432dcb9bee0a8e1abe19d9907b/pfmid5skepnr3wcvz9iyk7g5aegti967bq_chunklist.m3u8?vp=dMrdicYpHICgDdz8pKI0lHXTfkv4W75qjSdgDc9TUpnYZw
+https://resources-rmcnmv.pstatic.net/glive/c/read/v2/VOD_ALPHA/glive/AF84418131875F20208094475ECFB0C48D41/hls-aes/1789379924594/47c5a7fd-b01a-11f1-a4ea-a0369ffdb148/media.m3u8
 
 #EXTINF:-1 tvg-logo="" ,
 #EXTVLCOPT:http-referer=
