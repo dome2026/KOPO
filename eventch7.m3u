@@ -79,20 +79,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sport 1 UK" group-title="Sports",Premier Sport 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5e3fec67a1bb3472a2089c8a0a2557f:1444f4235529f183f0a5a486befe9cdb
-https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2 UK" group-title="Sports",Premier Sports 2 UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=77f62980d582ec541280796acf8b2d19:1a5df53609ebc9857898c490f4724918
-http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
 #EXTINF:-1 group-title="Amazon",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -122,93 +108,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
-
-#EXTINF:-1,ABC MIAMI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.clarovideo.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ecd1b89ad63d3e0e4aae8cfcf074a4a:6663bb9447a0ee0c854e403d5c0c069a
-https://nilivechannelsdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ABCMIAMI)/master.mpd
-
-#EXTINF:-1,CBS MIAMI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.clarovideo.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=71a33612d142d8b941356099fee16e0d:71ce25d8ebaa757a22d98a5ccea1c505
-https://nilivechannelsdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CBSMIAMI)/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CBS SPORTS USA", CBS Sports UCL
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e219f941bc6d683b97257ed706813702:d24fefb64dec7748489ba4e405a2349e
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vgokgrmo8o/out/v1/a1a95c0845e64cb58d353437c56b31e8/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="AS Premium 1 (VPN BA)" group-title="AS Premium",AS Premium 1 (VPN BA)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://mob.webtvstream.bhtelecom.ba/hls6/as_premium1.mpd?n=e900fd91da42e3f77cd492cd65ff42fd
-
-#EXTINF:-1 tvg-id="" tvg-name="AS Premium 2 (VPN BA)" group-title="AS Premium",AS Premium 2 (VPN BA)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://mob.webtvstream.bhtelecom.ba/hls6/as_premium2.mpd?n=e900fd91da42e3f77cd492cd65ff42fd
-
-#EXTINF:-1 tvg-id="" tvg-name="AS Premium 3 (VPN BA)" group-title="AS Premium",AS Premium 3 (VPN BA)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://mob.webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=e900fd91da42e3f77cd492cd65ff42fd
-
-#EXTINF:-1 tvg-id="" tvg-name="AS Premium 4 (VPN BA)" group-title="AS Premium",AS Premium 4 (VPN BA)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://mob.webtvstream.bhtelecom.ba/hls15/as_premium4.mpd?n=e900fd91da42e3f77cd492cd65ff42fd
-
-#EXTINF:-1 tvg-id="" tvg-name="AS Premium 5 (VPN BA)" group-title="AS Premium",AS Premium 5 (VPN BA)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://mob.webtvstream.bhtelecom.ba/hls15/as_premium5.mpd?n=e900fd91da42e3f77cd492cd65ff42fd
-
-#EXTINF:-1 tvg-id="NBC Sports Bay Area.us" tvg-logo="https://iptvboss.xyz/logos/USA/NBCSportsBayArea.us.png" group-title="" , NBC SPORTS Bay Area
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20b593e9bee43324a8b1d830eaa82d78:a87dba51bd2dd7f7879730ac2bd4005b
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(csnbay)/master.mpd
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(csnbay)/master.mpd
-
-#EXTINF:-1 tvg-id="NBC Sports Boston HD.us" tvg-logo="https://iptvboss.xyz/logos/USA/NBCSportsBoston.us.png" group-title="" , NBC SPORTS Boston
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f73521c174532e59711ccb4462ac770:f06c7f95319c0386b4fc5fa3d58ab504
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(csnnew)/master.mpd
-
-#EXTINF:-1 tvg-id="NBC Sports Philadelphia.us" tvg-logo="https://iptvboss.xyz/logos/USA/NBCSportsPhiladelphia.us.png" group-title="" , NBC SPORTS Philadelphia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e07a6dfad8333a388f2a931a743621b9:638ff7ec62eeee611927f1d6d5baa146
-https://live-oneapp-prd-news.akamai...OL2-CTR-4s/Live/channel(csnphilly)/master.mpd
-
-#EXTINF:-1 tvg-id="NBC Sports California HD.us" tvg-logo="https://iptvboss.xyz/logos/USA/NBCSportsCalifornia.us.png" group-title="" , NBC SPORTS California
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bccd9296f8b1329895b22ca15e26f748:127a8c6653a0631fea0e61160cd76938
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(csncal)/master.mpd
-
-#EXTINF:-1 tvg-id="NBC.Sports.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/NBC_Sports_Now_logo.svg/revision/latest?cb=20250814101947" group-title="" , NBC SPORTS NOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00459011b26524a673b0ced54cef0a8b:b31ded0e8a4cad5a36b6be06dae76f28
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(nbcsportspeacock)/master.mpd
 
 #EXTINF:-1 tvg-logo="" ,NBC
 #EXTVLCOPT:http-referer=
@@ -421,70 +320,6 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mp
 #KODIPROP:inputstream.adaptive.license_key=0fda2cb90f024361bdac55c06f913018:0822e24a65852c97540b9c0b244ea2d2,6fe3e1eff53d4f68845a6ac392777ca3:0dced867dcb793ecf149ea76fb79beeb
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(euronews)/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO (VPN US)" group-title="HBO",HBO (VPN US)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=22c42d7a1679f50ca4ad37b4c1ad97fe:6ab1caa245e2d8cc4e26e0e1b63fe661
-https://otte.live.fly.ww.aiv-cdn.net/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 (VPN US)" group-title="HBO",HBO 2 (VPN US)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04aac082576d853b80734f5d8d4ebbbc:1c73219e929389385aba7d52fc5fecdf
-https://otte.live.fly.ww.aiv-cdn.net/v1/526198daa2954295908c9e5e22523bc2/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy (VPN US)" group-title="HBO",HBO Comedy (VPN US)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fecaa3486d9deef3f7f0e1a95b662cb7:217624a3983b3593ca7d1f3b01042d4f
-https://otte.live.fly.ww.aiv-cdn.net/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Latino (VPN US)" group-title="HBO",HBO Latino (VPN US)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcad08b714e246f92cb9748f9e2e7e1e:440df5a5f7730c64f005eec9b12a9b52
-https://otte.live.fly.ww.aiv-cdn.net/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature (VPN US)" group-title="HBO",HBO Signature (VPN US)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c49eb8a723248f87fb8c3722874557e:2742f4791f17231bdb933844dabfb5bc
-https://otte.live.fly.ww.aiv-cdn.net/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO West (VPN US)" group-title="HBO",HBO West (VPN US)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e805607852c0606ecc553bd234d78b2:266fed45577cd293af39165e8073bc19
-https://otte.live.fly.ww.aiv-cdn.net/v1/68a59a4217cb4d48baccd9cd2a4a7579/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Zone (VPN US)" group-title="HBO",HBO Zone (VPN US)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=edcb65d1269bd76f166d6bc56114211f:0b380bec87af5c16ee145bbf8cd7d65e
-https://otte.live.fly.ww.aiv-cdn.net/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="AMC (VPN US)" group-title="AMC",AMC (VPN US)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddb94463c46af6037432fc026339c09d:3290efe4c5cf67165e846a0742c22cd9
-https://otte.live.fly.ww.aiv-cdn.net/v1/4a69574b0c0e4db394a55968f3d5b445/cenc.mpd
-
-#EXTINF:-1 tvg-logo="" ,Sky Sports LaLiga 24
-#EXTVLCOPT:http-referer=
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=88571639c642228c29b4247c9f7a12e4:d21b30dd319f875ab7f880a9c6a9688d
-https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTS24HD/default.mpd
-
 #EXTINF:-1 tvg-logo="" ,Amazon Prime
 #EXTVLCOPT:http-referer=
 #KODIPROP:inputstream=inputstream.adaptive
@@ -544,27 +379,21 @@ https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-c
 #KODIPROP:inputstream.adaptive.license_key=49c78a09d010392e9e49d6613b8104ab:78c0ffa1751e70fb34489892d7c25083
 https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="" ,Premier League Peacock
-#EXTVLCOPT:http-referer=
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045afccbe17b08dc663dafecd72675c:739f48fc959e9944981a043e86f76913
-https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc1021n07j)/master.mpd
-
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p0ddwmk9.jpg" ,BBC Sports Event UHD 1
 #EXTVLCOPT:http-referer=
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p0ddwmk9.jpg" ,BBC Sports Event UHD 2
 #EXTVLCOPT:http-referer=
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+https://ve-uhd-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_042/iptv_uhd_v1.mpd
 
 #EXTINF:-1 tvg-logo="" ,
 #EXTVLCOPT:http-referer=
