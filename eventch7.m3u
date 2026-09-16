@@ -544,12 +544,13 @@ https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-c
 #KODIPROP:inputstream.adaptive.license_key=49c78a09d010392e9e49d6613b8104ab:78c0ffa1751e70fb34489892d7c25083
 https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Premier League Peacock
 #EXTVLCOPT:http-referer=
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0045afccbe17b08dc663dafecd72675c:739f48fc959e9944981a043e86f76913
+https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:-1 tvg-logo="" ,
 #EXTVLCOPT:http-referer=
