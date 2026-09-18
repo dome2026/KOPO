@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXT-INF:-1 tvg-id="V0008" tvg-name="V0008" group-title="AIS Play",AIS Play - Channel V0008
+#KODIPROP:inputstream.adaptive.license_type=org.w337.widevinekeys
+#KODIPROP:inputstream.adaptive.license_key=0d0ad67c06cc3172a93d453ecb838b06:49d25922357db2d80e896f95e70156bc
+https://mp3.ovp.ais.th:7111/live/eds/V0008/DNF/V0008.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11
+
 #EXTINF:-1 group-title="🏆|Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg", Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
