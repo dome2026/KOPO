@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Sky-Sports-1-NZ" tvg-name="Sky Sports 1 NZ" group-title="Sports",Sky Sports 1 NZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://epiembeds.online/
-#EXTVLCOPT:http-origin=https://epiembeds.online
-https://epidd.hundxvision.co.uk/main/secure/db221338f6cdfea183f4937fa61250afce808e37efc0f845677eca63f32a80d4/1789894361/skysport1-nz.m3u8
 #EXTINF:-1 tvg-id="SkySports1NZ" tvg-name="Sky Sports 1 NZ" group-title="Sports NZ",Sky Sports 1 NZ
 https://epidd.hundxvision.co.uk/main/secure/db221338f6cdfea183f4937fa61250afce808e37efc0f845677eca63f32a80d4/1789894361/skysport1-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
 
