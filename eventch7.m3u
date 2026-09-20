@@ -5,6 +5,35 @@
 #EXTVLCOPT:http-referrer=https://epiembeds.online/
 #EXTVLCOPT:http-origin=https://epiembeds.online
 https://epidd.hundxvision.co.uk/main/secure/db221338f6cdfea183f4937fa61250afce808e37efc0f845677eca63f32a80d4/1789894361/skysport1-nz.m3u8
+#EXTINF:-1 tvg-id="SkySports1NZ" tvg-name="Sky Sports 1 NZ" group-title="Sports NZ",Sky Sports 1 NZ
+https://epidd.hundxvision.co.uk/main/secure/db221338f6cdfea183f4937fa61250afce808e37efc0f845677eca63f32a80d4/1789894361/skysport1-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
+
+#EXTINF:-1 tvg-id="SkySports2NZ" tvg-name="Sky Sports 2 NZ" group-title="Sports NZ",Sky Sports 2 NZ
+https://epidd.hundxvision.co.uk/main/secure/1f41ca3b234eb1a51ff2b61a6296de4cadefef62ec01aa710adfc0fb7b148c34/1789894601/skysport2-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
+
+#EXTINF:-1 tvg-id="SkySports3NZ" tvg-name="Sky Sports 3 NZ" group-title="Sports NZ",Sky Sports 3 NZ
+https://epidd.hundxvision.co.uk/main/secure/82ec413a0914cf8179dfc5a4ebb5b46ad612b348b68c82d569b124a057df05b4/1789894671/skysport3-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
+
+#EXTINF:-1 tvg-id="SkySports4NZ" tvg-name="Sky Sports 4 NZ" group-title="Sports NZ",Sky Sports 4 NZ
+https://epidd.hundxvision.co.uk/main/secure/2f9fa63d0bf599dff9986aa018fb964717d45ebeef5cea0c3181861cdc8a76f8/1789894704/skysport4-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
+
+#EXTINF:-1 tvg-id="SkySports5NZ" tvg-name="Sky Sports 5 NZ" group-title="Sports NZ",Sky Sports 5 NZ
+https://epidd.hundxvision.co.uk/main/secure/dbf76362a0463571b7d0b67f8bcc0a56e9ef9854d5aa6066cef16154abd2a7da/1789894736/skysport5-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
+
+#EXTINF:-1 tvg-id="SkySports6NZ" tvg-name="Sky Sports 6 NZ" group-title="Sports NZ",Sky Sports 6 NZ
+https://epidd.hundxvision.co.uk/main/secure/af18bb83b94022fbf1b005f74ef5739044b46d59cb69cbd62dd843b26e8bfa8c/1789894767/skysport6-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
+
+#EXTINF:-1 tvg-id="SkySports7NZ" tvg-name="Sky Sports 7 NZ" group-title="Sports NZ",Sky Sports 7 NZ
+https://epidd.hundxvision.co.uk/main/secure/926417705bad245cece70e5c6f9cffc3905e990a413c131aa28a4c685c071bb0/1789894821/skysport7-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
+
+#EXTINF:-1 tvg-id="SkySports8NZ" tvg-name="Sky Sports 8 NZ" group-title="Sports NZ",Sky Sports 8 NZ
+https://epidd.hundxvision.co.uk/main/secure/fa3122de58451a5441548d85a6c9d47c0d0a658976fe994c6ac9caa86496c5f5/1789894848/skysport8-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
+
+#EXTINF:-1 tvg-id="SkySports9NZ" tvg-name="Sky Sports 9 NZ" group-title="Sports NZ",Sky Sports 9 NZ
+https://epidd.hundxvision.co.uk/main/secure/5ff5ae712e13ef6abbdd86a7ea082e9baf5dbb8c085d7d0d4bb50a10187c4018/1789894881/skysport9-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
+
+#EXTINF:-1 tvg-id="SkySportsSelectNZ" tvg-name="Sky Sports Select NZ" group-title="Sports NZ",Sky Sports Select
+https://epidd.hundxvision.co.uk/main/secure/4abb53d944e6737218890182e8941725c71c3d9d81a2e2efcd2e7d880f9b5084/1789894911/skysportselect-nz.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/153.0.0.0%20Safari/537.36&Referer=https://epiembeds.online/&Origin=https://epiembeds.online
 
 #EXTINF:-1 group-title="🏆|Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg", Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
