@@ -1,4 +1,11 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Sky-Sports-1-NZ" tvg-name="Sky Sports 1 NZ" group-title="Sports",Sky Sports 1 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://epiembeds.online/
+#EXTVLCOPT:http-origin=https://epiembeds.online
+https://epidd.hundxvision.co.uk/main/secure/db221338f6cdfea183f4937fa61250afce808e37efc0f845677eca63f32a80d4/1789894361/skysport1-nz.m3u8
+
 #EXTINF:-1 group-title="🏆|Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg", Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
