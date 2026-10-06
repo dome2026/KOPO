@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Volleyball EPG">
+
+  <!-- รายชื่อช่อง (Channels) -->
+  <channel id="volley.mielec.bydgoszcz">
+    <display-name lang="th">ITA TOOLS STAL Mielec - Metalkas Palac Bydgoszcz</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/o77SmdgS/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.budowlani.lks">
+    <display-name lang="th">PGE Budowlani Lodz - LKS Commercecon Lodz</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/0M2D5RVy/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.hisamitsu.aileeza.a">
+    <display-name lang="th">Saga Hisamitsu Springs - Aleeza Aichi (Round 1-A)</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/3lUYovUN/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.hisamitsu.aileeza.b">
+    <display-name lang="th">Saga Hisamitsu Springs - Aleeza Aichi (Round 1-B)</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/bz9TizPd/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.uni.bks">
+    <display-name lang="th">UNI Opole - BKS ZGO Bielsko-Biala</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/904nXp4U/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.rzeszow.mogilno">
+    <display-name lang="th">KS DevelopRes Rzeszow - Sokol &amp; Hagric Mogilno</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/nAHvb6wu/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.chemik.kalisz">
+    <display-name lang="th">LOTTO Chemik Police - NETLAND MKS Kalisz</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/FDy4GD5R/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.radomka.wroclaw">
+    <display-name lang="th">MOYA Radomka Radom - VolleyWroclaw</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/ywrcM4KW/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.katowice.zawiercie">
+    <display-name lang="th">GKS Katowice - Aluron CMC Warta Zawiercie</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/SPpaNgMg/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.warszawa.olsztyn">
+    <display-name lang="th">PGE Projekt Warszawa - Indykpol AZS Olsztyn</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/0X8d9SGu/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.tokyo.hokkaido">
+    <display-name lang="th">Tokyo Great Bears - Hokkaido Yellow Stars</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/q9vgujGq/poster.jpg?width=1920" />
+  </channel>
+
+  <channel id="volley.verona.civitanova">
+    <display-name lang="th">Rana Verona - Cucine Lube Civitanova</display-name>
+    <icon src="https://cdn.jwplayer.com/v2/media/1XWsrO1H/poster.jpg?width=1920" />
+  </channel>
+
+
+  <!-- ตารางเวลารายการ (Programmes - เวลาไทย UTC+7) -->
+
+  <!-- 1. 09/10/2026 22:30 -->
+  <programme start="20261009223000 +0700" stop="20261010003000 +0700" channel="volley.mielec.bydgoszcz">
+    <title lang="th">ITA TOOLS STAL Mielec - Metalkas Palac Bydgoszcz | Round 2</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 2. 10/10/2026 01:30 -->
+  <programme start="20261010013000 +0700" stop="20261010033000 +0700" channel="volley.budowlani.lks">
+    <title lang="th">PGE Budowlani Lodz - LKS Commercecon Lodz | Round 2</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 3. 10/10/2026 16:05 -->
+  <programme start="20261010160500 +0700" stop="20261010180500 +0700" channel="volley.hisamitsu.aileeza.a">
+    <title lang="th">Saga Hisamitsu Springs - Aleeza Aichi | Round 1-A</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 4. 11/10/2026 16:05 -->
+  <programme start="20261011160500 +0700" stop="20261011180500 +0700" channel="volley.hisamitsu.aileeza.b">
+    <title lang="th">Saga Hisamitsu Springs - Aleeza Aichi | Round 1-B</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 5. 11/10/2026 20:00 -->
+  <programme start="20261011200000 +0700" stop="20261011220000 +0700" channel="volley.uni.bks">
+    <title lang="th">UNI Opole - BKS ZGO Bielsko-Biala | Round 2</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 6. 12/10/2026 22:30 -->
+  <programme start="20261012223000 +0700" stop="20261013003000 +0700" channel="volley.rzeszow.mogilno">
+    <title lang="th">KS DevelopRes Rzeszow - Sokol &amp; Hagric Mogilno | Round 2</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 7. 13/10/2026 01:20 -->
+  <programme start="20261013012000 +0700" stop="20261013032000 +0700" channel="volley.chemik.kalisz">
+    <title lang="th">LOTTO Chemik Police - NETLAND MKS Kalisz | Round 2</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 8. 13/10/2026 22:20 -->
+  <programme start="20261013222000 +0700" stop="20261014002000 +0700" channel="volley.radomka.wroclaw">
+    <title lang="th">MOYA Radomka Radom - VolleyWroclaw | Round 2</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 9. 16/10/2026 22:30 -->
+  <programme start="20261016223000 +0700" stop="20261017003000 +0700" channel="volley.katowice.zawiercie">
+    <title lang="th">GKS Katowice - Aluron CMC Warta Zawiercie | Round 1</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 10. 17/10/2026 01:30 -->
+  <programme start="20261017013000 +0700" stop="20261017033000 +0700" channel="volley.warszawa.olsztyn">
+    <title lang="th">PGE Projekt Warszawa - Indykpol AZS Olsztyn | Round 1</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 11. 17/10/2026 11:55 -->
+  <programme start="20261017115500 +0700" stop="20261017135500 +0700" channel="volley.tokyo.hokkaido">
+    <title lang="th">Tokyo Great Bears - Hokkaido Yellow Stars | Round 3-A</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+  <!-- 12. 17/10/2026 23:00 -->
+  <programme start="20261017230000 +0700" stop="20261018010000 +0700" channel="volley.verona.civitanova">
+    <title lang="th">Rana Verona - Cucine Lube Civitanova | Round 1</title>
+    <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
+  </programme>
+
+</tv>
