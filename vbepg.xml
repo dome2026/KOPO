@@ -66,7 +66,7 @@
   <!-- ตารางเวลารายการ (Programmes - เวลาไทย UTC+7) -->
 
   <!-- 1. 09/10/2026 22:30 -->
-  <programme start="20261009223000 +0700" stop="20261010003000 +0700" channel="volley.mielec.bydgoszcz">
+  <programme start="20261009223000 +0700" stop="20261010013000 +0700" channel="volley.mielec.bydgoszcz">
     <title lang="th">ITA TOOLS STAL Mielec - Metalkas Palac Bydgoszcz | Round 2</title>
     <desc lang="th">ถ่ายทอดสดวอลเลย์บอล</desc>
   </programme>
