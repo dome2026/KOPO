@@ -328,6 +328,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" ,DSports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db71325e4256f5f16b348b3b1b7832a:c664b811a97edc555da47c1d22482542
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,DSports +
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da81f7165f73c884fc1dcf0bf3bd4bb5:3f8d519997196db76631dd4b427f53f6
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/CazeTV.png?raw=true" ,CAZE TV 1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
@@ -338,10 +352,31 @@ https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1
 #KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/SporTV.png?raw=true",SporTV
+#EXTINF:-1 tvg-logo="" ,CAZE TV 3 FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 05ee4857fcaf6b8e698df8563c605883:878a64a3b7d491a29d64fe5903da4553
+https://otte.cache.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/yhb1qonlmm/out/v1/294da0fd7fd14831ba0f42cee9f3d24d/87e9bb4b-6ce1-427d-b176-9a143e69c7c0-cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/dome2026/KOPO/blob/main/logo/SporTV.png?raw=true",SporTV BR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,SporTV 2 BR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2357a3e2fe6f07c42c00ee9eec769a27:061d7a73d6f4b13160e3d9fdbc154a0a
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/orhlovwjv8/out/v1/3fbdf8c3ec6743d085d32dace1764176/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,SporTV 3 BR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1eb59f8af473ba27994af89b8e5c554c:114b3cc4eca9895b3d4cfde38f1f6d61
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/g6fcpfaeeu/out/v1/d6a42c54e38549028b9bb5d888b20280/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" ,TSN 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -486,203 +521,270 @@ https://bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,CBS Golazo Network
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,CBS New York
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=421b7a258a557c073110d2bd0aa335ba:4d7481264fdffb9b7cc05bf490e62ad2
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/8kmy1rjdu3/out/v1/53c15187903449e6971e0817d79d7cca/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,CBS Chicago
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=780cb0938d1399fa631bd6c0b868e560:f8529525ed53f542de966ad548c59f9c
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/p04avr57rr/out/v1/25ec3c73680045ce86858d701763a70c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Fancode 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Fancode 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,FOX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Fox Deportes
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Fox Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Fubo Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Fubo Sports USA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Premier League TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://cors-anywhere.froala.com/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Nova Sports 1 SK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Nova Sports 2 SK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,One Championship
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Sport 1 CZ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Sport 2 CZ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Sport1 DE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
+https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Sportdigital Edge DE
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13066/13066_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Sportdigital FUSSBALL DE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Sportdigital FUSSBALL 2 DE
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Sportsnet 360
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="",Premiere Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="",Premiere Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="",Premiere Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="",Premiere Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="",Premiere Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,EUROSPORT 1 RU
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=fda6b345a0e358e4bf9b3a8744c95989:dfa30f9e99a79c45093f2d327e20fd27,736b73ff6ae85b03a12899bfd19bd2fc:0f58101f625f0fd57bbc2e81c9268b48,be954725089e59cb81fc7a9d7fa20c2f:b19f20556626efa88763b74362813c47
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/52_HTTP/__op/dash-default/__f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,EUROSPORT 2 RU
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0601b071942852588559064bae00e2ee:6619fb83b13c0173a126b42087e7c7a8,8e1e45444c2c59b4a701c0bfabe0836d:87fbe8e79e3682ee40166926e83a36a2,e2774056074a5441841c6bc90a1a6dcd:b233a69e9a13637947fb5da72150d092
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/46_HTTP/__op/dash-default/__f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,NATGEO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=a9f4da0200345014b7df14efa3472cb3:718ce9e597b96d5096fe34bca927db37,1a8f7bd0d011599ba6daca7f7058a017:731678b9fc62c83a18b89a30383573c6,7aaab666c9f65111a68e2b458132f972:99958813cafed974770da23ac80ce5eb
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/8_HTTP/__op/dash-default/__f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,SETANTA SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=5f3213807cfb5887b12faf17892530ba:a0289eb8fb1508a81f1cf84acff2e44e,229c33cfd61455a8bb8a4aedf77d72b4:5ddfb6e78ea93db5ffb855599667f2ad,57329e961d4a50ac88f4f2fb15ef5323:bea93ea08795787dfe1b842848775c97
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/64_HTTP/__op/dash-default/__f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,ELEVEN SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=4853dbe4c4cf51f3ba95424c6e6f69c7:39c0346198bc9b1614eb319115afdb84,751db0bb03145084973c6cf9c85fa16e:6571153c39eed18c29cdc63eb83c553a,fd9b5f8ae64a51edacd4f245ef515287:c867d24646b170b5c0e0556b56b291d7
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,ELEVEN SPORTS 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=a118a928ea39552f976c8fad437f71ad:f58fb7a53ee86de9d0b9823446ba9756,78f826af752f54ddbc4ad9959ff2a42d:c1479ffada263000730d627a989e96ab,95c2aefadb7e522c9deeed393207f853:16e857224e16ab01a3c549212cdbdbb8
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,ELEVEN SPORTS 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=d895d50a5a0f55758d31f247e6743815:9f4882e56631edb0da1c7bf1e0fa4904,e3a9d5c27a6d5eac955daf5a1a640c69:4c2e674f97ff33c5de13032b92e78bc9,e3dd9d531eee578fbd08c87de8ab84d5:133e5a170236f4ba5930f5ba4213ee03
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports3/default/index.mpd
+
+#EXTINF:-1 tvg-logo="" ,ELEVEN SPORTS 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37b0bbf897ad5bd5a3ec19b5a91f54f9:3e84e6b93e19197d5aea59ef8ad9d270,54a7d8f8dbee564981beb470f22b529b:a0e341fec141f8733c0805f5480762ba,14e62b5f16385a139e2a1c747b8b1cc4:0cece074b5f3fabc76fc9ed109b3819d
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports4/default/index.mpd
+
+#EXTINF:-1 tvg-logo="" ,POLSAT SPORT FIGHT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32b3354096315c15b4a3cba28e3b54a1:db99f221d3bb5f0b4af19c641e47c8d8,ebe8a6a869fa551890a4cd14f4bbeaf0:14b9cf0aab42d1ac53631c45421f043f,a54032aac3995caf84b4701d349b4cfd:c4869694ff70677188fadc76ff374d98
+https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsportfight/default/index.mpd
+
+#EXTINF:-1 tvg-logo="" ,POLSAT GAMES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a16c0a6a9ec351bc8e723790cda52cbf:036fe3632e72a686259a60faba70a13a,132f9c6a916a59eb96188f6d9c60b77d:cd9b9c5af8d3a514eec60fd97053ffc3,b45508b33d0b559894c62eb4ca512628:2f82f9a2e12339260c0194d252095301
+https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatgames/default/index.mpd
+
+#EXTINF:-1 tvg-logo="" ,CANAL+ SPORT 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f188c181db4853daba8be7141bfa3eea:5252255b9620418eaa6a661f2c90bb92,2a6938ad390852c6b7cdba49e8345872:191e608cd18b49076809a37ff5ecd142,f6af408c09b95249bb312f4705acaca2:f54b85aa5bc8ea64f01503d567b08034
+https://lineartv-cdn.t-mobile.pl/bpk-tv/nsportplus/default/index.mpd
+
+#EXTINF:-1 tvg-logo="" ,POLSAT SPORT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=643d9c2974a35d61912d35bb214a3a75:5eefb9350af7726c2f594e20d98d06f7,b85c3ede1e37564aab707d2cb6d3f18c:2f4f6594c787f4598b9e9ec12260c67b,6bd7e8896db35f79b6cd15c658d87489:b941e07ba1895a795bde83c6bcdf575b
+https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsport/default/index.mpd
 
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
