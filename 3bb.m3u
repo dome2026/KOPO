@@ -443,6 +443,8 @@ https://lpnba.akamaized.net/live-pz/p/hls-wvpr/g0012600049por1000473sac/index.m3
 
 #EXTINF:-1 tvg-logo="",NBA 5
 #KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://tool.djdoolky76.net/
+#EXTVLCOPT:http-origin=https://playerkltratv.pages.dev
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00de99de6f7b699d45dc7f8fe3ce93b0:be7d26594b8fae710dbec42886339543
