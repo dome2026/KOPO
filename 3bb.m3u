@@ -779,30 +779,33 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatgames/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f188c181db4853daba8be7141bfa3eea:5252255b9620418eaa6a661f2c90bb92,2a6938ad390852c6b7cdba49e8345872:191e608cd18b49076809a37ff5ecd142,f6af408c09b95249bb312f4705acaca2:f54b85aa5bc8ea64f01503d567b08034
 https://lineartv-cdn.t-mobile.pl/bpk-tv/nsportplus/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" ,POLSAT SPORT
+#EXTINF:-1 tvg-logo="" ,POLSAT SPORT 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=643d9c2974a35d61912d35bb214a3a75:5eefb9350af7726c2f594e20d98d06f7,b85c3ede1e37564aab707d2cb6d3f18c:2f4f6594c787f4598b9e9ec12260c67b,6bd7e8896db35f79b6cd15c658d87489:b941e07ba1895a795bde83c6bcdf575b
 https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsport/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,POLSAT SPORT 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=311b601dac0d5545b0ce05216db151f1:a4b2722e5eb1ad1026164946e19e2d22,160eda74a84c55a8b16d926fc2fcaeb0:743ec9d72ce52ea45b50935b7bba08c6,6b20d89d955750c8b9ef1d1280dadf09:3be0b6a5a94f9c21676bb30d411b11f8
+https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsportextra/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,POLSAT SPORT 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=1734700a37445a89ab893dbb4a20dbf6:b459d1b3d5f66cb8af7994b6d20be158,917b302db9895ea4be14d4f6fa05033f:5097c1c297e0ff225c85918216b5f90d,4c7f7f2f21e055308af76fe43c314010:a75ab3827153b31861a4aaccbb32c578
+https://lineartv-cdn.t-mobile.pl/bpk-tv/polsatsportnews/default/index.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,TSN 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
