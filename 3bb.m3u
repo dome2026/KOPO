@@ -443,51 +443,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,NBA 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c25da5b0fd046c41d035c14b17bba04:46e27228053bdc2401aba19aec02705f
-https://lpnba.akamaized.net/live-pz/p/hls-wvpr/g0012600045cle1000453orl/index.m3u8?start=2026-10-13T15%3A44%3A00.000Z&end=END&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F106.0.0.0%2520Safari%252F537.36&dai-debug=false&sessionId=42243120-daca-4cd6-a630-ebc908fb9d50
-
-#EXTINF:-1 tvg-logo="" ,NBA 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b856ef7bcf0861dab9c6b1873a38cff1:dabfcaa6104e493cfc69e4f7da25fed5
-https://lpnba.akamaized.net/live-pz/p/hls-wvpr/g0012600046nyk1000475tor/index.m3u8?start=2026-10-13T15%3A44%3A00.000Z&end=END&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F106.0.0.0%2520Safari%252F537.36&dai-debug=false&sessionId=e29d3d1d-d924-4743-99ca-16d36bc9bd2b
-
-#EXTINF:-1 tvg-logo="" ,NBA 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=015b642d37c75639773985dbf2ae0208:e9c37213c1a8e0805fd430adb7decf87
-https://lpnba.akamaized.net/live-pz/p/hls-wvpr/g0012600047ind1000468okc/index.m3u8?start=2026-10-13T15%3A44%3A00.000Z&end=END&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F106.0.0.0%2520Safari%252F537.36&dai-debug=false&sessionId=b7ba706d-3915-4533-8066-3e1bcdfb3081
-
-#EXTINF:-1 tvg-logo="" ,NBA 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33b6eeb60dc3c759c31ce7eb8ae220a4:90db15dc1c8dffb8d3dff51054b4a852
-https://lpnba.akamaized.net/live-pz/p/hls-wvpr/g0012600048gsw1000461lal/index.m3u8?start=2026-10-13T15%3A44%3A00.000Z&end=END&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F106.0.0.0%2520Safari%252F537.36&dai-debug=false&sessionId=d72f4e9a-71ee-4fd4-83bc-31486aa723c0
-
-#EXTINF:-1 tvg-logo="" ,NBA 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00de99de6f7b699d45dc7f8fe3ce93b0:be7d26594b8fae710dbec42886339543
-https://lpnba.akamaized.net/live-pz/p/hls-wvpr/g0012600049por1000473sac/index.m3u8?start=2026-10-13T15%3A44%3A00.000Z&end=END&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F106.0.0.0%2520Safari%252F537.36&dai-debug=false&sessionId=38c664e3-8ec4-467d-a461-c0ffc0460ab0
-
-#EXTINF:-1 tvg-logo="",NBA 5
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://tool.djdoolky76.net/
-#EXTVLCOPT:http-origin=https://playerkltratv.pages.dev
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00de99de6f7b699d45dc7f8fe3ce93b0:be7d26594b8fae710dbec42886339543
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-https://lpnba.akamaized.net/live-pz/p/hls-wvpr/g0012600049por1000473sac/index.m3u8?start=2026-10-13T15%3A44%3A00.000Z&end=END&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%252F5.0%2520%28Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Chrome%252F106.0.0.0%2520Safari%252F537.36&dai-debug=false&sessionId=38c664e3-8ec4-467d-a461-c0ffc0460ab0
-
 #EXTINF:-1 tvg-logo="" ,PREMIER SPORT 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -963,35 +918,40 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 #KODIPROP:inputstream.adaptive.license_key=ee006164b310e28bd9f45a881acc5e50:062b86811d13cb3305bdf42e0cc99cbf
 https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/uskpue2obh/out/v1/691ee6c655ba4f9a90bdc266ded318bd/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Peacock
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=de3bad62a3922317ba81195fd4fe206e:193fb9f9567c6fe09386dcad10740aa6
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/0adhtl1eln/out/v1/e47e5362be2c4cd58ee20824efde862c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,Peacock
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=963c328c0bfda724bc8b8e6be6c8ed1e:fa41edcc3d5633497fe3c883b8f14c1b
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/tdyqhqd7il/out/v1/b57d5461342d4c32b48ce6e1f69b345a/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,DAZN FR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=12ac2de7629f0e81b13d24680d327686:c985d2a1fbc0ab71c147a5aa6598b162
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/nky2a8nb90/out/v1/8c7775ac3eb54dc1a0b7ee118f08aeb6/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,beIN SPORTS ES
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/6poqa1gqqp/out/v1/2469724fa7754a4da6861d8ba80de958/ff986861-b242-46d2-a663-5a93e33b4035-cenc.mpd?aws_sessionId=173b6ba7-4cb8-43b9-82c2-033a10e848e7
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,SETANTA SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=229c33cfd61455a8bb8a4aedf77d72b4:5ddfb6e78ea93db5ffb855599667f2ad,57329e961d4a50ac88f4f2fb15ef5323:bea93ea08795787dfe1b842848775c97,5f3213807cfb5887b12faf17892530ba:a0289eb8fb1508a81f1cf84acff2e44e
+https://rigasa8-headend3-4020-p1.helio.lv/session/a30ed3d4-cafb-11f1-ab2a-f403434d0eec$h1.0$default/mqyd7j/__cl/cg:EDW-Production_HTTP/__c/64_HTTP/__op/dash-default/__f/manifest.mpd?token=cec120e08d257e063eb764d4af902296_1792418154_1792418154
 
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
