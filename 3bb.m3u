@@ -911,34 +911,6 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" ,DAZN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee006164b310e28bd9f45a881acc5e50:062b86811d13cb3305bdf42e0cc99cbf
-https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/uskpue2obh/out/v1/691ee6c655ba4f9a90bdc266ded318bd/cenc.mpd
-
-#EXTINF:-1 tvg-logo="" ,Peacock
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de3bad62a3922317ba81195fd4fe206e:193fb9f9567c6fe09386dcad10740aa6
-https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/0adhtl1eln/out/v1/e47e5362be2c4cd58ee20824efde862c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="" ,Peacock
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=963c328c0bfda724bc8b8e6be6c8ed1e:fa41edcc3d5633497fe3c883b8f14c1b
-https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/tdyqhqd7il/out/v1/b57d5461342d4c32b48ce6e1f69b345a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="" ,DAZN FR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12ac2de7629f0e81b13d24680d327686:c985d2a1fbc0ab71c147a5aa6598b162
-https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/nky2a8nb90/out/v1/8c7775ac3eb54dc1a0b7ee118f08aeb6/cenc.mpd
-
 #EXTINF:-1 tvg-logo="" ,beIN SPORTS ES
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -974,11 +946,9 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=955d0c85305931a3c53c0893b45e394e:658bb9202ba7b35cef039f5025084903
 https://otte.cache.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/k1dtyvtftn/out/v1/8858a897c068473ca2cf15187a25d4c0/a53a901c-4a02-4d9f-9e75-197a53283ad1-cenc.mpd?aws_sessionId=c7032e6b-6463-4d6d-9fe1-007f7ef8cca1
 
-#EXTINF:-1 tvg-logo="" ,
+#EXTINF:-1 tvg-logo="" ,CBS LA
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/62aaf6bd-3a0d-421b-8ea6-8ca8ff64a609:DLS/master.m3u8?CMCD=mtp%3D1000%2Cot%3Dm%2Csf%3Dh%2Csid%3D"8d0699f1-24da-460e-805a-009d03fde604"%2Csu
 
 #EXTINF:-1 tvg-logo="" ,
 #KODIPROP:inputstream=inputstream.adaptive
