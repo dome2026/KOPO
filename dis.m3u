@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" ,โมอาน่า
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f0d59033e914dbea6ac2c69ca80d490:8cf158ce04c4e963777c4ba590f5b574
+https://vod-akc-ap-west-1.media.dssott.com/dvt2=exp=1795057086~url=%2Fps01%2Fdisney%2Ffa411b5a-4e50-48be-a3b4-b83e95c72bfc%2F~psid=d92eba10-8dac-418c-8d48-b1cf43470408~aid=50dc6d89-9fc6-4e4e-b5f8-54d1ab01cf31~did=67b8688c-0a22-4044-ae4e-3c91dc422994~country=TH~kid=k02~hmac=c72c444b3d43f11aa8c87fdac0014ee5a638bfae2b3f8300c4c50e96e21802d8/ps01/disney/fa411b5a-4e50-48be-a3b4-b83e95c72bfc/una-ctr-all-dee81f3c-2fb2-4025-ab2d-f43216a6743d-a81db2ac-5180-4ad5-a543-8d94466ee5c4.m3u8?a=3&r=720&v=1&hash=ae04c8d91f86f4b80055180d62c5b54961991933
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
